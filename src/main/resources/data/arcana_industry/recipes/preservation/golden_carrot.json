@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:preservation",
+  "ingredient": {
+    "item": "minecraft:golden_carrot"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 8
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

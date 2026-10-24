@@ -1,0 +1,12 @@
+{
+  "title": "Lens Collimator",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 7",
+  "group": "Solar and optics",
+  "pages": [
+    "A second t7 apparatus. Craft it with a solar prism, a filtered prism, two sealed steel plates, a diffraction core, a hopper, a Photodetector Cell (right middle) and a Prism Separator. The cell is the beam detector used to align the collimator: craft a Photodiode Blank from a glass pane, a Germanium Wafer (Sawmill) and an indium ingot, then etch it in the Heliostat Etcher. A plain glass pane or the unetched blank is rejected. Material update: crafting slot 4 (row-major 3x3) now requires an indium ingot via forge:ingots/indium; all existing progression gates remain required.",
+    "Feed one item into the left slot. The collimator spends 20 FE/t for 150 ticks and yields a single focused result in the right slot; unlike the Prism Separator there is no second byproduct channel. Collimating two solar prisms yields the Collimated Lens, the next lattice-stage material.",
+    "Twenty datapack recipes cover glass, light-source and optical salvage. A sea lantern collimates back into a single glowstone block, so polishing and collimating never multiply glowstone. Four tinted glass blocks collimate into four clear glass blocks; since the Phase Annealer tints glass one-for-one, alternating the two machines cannot create glass. JEI displays the result and FE. Recipe type arcana_industry:collimation accepts ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; equal priority uses recipe ID.",
+    "Top and horizontal sides import; bottom exports the result. Side mode buttons configure each face. Supply FE by capability or manual crank. The machine pauses if the output slot is full; inventory, FE, work progress and side modes persist. Breaking it drops both slots. The Lattice Composer now requires one Collimated Lens in place of one of its four sealed steel plate corners."
+  ]
+}

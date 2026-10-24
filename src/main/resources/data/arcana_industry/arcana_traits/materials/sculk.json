@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:sculk"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 1,
+    "arcana_industry:umbral": 1
+  }
+}

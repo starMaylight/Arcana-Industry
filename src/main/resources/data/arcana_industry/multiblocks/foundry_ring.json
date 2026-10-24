@@ -1,0 +1,249 @@
+{
+  "id": "arcana_industry:foundry_ring",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/FoundryRingBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:lava[source]"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:furnace"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:furnace"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:furnace"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:furnace"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:bricks"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:bricks"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:bricks"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:bricks"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:cauldron"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:cauldron"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:copper_block",
+          "minecraft:iron_bars",
+          "minecraft:copper_block"
+        ],
+        [
+          "minecraft:iron_bars",
+          ".",
+          "minecraft:iron_bars"
+        ],
+        [
+          "minecraft:cauldron",
+          "minecraft:iron_bars",
+          "minecraft:cauldron"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:bricks",
+          "minecraft:furnace",
+          "minecraft:bricks"
+        ],
+        [
+          "minecraft:furnace",
+          "[controller]",
+          "minecraft:furnace"
+        ],
+        [
+          "minecraft:bricks",
+          ".",
+          "minecraft:bricks"
+        ],
+        [
+          ".",
+          "minecraft:furnace",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:iron_block",
+          "minecraft:stone_bricks",
+          "minecraft:iron_block"
+        ],
+        [
+          "minecraft:stone_bricks",
+          "minecraft:lava[source]",
+          "minecraft:stone_bricks"
+        ],
+        [
+          "minecraft:iron_block",
+          "minecraft:stone_bricks",
+          "minecraft:iron_block"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

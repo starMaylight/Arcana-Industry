@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:welding",
+  "ingredient": {
+    "tag": "forge:ingots/cobalt"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:shears",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 22
+}

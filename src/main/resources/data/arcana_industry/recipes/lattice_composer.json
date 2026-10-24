@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XPL",
+    "GCG",
+    "HRS"
+  ],
+  "key": {
+    "X": {
+      "item": "arcana_industry:collimated_lens"
+    },
+    "S": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "P": {
+      "item": "arcana_industry:prism_core"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "R": {
+      "item": "arcana_industry:prism_separator"
+    },
+    "L": {
+      "item": "arcana_industry:laminated_lattice"
+    },
+    "H": {
+      "item": "arcana_industry:core_halo"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:lattice_composer"
+  }
+}

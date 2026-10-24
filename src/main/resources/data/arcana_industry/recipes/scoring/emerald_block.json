@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:scoring",
+  "ingredient": {
+    "item": "minecraft:emerald_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 9
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

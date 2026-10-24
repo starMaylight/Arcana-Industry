@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "arcana_industry:copper_grit"
+  },
+  "result": {
+    "item": "arcana_industry:annealed_copper",
+    "count": 1
+  },
+  "duration": 200,
+  "temperature": 900
+}

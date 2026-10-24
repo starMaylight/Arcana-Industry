@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "item": "arcana_industry:prism_core"
+  },
+  "binder": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:phase_lattice",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

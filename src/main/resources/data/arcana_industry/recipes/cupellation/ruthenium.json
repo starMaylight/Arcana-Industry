@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/ruthenium"
+  },
+  "count": 3,
+  "levels": 3,
+  "result": {
+    "item": "arcana_industry:ruthenium_ingot",
+    "count": 2
+  },
+  "byproduct": {
+    "item": "arcana_industry:rhodium_ingot"
+  }
+}

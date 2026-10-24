@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PKP",
+    "ZCG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "K": {
+      "item": "arcana_industry:inverted_phase"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:phase_inverter"
+    },
+    "Z": {
+      "tag": "forge:ingots/thallium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_modulator"
+  }
+}

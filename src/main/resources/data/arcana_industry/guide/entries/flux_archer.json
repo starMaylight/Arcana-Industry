@@ -1,0 +1,11 @@
+{
+  "title": "Flux Archer",
+  "category": "arcana_industry:bestiary",
+  "chapter": "All tiers",
+  "group": "Industrial hazards",
+  "pages": [
+    "Flux Archers guard dark stony peaks, frozen peaks and stony shores. They fight at bow range rather than rushing a workshop. Each arrow carries a five-second slowing charge, making exposed cliff paths dangerous. Use cover and light travel routes before carrying ore uphill.",
+    "A defeated Flux Archer always drops gold grit. Smelt or blast the grit into a gold ingot, or run it through the leaching vat for material recovery. This gives a renewable gold source once ranged threats can be handled reliably.",
+    "Rare trophy: when a player lands the killing blow, a Flux Archer sometimes also drops a Flux Fletching (35% base, +10% per Looting level). The fletching is found only on this mob. Crush it in the Crusher for two gold grit, twice the archer's guaranteed drop; smelt each grit into a gold ingot or leach four grit into five ingots."
+  ]
+}

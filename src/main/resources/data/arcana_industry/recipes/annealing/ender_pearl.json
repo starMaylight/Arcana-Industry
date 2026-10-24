@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:ender_pearl"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:ender_eye",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

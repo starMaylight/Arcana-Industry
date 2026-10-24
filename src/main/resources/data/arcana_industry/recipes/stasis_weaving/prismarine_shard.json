@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:stasis_weaving",
+  "ingredient": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:prismarine_bricks"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

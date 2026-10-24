@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:welding",
+  "ingredient": {
+    "tag": "forge:ingots/niobium"
+  },
+  "count": 5,
+  "result": {
+    "item": "minecraft:hopper",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 22
+}

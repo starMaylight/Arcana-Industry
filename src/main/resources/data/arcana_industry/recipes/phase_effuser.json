@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PKP",
+    "GCG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "K": {
+      "item": "arcana_industry:preserved_phase"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:phase_preserver"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_effuser"
+  }
+}

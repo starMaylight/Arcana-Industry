@@ -1,0 +1,7 @@
+{
+  "description": "Resists bending and deformation.",
+  "opposes": [
+    "arcana_industry:flexible",
+    "arcana_industry:waxen"
+  ]
+}

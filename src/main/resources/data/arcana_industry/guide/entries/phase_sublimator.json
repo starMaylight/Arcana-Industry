@@ -1,0 +1,12 @@
+{
+  "title": "Phase Sublimator",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 8",
+  "group": "Phase works",
+  "pages": [
+    "A third t9 apparatus. Craft it with a Collapsed Phase, three sealed steel plates, a Rated Pressure Shell (bottom left), two glass panes, a hopper and a Phase Collapser. The shell is the sealed chamber that holds the sublimating charge: weld a Pressure Shell Blank (two Flanged Rings around a Stainless Vessel Stock) in the Lattice Welder. A bare sealed plate cannot replace it.",
+    "Feed one item into the left slot. The sublimator spends 20 FE/t for 150 ticks and yields a single sealed result in the right slot; like the Phase Collapser there is no second byproduct channel. Sublimating two Collapsed Phase yields the Sublimated Phase, the next t10 progression material.",
+    "Twenty datapack recipes lift end-game drops, beacon-tier materials and rare mob/structure items into lighter loose forms. Sublimation obeys the material-trait rule with no field: a product may only carry the traits of count x its input, so a material rises only into a form its own traits explain and never into its own upgrade. A beacon (luminous 5, crystalline 3, heavy 1) releases its nether star, while a nether star (luminous 4, crystalline 2) only rises into four glowstone, not into a beacon. A conduit (aqueous 5, rigid 3) releases its heart of the sea, while a heart only sheds two nautilus shells. An end crystal keeps the ghast tear it was built around, an elytra (buoyant 4, flexible 3) frays into phantom membranes, a shulker box returns its shells, four dragon's breath (umbral 2 each) cover an ender chest, four crying obsidian cover a respawn anchor's heat and glow, and two Collapsed Phase (luminous 1, resonant 1 each) cover the Sublimated Phase. A datapack row whose product needs other traits, such as a rabbit's foot becoming an elytra, pauses on status \"unexplained_traits\" without spending FE. JEI displays the result and FE. Recipe type arcana_industry:sublimation accepts ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; equal priority uses recipe ID.",
+    "Top and horizontal sides import; bottom exports the result. Side mode buttons configure each face. Supply FE by capability or manual crank. The machine pauses if the output slot is full; inventory, FE, work progress and side modes persist. Breaking it drops both slots. The Phase Reclaimer now requires one Sublimated Phase in place of one more of its four sealed steel plate corners."
+  ]
+}

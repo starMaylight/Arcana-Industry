@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "BDB",
+    "IPI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "C": {
+      "item": "arcana_industry:copper_cable"
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "D": {
+      "item": "arcana_industry:firebox_dynamo"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:boiler_turbine"
+  }
+}

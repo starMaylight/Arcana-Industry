@@ -1,0 +1,11 @@
+{
+  "title": "Germanium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 0",
+  "group": "Semimetals and electronic metals",
+  "pages": [
+    "Germanium Ore and Deepslate Germanium Ore generate deep in the Overworld between Y -64 and 16 (veins of size 6, at most one vein per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Germanium and Fortune can increase the yield. Required industrial use: lattice infuser. Its craft consumes this ingot; compatible forge:ingots/germanium inputs are accepted.",
+    "Smelt or blast Raw Germanium into Germanium Ingots. The Crusher processes one Raw Germanium into two Germanium Grit in 200 ticks at 6 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Germanium uses forge:ores/germanium, forge:raw_materials/germanium and forge:ingots/germanium tags. Datapacks can add matching recipes. Germanium completes the thirtieth and final modded ore family; the two-grit Crusher route yields two ingots per raw ore for 1,200 energy when Fortune is unavailable. The powered Lattice Laminator also laminates 2 forge:ingots/germanium into a spyglass in 160 ticks at 24 FE/t; spyglass recyclers return only a copper ingot, never germanium."
+  ]
+}

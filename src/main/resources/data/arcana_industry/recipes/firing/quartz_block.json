@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "minecraft:quartz_block"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:smooth_quartz",
+    "count": 5
+  },
+  "duration": 480,
+  "temperature": 800
+}

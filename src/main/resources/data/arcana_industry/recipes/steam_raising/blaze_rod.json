@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:blaze_rod"
+  },
+  "count": 2,
+  "residue": {
+    "item": "minecraft:blaze_powder",
+    "count": 2
+  },
+  "burn_time": 2400,
+  "steam_per_tick": 16,
+  "priority": 0
+}

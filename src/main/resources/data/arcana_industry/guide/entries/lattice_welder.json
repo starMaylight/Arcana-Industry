@@ -1,0 +1,12 @@
+{
+  "title": "Lattice Welder",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 7",
+  "group": "Lattice works",
+  "pages": [
+    "Craft with a Prism Core, Prism Separator, three sealed steel plates, glass panes, a hopper and one Servo Motor. The servo is the manipulator's position-controlled axis: craft it from a Rotary Encoder on top (feedback), two Stator Coils beside a Magnetized Core rotor, a Deep Groove Ball Bearing below and four sealed steel plates as the housing. A plain Wound Motor has no encoder and cannot replace it. This machine is available alongside the Lattice Scriber.",
+    "Insert material from the top or horizontal faces; extract results below. Configure side modes in the GUI. Provide 22 FE/t or use the crank. A full output pauses work; stored items, FE and progress survive chunk reload.",
+    "Weld two Sealed Steel Plates edge-to-edge into one Welded Plate, required in the Lattice Laminator craft. A single plate cannot start this operation. Twenty-two tagged metal recipes fabricate vanilla metal goods from mod ingots instead of iron, gold or copper, so these ores keep a use after their own tier: 2 cobalt -> shears, 4 iridium -> blast furnace, 3 manganese -> 8 rails, 3 bismuth -> bucket, 7 gallium -> cauldron, 6 thallium -> 16 iron bars, 2 antimony -> 2 chains, 2 palladium -> light and 2 rhodium -> heavy weighted pressure plate, 6 ruthenium -> 3 iron doors, 4 tantalum -> iron trapdoor, 5 zirconium -> minecart, 3 germanium -> lightning rod, 2 hafnium -> shield, 2 indium -> 2 lanterns, 2 molybdenum -> flint and steel, 5 niobium -> hopper, 24 osmium -> anvil, 4 platinum -> clock, 3 rhenium -> stonecutter, 2 titanium -> smithing table, 1 tungsten -> 2 tripwire hooks. Storage blocks are packed by the Compaction Spire or a crafting table, not here. JEI lists input, output, duration, FE and priority.",
+    "Rated Pressure Shell (seam welding): craft a Pressure Shell Blank from one Stainless Vessel Stock (Kiln) between two Flanged Rings (Flange Press) as the dished heads, then weld one blank for 240 ticks at 26 FE/t. The circumferential seams join the heads to the barrel and make a closed shell rated for pressure; the Phase Sublimator craft needs it. A plain sealed plate or the unwelded blank cannot replace the shell. Hoppers can feed blanks from the top and pull shells from the bottom like any other welding recipe."
+  ]
+}

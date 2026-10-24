@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:pedestal_rite",
+  "center": { "item": "minecraft:prismarine_crystals" },
+  "corner": { "item": "minecraft:prismarine_shard" },
+  "lumen_cost": 220,
+  "result": { "item": "minecraft:sea_lantern", "count": 1 }
+}

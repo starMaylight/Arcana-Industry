@@ -1,0 +1,11 @@
+{
+  "title": "Gallium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 3",
+  "group": "Semimetals and electronic metals",
+  "pages": [
+    "Gallium Ore and Deepslate Gallium Ore generate deep in the Overworld between Y -64 and 40 (veins of size 6, at most one vein per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Gallium and Fortune can increase the yield. Required industrial use: diffraction grate. Its craft consumes this ingot; compatible forge:ingots/gallium inputs are accepted.",
+    "Smelt or blast Raw Gallium into Gallium Ingots. The Crusher processes one Raw Gallium into two Gallium Grit in 200 ticks at 6 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Gallium uses forge:ores/gallium, forge:raw_materials/gallium and forge:ingots/gallium tags. Datapacks can add matching recipes. Gallium sits between Hafnium and Indium in generation height, so the two-grit Crusher route is a worthwhile trade of 1,200 energy per raw ore when fortune is unavailable. The powered Lattice Laminator also presses 2 forge:ingots/gallium into a daylight detector in 160 ticks at 24 FE/t; detector recyclers return only oak planks, never gallium."
+  ]
+}

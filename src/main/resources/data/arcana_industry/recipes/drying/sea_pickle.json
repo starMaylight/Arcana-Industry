@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:drying",
+  "ingredient": {
+    "item": "minecraft:sea_pickle"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:lime_dye",
+    "count": 5
+  },
+  "duration": 80,
+  "energy_per_tick": 8
+}

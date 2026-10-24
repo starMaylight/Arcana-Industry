@@ -1,0 +1,79 @@
+{
+  "id": "arcana_industry:provision_hearth",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/ProvisionHearthBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:campfire[lit=true]"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:smoker"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:smoker"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:smoker"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:smoker"
+    }
+  ],
+  "layers": [
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:smoker",
+          ".",
+          "minecraft:smoker"
+        ],
+        [
+          ".",
+          "[controller]",
+          "."
+        ],
+        [
+          "minecraft:smoker",
+          ".",
+          "minecraft:smoker"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:campfire[lit=true]",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

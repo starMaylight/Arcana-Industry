@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:mossy_stone_bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:stone_bricks"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

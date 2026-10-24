@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:smooth_stone",
+    "count": 5
+  },
+  "duration": 360,
+  "temperature": 600
+}

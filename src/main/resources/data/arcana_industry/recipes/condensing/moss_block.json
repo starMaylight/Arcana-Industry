@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:moss_block"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:moss_carpet",
+    "count": 8
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

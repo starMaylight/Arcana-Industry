@@ -1,0 +1,12 @@
+{
+  "title": "Phase Preserver",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 9",
+  "group": "Phase works",
+  "pages": [
+    "An eighth t9 apparatus. Craft it with a Stabilized Phase, four sealed steel plates, two glass panes, a hopper and a Phase Stabilizer.",
+    "Feed one item into the left slot. The preserver spends 20 FE/t for 150 ticks and yields a single sealed result in the right slot; like the other t9 units there is no second byproduct channel. Preserving two Stabilized Phase yields the Preserved Phase, which the Phase Effuser releases as the Effused Phase.",
+    "Twenty datapack recipes reclaim base ingredients from prepared food (bread, cake, cookie, baked potato, pumpkin pie, golden apple, golden carrot) and cooked dishes (cooked beef, porkchop, mutton, chicken, rabbit, cod, salmon, honey bottle, suspicious stew, rabbit stew, mushroom stew, beetroot soup). The three stews return their bowl; beetroot soup instead recovers two of its six beetroot, a useful dye and soup input. Preservation obeys the material-trait rule with no field: a product may only carry the traits of count x its input. Beef and porkchop keep their hide (flexible 2, as leather), chicken its plumage (buoyant 2, flexible 1, as a feather) and rabbit its pelt (flexible 1, buoyant 1), raw or cooked; two Stabilized Phase (luminous 1, resonant 1 each) cover the Preserved Phase. A datapack row whose product needs other traits, such as cooked beef returning a feather, pauses on status \"unexplained_traits\" without spending FE. JEI displays the result and FE. Recipe type arcana_industry:preservation accepts ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; equal priority uses recipe ID.",
+    "Top and horizontal sides import; bottom exports the result. Side mode buttons configure each face. Supply FE by capability or manual crank. The machine pauses if the output slot is full; inventory, FE, work progress and side modes persist. Breaking it drops both slots."
+  ]
+}

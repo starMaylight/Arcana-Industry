@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:welding",
+  "ingredient": {
+    "tag": "forge:ingots/thallium"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:iron_bars",
+    "count": 16
+  },
+  "duration": 160,
+  "energy_per_tick": 22
+}

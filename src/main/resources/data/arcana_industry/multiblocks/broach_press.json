@@ -1,0 +1,154 @@
+{
+  "id": "arcana_industry:broach_press",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/BroachPressBlock.java",
+  "orientation": "fixed_world_axis",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:sticky_piston[facing=up]"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:sticky_piston[facing=down]"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:redstone_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:emerald_block"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          "minecraft:iron_bars",
+          "minecraft:iron_block",
+          "minecraft:iron_bars"
+        ],
+        [
+          ".",
+          "minecraft:sticky_piston[facing=down]",
+          "."
+        ],
+        [
+          "minecraft:iron_bars",
+          "minecraft:iron_block",
+          "minecraft:iron_bars"
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:iron_bars",
+          "minecraft:redstone_block",
+          "minecraft:iron_bars"
+        ],
+        [
+          ".",
+          "[controller]",
+          "."
+        ],
+        [
+          "minecraft:iron_bars",
+          "minecraft:emerald_block",
+          "minecraft:iron_bars"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:sticky_piston[facing=up]",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ],
+  "axis": "north_south_only"
+}

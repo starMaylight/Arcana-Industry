@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "tag": "forge:ingots/rhenium"
+  },
+  "binder": {
+    "item": "minecraft:blaze_powder"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:fire_charge",
+    "count": 4
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

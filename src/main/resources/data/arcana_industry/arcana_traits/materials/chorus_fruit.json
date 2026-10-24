@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:chorus_fruit"
+  ],
+  "traits": {
+    "arcana_industry:buoyant": 1,
+    "arcana_industry:rigid": 1
+  }
+}

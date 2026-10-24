@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:magnetization",
+  "ingredient": {
+    "item": "minecraft:golden_helmet"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:golden_axe",
+    "count": 1
+  }
+}

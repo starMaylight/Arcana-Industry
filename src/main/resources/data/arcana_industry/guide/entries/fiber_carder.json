@@ -1,0 +1,13 @@
+{
+  "title": "Fiber Carder",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 0",
+  "group": "Mechanical processing",
+  "pages": [
+    "Build the Fiber Carder from three iron ingots, one Cast Fitting from the Mold Caster, two shears, one hopper, one white wool and a Milled Dowel from the Sawmill. Rows: fitting/dowel/iron; shears/hopper/shears; iron/wool/iron. The Sawmill and Mold Caster must both run first.",
+    "Crank by shift-right-clicking empty-handed for 80 FE or feed FE through a Forge energy capability. The left slot accepts plant material and the right slot exports Carded Fiber. Each face can be set Off, In or Out in the menu; the bottom defaults to Out. Settings and energy persist through save and load.",
+    "Carding has 22 recipes for crops, aquatic plants, vines, roots, moss and leaves. They make Carded Fiber: two units craft into four string, a renewable string route. Whole hay bales card into 20 fiber and dried kelp blocks into 10, one more per bale than carding the loose items. Another 17 jobs unpick fibrous goods at 4 FE/t: white wool, cobwebs or fishing rods to string; three rabbit hides (one fewer than crafting), saddles or item frames to leather; two grass to seeds; books to 3 paper and empty maps to 6 paper; bookshelves to 3 books; paintings and white beds to white wool; cactus to 2 green dye without smelting; lily pads to 2 green dye; pitcher plants to 3 cyan dye; dead bushes to 2 sticks; and two scaffolding to bamboo.",
+    "The Sieve now requires one Carded Fiber at the center of its string mesh, making carding part of the t0 mechanical progression. Hoppers and Forge item handlers can insert from In faces and extract from Out faces; energy storage is 16000 FE.",
+    "Datapacks can add carding recipes under data/<namespace>/recipes with type arcana_industry:carding. Fields: ingredient (item or tag), count, result, duration, energy_per_tick and priority. Highest priority wins; tied recipes use ascending ID. JEI displays input, output, time, FE, priority and the Fiber Carder catalyst; JEI is optional."
+  ]
+}

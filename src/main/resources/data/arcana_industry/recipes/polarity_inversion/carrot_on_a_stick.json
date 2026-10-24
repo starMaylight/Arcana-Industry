@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:polarity_inversion",
+  "ingredient": {
+    "item": "minecraft:carrot_on_a_stick"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:carrot",
+    "count": 1
+  }
+}

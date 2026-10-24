@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:tumbling",
+  "ingredient": {
+    "item": "minecraft:dripstone_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:pointed_dripstone",
+    "count": 2
+  },
+  "duration": 140,
+  "energy_per_tick": 24
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Reliquary Stand",
+  "category": "arcana_industry:arcana",
+  "chapter": "Tier 6",
+  "group": "Binding altars",
+  "pages": [
+    "Craft this eighth t6 controller with two Woven Sigil from the Heraldic Frame, four quartz pillars, two gilded blackstone and a soul lantern. The sigil is the progression gate.",
+    "Place a netherite block below and a soul lantern above. Put quartz pillars directly east and west, and gilded blackstone two blocks north and two blocks south, each on a polished blackstone brick step. This leaves the north and south faces open. All eight parts must remain in place. Right-click with a full input batch; breaking any arm stops production.",
+    "Twenty-three binding batches draw three pure ingots out of two grit of a furnace-smeltable metal, half again the furnace yield and without fire. The six refractory metals (chromium, niobium, tantalum, tungsten, vanadium and zirconium) bind two grit into one ingot, a fuel-free fallback for grit no furnace can melt. A fusion batch compresses two Woven Sigil into a Reliquary Core for the next t5 controller.",
+    "Right-click while holding a full batch to load exactly one batch into the stand; it binds over 40 ticks, and an empty-hand right-click collects the product. While a batch is loaded, further hand feeding is refused and consumes nothing. For automation, feed full batches through a hopper or Forge item pipe on the open north face. Sneak-right-click the open south face with an empty hand once to set output, then extract there with a pipe. One input stack and one output stack are buffered; each batch takes 40 ticks while formed and pauses if a part breaks. Another sneak-right-click disables a face, and empty-hand use collects buffered output. No FE or fluids are needed. JEI shows every loaded batch; matching ties resolve by resource ID."
+  ]
+}

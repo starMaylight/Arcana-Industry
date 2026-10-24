@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:lattice_engraving",
+  "ingredient": {
+    "tag": "forge:ingots/palladium"
+  },
+  "count": 5,
+  "result": {
+    "item": "minecraft:cauldron",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

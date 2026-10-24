@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SFS",
+    "KRK",
+    "SPM"
+  ],
+  "key": {
+    "S": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "F": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "K": {
+      "item": "minecraft:kelp"
+    },
+    "R": {
+      "item": "arcana_industry:refracted_phase"
+    },
+    "P": {
+      "item": "arcana_industry:phase_coil"
+    },
+    "M": {
+      "item": "arcana_industry:mechanical_face_seal"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_fermenter"
+  }
+}

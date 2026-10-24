@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:inversion",
+  "ingredient": {
+    "item": "minecraft:echo_shard"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:sculk_vein",
+    "count": 4
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

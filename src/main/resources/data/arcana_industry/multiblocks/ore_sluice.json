@@ -1,0 +1,183 @@
+{
+  "id": "arcana_industry:ore_sluice",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/OreSluiceBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -2,
+      "block": "minecraft:water[source]"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:water[source]"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:water[source]"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:water[source]"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 2,
+      "block": "minecraft:water[source]"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 2,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": -2,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 2,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": -2,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 2,
+      "block": "minecraft:stone_bricks"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          "minecraft:stone_bricks",
+          "minecraft:water[source]",
+          "minecraft:stone_bricks"
+        ],
+        [
+          "minecraft:stone_bricks",
+          "minecraft:water[source]",
+          "minecraft:stone_bricks"
+        ],
+        [
+          ".",
+          "minecraft:water[source]",
+          "."
+        ],
+        [
+          "minecraft:stone_bricks",
+          "minecraft:water[source]",
+          "minecraft:stone_bricks"
+        ],
+        [
+          "minecraft:stone_bricks",
+          "minecraft:water[source]",
+          "minecraft:stone_bricks"
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ],
+        [
+          "minecraft:copper_block",
+          "[controller]",
+          "minecraft:copper_block"
+        ],
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ]
+      ]
+    }
+  ]
+}

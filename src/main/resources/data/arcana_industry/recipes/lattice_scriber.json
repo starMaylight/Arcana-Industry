@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XSK",
+    "GCA",
+    "EBP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "K": {
+      "item": "arcana_industry:gauge_block"
+    },
+    "S": {
+      "item": "arcana_industry:prism_core"
+    },
+    "G": {
+      "item": "arcana_industry:rotary_encoder"
+    },
+    "A": {
+      "item": "arcana_industry:pneumatic_cylinder"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "X": {
+      "item": "arcana_industry:infused_lattice_core"
+    },
+    "B": {
+      "item": "arcana_industry:ball_screw"
+    },
+    "E": {
+      "item": "arcana_industry:linear_encoder"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:lattice_scriber"
+  }
+}

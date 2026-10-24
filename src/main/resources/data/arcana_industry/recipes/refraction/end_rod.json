@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:refraction",
+  "ingredient": {
+    "item": "minecraft:end_rod"
+  },
+  "count": 5,
+  "result": {
+    "item": "minecraft:blaze_rod",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

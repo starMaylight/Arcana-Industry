@@ -1,0 +1,12 @@
+{
+  "title": "Basalt Temperer",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 1",
+  "group": "Heat and firing",
+  "pages": [
+    "Build this t1 Thermal furnace from a Kiln, pistons, a furnace, blackstone and redstone. Feed FE to temper stone and mineral stock.",
+    "Temper one blackstone into Tempered Blackstone. Put it in the top-center slot of the Soaking Hearth controller craft; plain blackstone no longer works there.",
+    "Twenty datapack recipes of type arcana_industry:stone_tempering heat-treat stone, clay, ore, food and nether stock. Raw ore, stone, basalt, quartz, netherrack, red sand, kelp and chorus run in batches of 4 for 5. Each defines ingredient, count, result, duration, energy_per_tick and optional priority; JEI shows the loaded recipes.",
+    "Insert stock from top or sides, collect output below, and supply FE. Configure face modes in the menu; inventory, FE, progress and ports persist through reloads."
+  ]
+}

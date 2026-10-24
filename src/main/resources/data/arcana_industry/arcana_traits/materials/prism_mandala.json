@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:prism_mandala"
+  ],
+  "traits": {
+    "arcana_industry:crystalline": 3,
+    "arcana_industry:luminous": 4
+  }
+}

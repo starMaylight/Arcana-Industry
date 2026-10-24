@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:effusion",
+  "ingredient": {
+    "item": "minecraft:red_tulip"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 3
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

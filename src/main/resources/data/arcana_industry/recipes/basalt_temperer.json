@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BKB",
+    "PFP",
+    "BRB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:blackstone"
+    },
+    "K": {
+      "item": "arcana_industry:kiln"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:basalt_temperer"
+  }
+}

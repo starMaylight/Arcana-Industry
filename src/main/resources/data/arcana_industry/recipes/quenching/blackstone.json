@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:quenching",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "count": 1,
+  "fluid": "minecraft:water",
+  "fluid_amount": 125,
+  "result": {
+    "item": "minecraft:blackstone",
+    "count": 1
+  },
+  "duration": 60,
+  "energy_per_tick": 6
+}

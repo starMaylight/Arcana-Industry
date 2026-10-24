@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:fire_charge"
+  ],
+  "traits": {
+    "arcana_industry:fiery": 3
+  }
+}

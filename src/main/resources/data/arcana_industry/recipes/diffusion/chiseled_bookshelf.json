@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:diffusion",
+  "ingredient": {
+    "item": "minecraft:chiseled_bookshelf"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:book",
+    "count": 6
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

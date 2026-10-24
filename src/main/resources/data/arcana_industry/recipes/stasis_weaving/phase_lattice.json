@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:stasis_weaving",
+  "ingredient": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:stasis_core"
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

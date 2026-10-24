@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:fusing",
+  "ingredient": {
+    "item": "minecraft:warped_nylium"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:warped_wart_block",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 16,
+  "lumen_per_tick": 4
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Lattice Engraver",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 8",
+  "group": "Lattice works",
+  "pages": [
+    "Craft with a Prism Core, Prism Separator, Scribed Plate, three sealed steel plates, a hopper and a Programmed Logic Controller (middle right). The Scribed Plate and the controller both come from the Lattice Scriber and gate this t8 apparatus; a glass pane or an unscribed Logic Board Blank no longer fits the controller slot. Material update: crafting slot 4 (row-major 3x3) now requires a ruthenium ingot via forge:ingots/ruthenium; all existing progression gates remain required.",
+    "Feed a Prism Core to engrave an Etched Prism (120 ticks, 20 FE/t). The Etched Prism replaces the bottom-right plate in the Stasis Weaver craft and is its sole recipe producer.",
+    "Nineteen other recipes shape useful building and circuit substrates. Three tagged metal recipes engrave 2 indium ingots into a lantern, 2 osmium ingots into a heavy weighted pressure plate and 5 palladium ingots into a cauldron (160 ticks, 24 FE/t each). Stone, stone bricks, nether bricks, polished blackstone, purpur and red sandstone are engraved four at a time into five shaped blocks, beating the stonecutter. JEI lists inputs, outputs, time, power and priority. Datapacks use arcana_industry:lattice_engraving; highest priority wins, then recipe ID.",
+    "Top and horizontal faces import, bottom exports. Configure each face in the menu. FE capability or crank powers work. A full output pauses processing; inventory, FE, progress and sides persist. Breaking drops stored items."
+  ]
+}

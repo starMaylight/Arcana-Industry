@@ -1,0 +1,10 @@
+{
+  "title": "Compression Packing",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 1",
+  "group": "Pressing and forming",
+  "pages": [
+    "Braid four string around a charcoal core to make two Compression Packing rings. Card two plant inputs in the Fiber Carder, then craft two Carded Fiber into four string; charcoal comes from smelted logs. The dark ring is a simplified shaft gland seal, distinct from the bronze bushing that supports the shaft.",
+    "A Monel Pump Blank uses four nickel ingots, two copper ingots, one Sintered Bronze Bushing, one Compression Packing gland and one Rotary Lip Seal. Make the lip seal from a second Compression Packing, leather contact lip, iron-nugget garter spring and Bearing Grease; mix honeycomb wax with clay for two grease before the Prism Separator is available; later, Rendered Tallow from porkchop separation can replace the wax. Packing seals the stationary gland while the spring-loaded lip excludes splashes at the rotating shaft. Two blanks result; the Copper Hot Press turns each into a Bath Circulation Pump in 240 ticks at 14 FE/t. Feed its item input from above or sides and extract below. The Silvering Bath requires this pump; loose packing cannot replace the finished lip seal. JEI lists both crafts and the press route."
+  ]
+}

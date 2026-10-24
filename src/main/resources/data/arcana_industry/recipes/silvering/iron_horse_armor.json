@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:leather_horse_armor"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/chromium"
+  },
+  "result": {
+    "item": "minecraft:iron_horse_armor"
+  }
+}

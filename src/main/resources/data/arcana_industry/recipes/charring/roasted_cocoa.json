@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "item": "minecraft:cocoa_beans"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:brown_dye",
+    "count": 5
+  },
+  "duration": 60,
+  "energy_per_tick": 8,
+  "priority": 0
+}

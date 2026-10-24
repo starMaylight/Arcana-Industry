@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "F",
+    "T"
+  ],
+  "key": {
+    "T": {
+      "item": "arcana_industry:tempered_steel"
+    },
+    "F": {
+      "item": "arcana_industry:swaged_fitting"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:drive_shaft"
+  }
+}

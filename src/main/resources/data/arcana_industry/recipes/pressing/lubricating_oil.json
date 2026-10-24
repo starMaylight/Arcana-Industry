@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {
+    "tag": "forge:seeds"
+  },
+  "count": 8,
+  "result": {
+    "item": "arcana_industry:lubricating_oil"
+  },
+  "duration": 160,
+  "energy_per_tick": 10
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "arcana_industry:reinforced_seal"},
+    {"item": "minecraft:slime_ball"}
+  ],
+  "result": {"item": "arcana_industry:static_o_ring"}
+}

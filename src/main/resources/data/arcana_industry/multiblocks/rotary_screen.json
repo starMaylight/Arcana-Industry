@@ -1,0 +1,129 @@
+{
+  "id": "arcana_industry:rotary_screen",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/RotaryScreenBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:hopper"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:chain"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:grindstone"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:grindstone"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:hopper[facing=north]"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          "minecraft:iron_bars",
+          ".",
+          "minecraft:iron_bars"
+        ],
+        [
+          ".",
+          "minecraft:chain",
+          "."
+        ],
+        [
+          "minecraft:iron_bars",
+          ".",
+          "minecraft:iron_bars"
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ],
+        [
+          "minecraft:grindstone",
+          "[controller]",
+          "minecraft:grindstone"
+        ],
+        [
+          ".",
+          "minecraft:hopper[facing=north]",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:hopper",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

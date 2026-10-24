@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:inversion",
+  "ingredient": {
+    "item": "minecraft:mangrove_roots"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:muddy_mangrove_roots",
+    "count": 4
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

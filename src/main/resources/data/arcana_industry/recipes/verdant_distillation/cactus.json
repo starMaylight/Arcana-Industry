@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:verdant_distillation",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 12
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "minecraft:polished_deepslate"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gravel",
+    "count": 2
+  },
+  "duration": 135,
+  "energy_per_tick": 19
+}

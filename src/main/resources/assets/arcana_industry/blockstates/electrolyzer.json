@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "arcana_industry:block/electrolyzer"
+    },
+    "active=true": {
+      "model": "arcana_industry:block/electrolyzer_active"
+    }
+  }
+}

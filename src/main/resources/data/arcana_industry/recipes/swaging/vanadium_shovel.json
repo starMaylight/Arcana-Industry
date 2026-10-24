@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:swaging",
+  "ingredient": {
+    "tag": "forge:ingots/vanadium"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:iron_shovel",
+    "count": 1
+  }
+}

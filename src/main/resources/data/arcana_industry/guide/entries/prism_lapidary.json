@@ -1,0 +1,12 @@
+{
+  "title": "Prism Lapidary",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 7",
+  "group": "Prism and spectral finishing",
+  "pages": [
+    "Craft the Prism Lapidary with three sealed steel plates, a Burnished Prism Sheet, Attuned Quartz, two glass panes, hopper and Prism Separator. Burnish the sheet first in the Prism Burnisher; a plain plate cannot bypass this t7 gate.",
+    "Twenty datapack faceting recipes cut common building minerals into useful polished, stair and brick forms. Eleven stone cuts (stone, cobblestone, mossy cobblestone, cobbled deepslate, andesite, diorite, granite, basalt, blackstone, red sandstone and quartz block) turn four blocks into five, beating the one-to-one stonecutter; cuts that a crushing, tumbling or reclaiming machine can reverse stay one-to-one so no loop creates stone. The solar-prism recipe makes a Faceted Prism Seal, which replaces one plate corner in the Spectral Filter craft. The seal has no other recipe source.",
+    "Recipe type arcana_industry:faceting uses ingredient, count, result, duration, energy_per_tick and optional priority. JEI shows inputs, outputs and machine catalyst.",
+    "Insert from top or sides; extract from bottom. Set every item port in the GUI. FE, inventory, progress and port modes persist; breakage returns inventory."
+  ]
+}

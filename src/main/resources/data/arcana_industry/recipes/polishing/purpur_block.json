@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:purpur_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:purpur_slab",
+    "count": 3
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

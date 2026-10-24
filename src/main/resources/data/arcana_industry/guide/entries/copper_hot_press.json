@@ -1,0 +1,13 @@
+{
+  "title": "Copper Hot Press",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 1",
+  "group": "Pressing and forming",
+  "pages": [
+    "Craft this t1 Thermal press after the Kiln with annealed copper, a Kiln, two pistons, a hopper and redstone.",
+    "Hot press one annealed copper into a Tempered Copper Sheet. That exclusive sheet takes the top-center slot of the Quench Vat craft. Remaining recipes stamp useful plates, rails, doors and fittings from distinct materials, including 2-ingot titanium smithing tables, tungsten iron doors and platinum compasses. Two Bronze Powder Blend sinter into one Sintered Bronze Bushing for the Pressure Press drive train, and one press-made Green Gear Compact sinters into one Sintered Bronze Gear (160 ticks, 10 FE/t) for the Milling Gantry's Spindle Gearbox. Two Carbide Powder Blend (tungsten and cobalt grit with coal) sinter into one Cemented Carbide Nib, the core of the Drawing Bench's Wire Draw Die. A shaped Copper Valve Blank (two copper ingots, two iron nuggets and a leather seal) hot-presses into one Copper Flow Valve in 180 ticks at 12 FE/t. It is required in the Leaching Vat craft.",
+    "Thirty datapack recipes use arcana_industry:hot_pressing with ingredient, count, result, duration, energy_per_tick and optional priority. One Thermocouple Leg Pair becomes a Thermocouple Probe for the Enamel Kiln (200 ticks, 12 FE/t). One Monel Pump Blank becomes a Bath Circulation Pump for the Silvering Bath (240 ticks, 14 FE/t). Two iron ingots stamp one iron trapdoor; salvaging or arc-discharge recycling cannot multiply trapdoors. JEI lists loaded recipes and this machine as catalyst. Two iron bars stamp into one chain. Vanilla six ingots make sixteen bars; Flux Rectifier returns two ingots per five chains, so this route cannot multiply iron.",
+    "Three copper ingots hot-press into one lightning rod. Stabilization can recover three copper ingots per rod, so this route cannot multiply copper. One copper block presses into three rods directly. Heat strips patina and wax: any exposed, weathered, oxidized or waxed copper block returns one plain copper block (100-220 ticks, 10 FE/t), automating axe scraping.",
+    "Supply FE, insert from top or sides and extract below. Configure each face in the menu; inventory, FE, progress and ports save across reloads."
+  ]
+}

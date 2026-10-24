@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:hearth_smoking",
+  "ingredient": {
+    "item": "minecraft:dark_oak_log"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 5
+  }
+}

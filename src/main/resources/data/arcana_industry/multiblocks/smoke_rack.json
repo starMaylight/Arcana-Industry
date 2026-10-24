@@ -1,0 +1,123 @@
+{
+  "id": "arcana_industry:smoke_rack",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/SmokeRackBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:campfire[lit=true]"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:oak_fence"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:oak_fence"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:oak_fence"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:oak_fence"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:oak_fence",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:iron_bars",
+          "minecraft:oak_fence",
+          "minecraft:iron_bars"
+        ],
+        [
+          "minecraft:oak_fence",
+          "[controller]",
+          "minecraft:oak_fence"
+        ],
+        [
+          "minecraft:iron_bars",
+          ".",
+          "minecraft:iron_bars"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:campfire[lit=true]",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZRI",
+    "FCF",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "arcana_industry:wound_motor"
+    },
+    "Z": {
+      "tag": "forge:ingots/nickel"
+    },
+    "F": {
+      "item": "arcana_industry:flanged_ring"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:magnetizer"
+  }
+}

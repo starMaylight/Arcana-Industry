@@ -1,0 +1,11 @@
+{
+  "title": "Ember Dryer",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 1",
+  "group": "Heat and firing",
+  "pages": [
+    "Craft the Ember Dryer from two plain brick blocks, one Carbon Brick from the Char Retort, one Clinker Brick from the Clinker Oven, a copper ingot, two iron bars, a furnace and redstone. The Carbon Brick occupies the upper-left corner and the Clinker Brick the upper-right corner; plain bricks in either corner do not work. Build the Char Retort and the Clinker Oven (each needs a Kiln) first. Dry one nether-brick block to make a Cured Hearth Brick; place it in the Soaking Hearth craft's upper-left corner.",
+    "Feed the ingredient stack into the left slot: four kelp, sugar cane, cactus, sea pickles, chorus fruit or raw meat and fish dry into five results, while potatoes, clay, sponges and the other jobs use one input. The dryer spends 8 FE/t for 80 ticks and places the result in the right slot. Twenty exclusive recipes dry kelp, sponge, clay, chorus fruit, foods and pigments. JEI displays the input, output and FE. Datapack type arcana_industry:drying accepts ingredient, count, result, duration, energy_per_tick and optional priority; higher priority wins, then recipe ID.",
+    "Top and horizontal sides import; the bottom exports. Side buttons change each face between input, output and disabled. Supply FE by capability or the manual crank. The dryer pauses on a full output slot. Inventory, FE, work progress and side modes persist across saves; breaking it drops both slots."
+  ]
+}

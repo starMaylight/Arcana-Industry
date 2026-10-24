@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"item": "arcana_industry:clamped_liner"},
+  "count": 1,
+  "result": {"item": "arcana_industry:embossed_wear_liner"},
+  "duration": 140,
+  "energy_per_tick": 10
+}

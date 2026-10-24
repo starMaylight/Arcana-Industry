@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:fusing",
+  "ingredient": {
+    "item": "minecraft:deepslate"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 16,
+  "lumen_per_tick": 4
+}

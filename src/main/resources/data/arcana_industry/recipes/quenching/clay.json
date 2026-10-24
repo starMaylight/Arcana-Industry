@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:quenching",
+  "ingredient": {
+    "item": "minecraft:terracotta"
+  },
+  "count": 1,
+  "fluid": "minecraft:water",
+  "fluid_amount": 500,
+  "result": {
+    "item": "minecraft:clay",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 10
+}

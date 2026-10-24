@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "arcana_industry:gold_grit"
+  },
+  "result": "minecraft:gold_ingot",
+  "experience": 0.35,
+  "cookingtime": 200
+}

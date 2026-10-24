@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:quenching",
+  "ingredient": {
+    "item": "minecraft:magma_block"
+  },
+  "count": 1,
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "minecraft:basalt",
+    "count": 4
+  },
+  "duration": 80,
+  "energy_per_tick": 8
+}

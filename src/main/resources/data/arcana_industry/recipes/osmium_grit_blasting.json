@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": { "item": "arcana_industry:osmium_grit" },
+  "result": "arcana_industry:osmium_ingot",
+  "experience": 0.3,
+  "cookingtime": 100
+}

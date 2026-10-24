@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:polarity_inversion",
+  "ingredient": {
+    "item": "arcana_industry:rectified_filament"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:stator_coil",
+    "count": 1
+  }
+}

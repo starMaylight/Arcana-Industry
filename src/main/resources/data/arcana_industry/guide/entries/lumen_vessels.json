@@ -1,0 +1,13 @@
+{
+  "title": "Lumen Vessels",
+  "category": "arcana_industry:arcana",
+  "chapter": "Tier 1",
+  "group": "Spellcasting",
+  "pages": [
+    "Lumen Vessels carry lumen away from an Astral Font so a wand can cast far from it. The Lumen Phial (Tier 1) holds 400 lumen: craft it with a Night Sigil on top, an amethyst shard between two glass blocks in the middle and a glass block below.",
+    "The Starlit Flask (Tier 5) holds 1500 lumen. Craft it around a Lumen Phial: amethyst shard, Resonant Rune, amethyst shard on top; glass, phial, glass in the middle; glass, gold ingot, glass below. The Phase Vessel (Tier 9) holds 5000 lumen: a Starlit Flask in the center, a Phase Sigil above it, Ripened Phase on the other three sides and Phase Coils in the corners. Each upgrade consumes the previous container, so empty it at a font first; stored lumen is not carried over.",
+    "Use a vessel on an Astral Font to fill it with as much lumen as the font holds, up to the vessel's capacity. Sneak-use it on a font to pour its charge back, up to the font's 1000 lumen limit, which lets you move lumen between distant fonts. The durability bar and tooltip show the stored amount.",
+    "When you cast with an Astral Wand or Phase Scepter, any font in its reach that holds enough lumen still pays first. Only when none can does the wand draw the full cost from the fullest vessel anywhere in your inventory. A vessel holding less than the spell's cost is never partly drained; the cast is refused instead.",
+    "Vessels can only be filled at an Astral Font. They expose no energy or item capability, and machines cannot charge them, so lumen still comes only from fonts under open night sky or from their amethyst offerings. Hoppers and crafters can stock the crafting inputs, but filling and pouring are done by hand."
+  ]
+}

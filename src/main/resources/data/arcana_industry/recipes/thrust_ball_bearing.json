@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    "BNB",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "item": "arcana_industry:hardened_thrust_washer"
+    },
+    "B": {
+      "item": "arcana_industry:bearing_ball"
+    },
+    "N": {
+      "tag": "forge:nuggets/iron"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:thrust_ball_bearing"
+  }
+}

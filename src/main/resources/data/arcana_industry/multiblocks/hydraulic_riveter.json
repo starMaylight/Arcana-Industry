@@ -1,0 +1,76 @@
+{
+  "id": "arcana_industry:hydraulic_riveter",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/HydraulicRiveterBlock.java",
+  "orientation": "fixed_world_axis",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:anvil"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:lectern"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:dispenser[facing=west]"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:dispenser[facing=east]"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          "minecraft:lectern",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:dispenser[facing=east]",
+          "[controller]",
+          "minecraft:dispenser[facing=west]"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          "minecraft:iron_block",
+          "minecraft:anvil",
+          "minecraft:iron_block"
+        ]
+      ]
+    }
+  ],
+  "axis": "east_west_only"
+}

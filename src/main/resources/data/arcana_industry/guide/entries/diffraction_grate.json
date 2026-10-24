@@ -1,0 +1,13 @@
+{
+  "title": "Diffraction Grate",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 7",
+  "group": "Solar and optics",
+  "pages": [
+    "Craft the Diffraction Grate from two sealed steel plates, a Ruled Diffraction Grating, a Scored Prism Blank, a Filtered Prism, two glass panes, a hopper and a Spectral Filter. The blank is produced by the Prism Scorer; an ordinary plate does not bypass this t7 gate. Material update: crafting slot 4 (row-major 3x3) now requires a gallium ingot via forge:ingots/gallium; all existing progression gates remain required.",
+    "The Ruled Diffraction Grating is the grate's dispersing element and sits in the bottom-right crafting slot. Craft an aluminium ingot (forge:ingots/aluminum) above a glass pane into an Aluminized Grating Blank: the glass is the flat substrate and the aluminium the reflective film. The Prism Scorer then rules fine parallel grooves into the film (scoring recipe, 240 ticks at 24 FE/t, east amethyst guide required). An unruled blank or a plain plate in that slot does not complete the craft. Automate it by piping blanks into the Scorer's top face and pulling gratings from its bottom face.",
+    "Twenty datapack diffraction recipes refine light-adjacent minerals: quartz, amethyst, redstone, lapis and prismarine components convert back and forth, and their blocks break down into the loose form. JEI shows the ingredient, FE per tick, output space and priority. Recipe type: arcana_industry:diffraction; fields ingredient, count, result, duration, energy_per_tick and optional priority. Eight prismarine shards diffract into one nautilus shell, so routing the shell through filtration, collapse and crushing returns fewer shards than it spent.",
+    "The very first recipe diffracts an Attuned Quartz (made by the Resonance Infuser) into a Diffraction Core, a part with no other source. The Lens Collimator now needs one Diffraction Core in place of its second sealed steel plate corner: a bare plate there no longer completes that craft, so the Diffraction Grate must be built before the Lens Collimator.",
+    "Top and horizontal faces import; bottom exports. Each side is configurable in the GUI. Supply 16 FE/t or use the manual crank. Inventory, FE, progress and port modes persist; breaking drops inventory."
+  ]
+}

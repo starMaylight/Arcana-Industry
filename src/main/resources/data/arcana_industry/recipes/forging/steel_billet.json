@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "item": "arcana_industry:steel_billet"
+  },
+  "count": 1,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 1,
+  "result": {
+    "item": "arcana_industry:hex_bolt_set",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lattice_engraving",
+  "ingredient": {
+    "item": "minecraft:deepslate_bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:deepslate_tiles"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

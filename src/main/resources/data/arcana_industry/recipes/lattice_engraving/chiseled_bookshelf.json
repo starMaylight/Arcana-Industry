@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lattice_engraving",
+  "ingredient": {
+    "item": "minecraft:chiseled_bookshelf"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:bookshelf"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

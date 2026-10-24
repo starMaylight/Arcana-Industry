@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:converged_phase"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 2,
+    "arcana_industry:resonant": 2
+  }
+}

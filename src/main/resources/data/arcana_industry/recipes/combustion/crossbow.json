@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "item": "minecraft:crossbow"
+  },
+  "count": 1,
+  "residue": {
+    "item": "minecraft:iron_nugget",
+    "count": 6
+  },
+  "burn_time": 300,
+  "energy_per_tick": 12,
+  "priority": 0
+}

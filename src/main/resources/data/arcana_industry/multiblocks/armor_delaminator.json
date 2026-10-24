@@ -1,0 +1,135 @@
+{
+  "id": "arcana_industry:armor_delaminator",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/ArmorDelaminatorBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:obsidian"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:piston"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:piston",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:iron_block",
+          "."
+        ],
+        [
+          "minecraft:iron_block",
+          "[controller]",
+          "minecraft:iron_block"
+        ],
+        [
+          ".",
+          "minecraft:iron_block",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          "minecraft:iron_bars",
+          "."
+        ],
+        [
+          "minecraft:iron_bars",
+          "minecraft:obsidian",
+          "minecraft:iron_bars"
+        ],
+        [
+          ".",
+          "minecraft:iron_bars",
+          "."
+        ]
+      ]
+    }
+  ],
+  "port_substitute": {
+    "block": "arcana_industry:stock_hatch",
+    "replaces": "any part touching the controller face-to-face",
+    "max": 2,
+    "relays": "the covered controller face's item port (In/Out/Off)"
+  }
+}

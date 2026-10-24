@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:iron_block"},
+    {"item": "minecraft:charcoal"},
+    {"item": "minecraft:charcoal"}
+  ],
+  "result": {"item": "arcana_industry:carburized_iron_charge"}
+}

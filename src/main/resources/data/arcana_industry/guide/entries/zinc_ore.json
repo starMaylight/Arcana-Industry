@@ -1,0 +1,11 @@
+{
+  "title": "Zinc Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 2",
+  "group": "Common and base metals",
+  "pages": [
+    "Zinc Ore and Deepslate Zinc Ore generate in the Overworld between Y -24 and 72, in veins between Tin's height band and Lead's. A stone pickaxe or better is required. Silk Touch keeps the ore block; ordinary mining drops Raw Zinc and Fortune can increase the yield. Required industrial use: ore sluice. Its craft consumes this ingot; compatible forge:ingots/zinc inputs are accepted.",
+    "Smelt or blast Raw Zinc into Zinc Ingots. The Crusher processes one Raw Zinc into two Zinc Grit, each of which can be smelted or blasted into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability; furnace or blast furnace automation handles the grit.",
+    "Zinc uses forge:ores/zinc, forge:raw_materials/zinc and forge:ingots/zinc tags. Datapacks can add matching recipes. Zinc Ingots are stored for later apparatus and material progression. The Pressure Press also consumes 3 forge:ingots/zinc ingots to make one lightning rod; feed the input slot, supply 960 FE, and extract the finished utility block or item from an output face. The recipe takes 120 ticks."
+  ]
+}

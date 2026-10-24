@@ -1,0 +1,9 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": { "tag": "forge:ingots/zinc" },
+  "binder": { "item": "minecraft:gunpowder" },
+  "count": 1,
+  "result": { "item": "minecraft:firework_rocket", "count": 3 },
+  "duration": 160,
+  "energy_per_tick": 24
+}

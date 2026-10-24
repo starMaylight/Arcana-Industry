@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:rail"
+  },
+  "count": 6,
+  "reagent": {
+    "tag": "forge:ingots/palladium"
+  },
+  "result": {
+    "item": "minecraft:powered_rail",
+    "count": 6
+  }
+}

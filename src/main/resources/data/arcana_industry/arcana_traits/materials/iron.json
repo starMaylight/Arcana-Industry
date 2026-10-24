@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "forge:ingots/iron"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 2,
+    "arcana_industry:heavy": 2
+  }
+}

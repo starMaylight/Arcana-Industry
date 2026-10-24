@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "arcana_industry:tin_grit" },
+  "result": "arcana_industry:tin_ingot",
+  "experience": 0.35,
+  "cookingtime": 200
+}

@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:tinted_glass"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:glass"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

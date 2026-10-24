@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "count": 3,
+  "reagent": {
+    "tag": "forge:ingots/bismuth"
+  },
+  "result": {
+    "item": "minecraft:bell"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:sanctum_attunement",
+  "ingredient": {
+    "item": "minecraft:ender_pearl"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:ender_pearl"
+  }
+}

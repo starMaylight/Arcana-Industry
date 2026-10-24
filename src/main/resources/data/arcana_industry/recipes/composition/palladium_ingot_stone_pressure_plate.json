@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "tag": "forge:ingots/palladium"
+  },
+  "binder": {
+    "item": "minecraft:stone_pressure_plate"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:detector_rail",
+    "count": 6
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

@@ -1,0 +1,135 @@
+{
+  "id": "arcana_industry:degauss_coil",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/DegaussCoilBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:diamond_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:glowstone"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:glowstone"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:glowstone"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:glowstone"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:copper_block"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:sea_lantern",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:copper_block",
+          "minecraft:glowstone",
+          "minecraft:copper_block"
+        ],
+        [
+          "minecraft:glowstone",
+          "[controller]",
+          "minecraft:glowstone"
+        ],
+        [
+          "minecraft:copper_block",
+          "minecraft:glowstone",
+          "minecraft:copper_block"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:diamond_block",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ],
+  "port_substitute": {
+    "block": "arcana_industry:stock_hatch",
+    "replaces": "any part touching the controller face-to-face",
+    "max": 2,
+    "relays": "the covered controller face's item port (In/Out/Off)"
+  }
+}

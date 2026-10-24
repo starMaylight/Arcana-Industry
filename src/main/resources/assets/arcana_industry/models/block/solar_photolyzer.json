@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "down": "arcana_industry:block/solar_photolyzer_casing",
+    "up": "arcana_industry:block/solar_photolyzer_top",
+    "north": "arcana_industry:block/solar_photolyzer_face",
+    "south": "arcana_industry:block/solar_photolyzer_casing",
+    "east": "arcana_industry:block/solar_photolyzer_casing",
+    "west": "arcana_industry:block/solar_photolyzer_casing",
+    "particle": "arcana_industry:block/solar_photolyzer_casing"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#up"
+        },
+        "down": {
+          "texture": "#down"
+        },
+        "north": {
+          "texture": "#north"
+        },
+        "south": {
+          "texture": "#south"
+        },
+        "east": {
+          "texture": "#east"
+        },
+        "west": {
+          "texture": "#west"
+        }
+      }
+    }
+  ]
+}

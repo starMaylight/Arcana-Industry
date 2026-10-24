@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "binder": {
+    "item": "minecraft:redstone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:powered_rail",
+    "count": 2
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

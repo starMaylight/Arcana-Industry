@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CVC", "GSG", "CVC"],
+  "key": {
+    "C": {"item": "minecraft:copper_ingot"},
+    "V": {"item": "arcana_industry:verdant_resonator"},
+    "G": {"item": "minecraft:glass"},
+    "S": {"item": "minecraft:campfire"}
+  },
+  "result": {"item": "arcana_industry:verdant_distiller"}
+}

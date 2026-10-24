@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:string"
+  },
+  "count": 5,
+  "lumen_cost": 60,
+  "result": {
+    "item": "minecraft:cobweb",
+    "count": 1
+  }
+}

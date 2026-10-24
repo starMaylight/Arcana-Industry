@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:clock",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

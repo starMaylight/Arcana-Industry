@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:welding",
+  "ingredient": {
+    "tag": "forge:ingots/indium"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:lantern",
+    "count": 2
+  },
+  "duration": 140,
+  "energy_per_tick": 22
+}

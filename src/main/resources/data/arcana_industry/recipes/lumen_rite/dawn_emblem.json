@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": { "item": "arcana_industry:attuned_quartz" },
+  "count": 2,
+  "lumen_cost": 240,
+  "result": { "item": "arcana_industry:dawn_emblem", "count": 1 }
+}

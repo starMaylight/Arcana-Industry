@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PWP",
+    "PGP",
+    " O "
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "W": {
+      "item": "arcana_industry:ground_worm"
+    },
+    "G": {
+      "item": "arcana_industry:sintered_bronze_gear"
+    },
+    "O": {
+      "item": "arcana_industry:lubricating_oil"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:worm_gear_set"
+  }
+}

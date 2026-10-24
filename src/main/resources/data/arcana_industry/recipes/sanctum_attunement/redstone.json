@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:sanctum_attunement",
+  "ingredient": {
+    "item": "minecraft:redstone"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:lapis_lazuli"
+  }
+}

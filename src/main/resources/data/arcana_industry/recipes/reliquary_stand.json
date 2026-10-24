@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QBQ",
+    "SWS",
+    "QBQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz_pillar"
+    },
+    "B": {
+      "item": "minecraft:gilded_blackstone"
+    },
+    "S": {
+      "item": "arcana_industry:woven_sigil"
+    },
+    "W": {
+      "item": "minecraft:soul_lantern"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:reliquary_stand"
+  }
+}

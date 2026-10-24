@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:quenching",
+  "ingredient": {
+    "item": "minecraft:cobblestone"
+  },
+  "count": 1,
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "minecraft:cracked_stone_bricks"
+  },
+  "duration": 80,
+  "energy_per_tick": 8
+}

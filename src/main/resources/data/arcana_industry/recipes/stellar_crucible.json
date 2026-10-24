@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAP",
+    "GRG",
+    "PEP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "B": {"item": "arcana_industry:platinum_resistance_probe"},
+    "A": {
+      "item": "arcana_industry:astral_core"
+    },
+    "G": {
+      "item": "minecraft:amethyst_block"
+    },
+    "R": {
+      "item": "arcana_industry:resonance_infuser"
+    },
+    "E": {
+      "item": "arcana_industry:heliostat_etcher"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:stellar_crucible"
+  }
+}

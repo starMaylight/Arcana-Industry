@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDI",
+    "SHS",
+    "IWI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "arcana_industry:cast_fitting"
+    },
+    "D": {
+      "item": "arcana_industry:milled_dowel"
+    },
+    "S": {
+      "item": "minecraft:shears"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:fiber_carder"
+  }
+}

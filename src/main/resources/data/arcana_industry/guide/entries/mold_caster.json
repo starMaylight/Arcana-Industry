@@ -1,0 +1,15 @@
+{
+  "title": "Mold Caster",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 0",
+  "group": "Mechanical processing",
+  "pages": [
+    "Build the Mold Caster from four iron ingots, three smooth stone, one hopper, a Milled Dowel and a Casting Pattern. Rows: iron/pattern/iron; stone/dowel/stone; iron/hopper/iron. The Casting Pattern is the master shape every mold cavity is rammed around: craft Pattern Stock from four planks (any wood) laminated on two Milled Dowels (rows plank/dowel/plank twice), then saw it in the Sawmill (160 ticks, 6 FE/t) into a split pattern with tapered draft so it lifts cleanly out of the sand. A fourth smooth stone, a plain stick or unsawn Pattern Stock in the pattern slot is rejected. The Sawmill must run first.",
+    "Crank by shift-right-clicking empty-handed for 80 FE or feed FE through a Forge energy capability. The left slot accepts finished metal hardware and the right slot exports Cast Fitting. Each face can be set Off, In or Out in the menu; the bottom defaults to Out. Settings and energy persist through save and load.",
+    "The original 20 metal and hardware inputs still cast Cast Fitting, one fitting per ingot of metal invested: eight iron bars cast three fittings and a chain casts one. Seventeen lossy salvage molds also recover different materials: iron doors/trapdoors/minecarts yield iron ingots, nuggets or bars; hopper, chest, TNT and furnace minecarts return their cargo without the cart; lanterns return torches; two lightning rods return one copper ingot; clocks and bells return gold; six detector rails return one redstone. Spyglasses return an amethyst shard, flint-and-steel returns flint, bottles return glass panes, and flower pots return two bricks. All run for 100 ticks at 4 FE/t.",
+    "The Fiber Carder now requires one Cast Fitting in place of one of its four iron-ingot corners, making the Mold Caster part of the t0 mechanical progression: Sawmill-made Milled Dowel builds the Mold Caster, Mold Caster-made Cast Fitting gates the Fiber Carder, and Fiber Carder-made Carded Fiber still gates the Sieve.",
+    "Automation: side ports, energy handling, NBT persistence and hopper behavior are identical to the other mechanical apparatus. Automated tool or hardware recycling lines gain a genuine industrial destination instead of being discarded or re-smelted at a loss.",
+    "Recipes are datapack JSON under data/<namespace>/recipes/molding. Type: arcana_industry:molding. Fields: ingredient (item or tag), count (default 1), result (item/count), duration (1-72000 ticks), energy_per_tick (1-1000), priority (default 0). Highest priority wins; equal priorities use ascending recipe ID.",
+    "With Just Enough Items installed, click the progress strip to browse Molding recipes, or look up an ingredient or product in JEI. The Mold Caster is the category catalyst. JEI is optional; all processing and this guide work without it."
+  ]
+}

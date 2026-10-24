@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BCB", "PSP", " R "],
+  "key": {
+    "B": {"item": "arcana_industry:silver_contact_blank"},
+    "C": {"item": "arcana_industry:conductive_crystal"},
+    "P": {"tag": "forge:ingots/copper"},
+    "S": {"item": "arcana_industry:porcelain_insulator"},
+    "R": {"item": "arcana_industry:crimped_collar"}
+  },
+  "result": {"item": "arcana_industry:pulse_contact_assembly"}
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "item": "minecraft:raw_gold"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:raw_gold_block",
+    "count": 1
+  }
+}

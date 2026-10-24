@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": {
+    "item": "minecraft:furnace_minecart"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:furnace",
+    "count": 1
+  }
+}

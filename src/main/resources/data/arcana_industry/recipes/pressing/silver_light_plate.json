@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"tag": "forge:ingots/silver"},
+  "count": 2,
+  "result": {"item": "minecraft:light_weighted_pressure_plate"},
+  "duration": 120,
+  "energy_per_tick": 8
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:raw_materials/hafnium"
+  },
+  "result": "arcana_industry:hafnium_ingot",
+  "experience": 0.3,
+  "cookingtime": 100
+}

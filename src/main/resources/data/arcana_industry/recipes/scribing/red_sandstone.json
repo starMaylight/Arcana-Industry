@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:scribing",
+  "ingredient": {
+    "item": "minecraft:red_sandstone"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:cut_red_sandstone",
+    "count": 5
+  },
+  "duration": 160,
+  "energy_per_tick": 22
+}

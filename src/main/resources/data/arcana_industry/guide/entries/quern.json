@@ -1,0 +1,15 @@
+{
+  "title": "Quern",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 0",
+  "group": "Mechanical processing",
+  "pages": [
+    "Build a quern from four cobblestone, two iron ingots and three oak planks. Crafting rows: cobblestone/iron/cobblestone; plank/plank/plank; cobblestone/iron/cobblestone. Mine it with a stone pickaxe or better. This t0 apparatus uses the manual crank and Forge Energy. Mill two wheat into Ground Meal for the kiln's top-right slot; a plain brick cannot replace it. This Industry Field Guide itself is crafted shapeless from one book and one cobblestone.",
+    "Right-click to open the quern. It reuses the crusher's menu layout: place material in the left slot, collect meal from the right slot, Crank supplies 80 FE, and six buttons cycle each world face through Off, In and Out exactly like the crusher and sieve.",
+    "The quern mills plant and bone material that the crusher and sieve do not process: wheat, seeds, rotten flesh, nether wart, cocoa beans, potatoes, carrots, apples and glow berries each grind into Ground Meal, a general-purpose milled powder. Reserve one Ground Meal for the first kiln; spare meal converts into bone meal at a crafting table.",
+    "The quern also has seventeen specialty outputs: bone yields bone meal directly, sugar cane yields sugar, cactus yields green dye, chorus fruit yields purple dye, shroomlight yields glowstone dust, and brown mushroom, red mushroom, sweet berries, crimson fungus and warped fungus each yield a matching dye. Flowers mill into two dye instead of one: dandelion to yellow, cornflower to blue, lily of the valley to white, oxeye daisy to light gray and allium to magenta. An ink sac gives two black dye and a pumpkin gives four pumpkin seeds. Twenty-nine recipes in total; each has one specific input item.",
+    "Automation: side ports, energy handling, NBT persistence and hopper behavior are identical to the crusher and sieve. This gives farms, mushroom and nether-fungus harvesters a mechanized processing destination alongside crushing and sieving.",
+    "Recipes are datapack JSON under data/<namespace>/recipes/querning. Type: arcana_industry:querning. Fields: ingredient (item or tag), count (default 1), result (item/count), duration (1-72000 ticks), energy_per_tick (1-1000), priority (default 0). Highest priority wins; equal priorities use ascending recipe ID.",
+    "With Just Enough Items installed, click the progress strip to browse Querning recipes, or look up an ingredient or product in JEI. The quern is the category catalyst. JEI is optional; all processing and this guide work without it."
+  ]
+}

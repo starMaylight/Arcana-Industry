@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:column_blasting",
+  "ingredient": {
+    "item": "minecraft:sandstone"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:smooth_sandstone",
+    "count": 4
+  }
+}

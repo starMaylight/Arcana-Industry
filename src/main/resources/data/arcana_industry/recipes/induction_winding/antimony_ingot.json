@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:induction_winding",
+  "ingredient": {
+    "tag": "forge:raw_materials/antimony"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:antimony_ingot",
+    "count": 3
+  }
+}

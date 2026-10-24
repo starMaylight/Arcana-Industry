@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:tuff"
+  ],
+  "traits": {
+    "arcana_industry:heavy": 1,
+    "arcana_industry:rigid": 1
+  }
+}

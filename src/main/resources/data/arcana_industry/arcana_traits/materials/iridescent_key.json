@@ -1,0 +1,11 @@
+{
+  "items": [
+    "arcana_industry:iridescent_key"
+  ],
+  "traits": {
+    "arcana_industry:binding": 3,
+    "arcana_industry:resonant": 2,
+    "arcana_industry:crystalline": 2,
+    "arcana_industry:luminous": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:redstone_lamp"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 3,
+    "arcana_industry:resonant": 1
+  }
+}

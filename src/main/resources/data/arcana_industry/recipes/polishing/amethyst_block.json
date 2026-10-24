@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:amethyst_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:amethyst_cluster"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"item": "arcana_industry:bronze_powder_blend"},
+  "count": 3,
+  "result": {"item": "arcana_industry:green_gear_compact"},
+  "duration": 100,
+  "energy_per_tick": 6
+}

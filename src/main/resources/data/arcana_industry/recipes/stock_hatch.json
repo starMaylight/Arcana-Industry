@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TZT",
+    "ZHZ",
+    "TRT"
+  ],
+  "key": {
+    "T": {
+      "tag": "forge:ingots/tin"
+    },
+    "Z": {
+      "tag": "forge:ingots/zinc"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:stock_hatch",
+    "count": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "down": "arcana_industry:block/prism_polisher_casing",
+    "up": "arcana_industry:block/prism_polisher_top",
+    "north": "arcana_industry:block/prism_polisher_face",
+    "south": "arcana_industry:block/prism_polisher_casing",
+    "east": "arcana_industry:block/prism_polisher_casing",
+    "west": "arcana_industry:block/prism_polisher_casing",
+    "particle": "arcana_industry:block/prism_polisher_casing"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#up"
+        },
+        "down": {
+          "texture": "#down"
+        },
+        "north": {
+          "texture": "#north"
+        },
+        "south": {
+          "texture": "#south"
+        },
+        "east": {
+          "texture": "#east"
+        },
+        "west": {
+          "texture": "#west"
+        }
+      }
+    }
+  ]
+}

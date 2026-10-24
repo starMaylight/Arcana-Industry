@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:diffusion",
+  "ingredient": {
+    "item": "arcana_industry:sublimated_phase"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:diffused_phase",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

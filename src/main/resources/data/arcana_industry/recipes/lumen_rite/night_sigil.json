@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": { "item": "minecraft:amethyst_shard" },
+  "count": 1,
+  "lumen_cost": 40,
+  "result": { "item": "arcana_industry:night_sigil", "count": 1 }
+}

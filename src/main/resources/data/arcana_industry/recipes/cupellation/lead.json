@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/lead"
+  },
+  "count": 3,
+  "levels": 1,
+  "result": {
+    "item": "arcana_industry:lead_ingot",
+    "count": 2
+  },
+  "byproduct": {
+    "item": "arcana_industry:silver_ingot"
+  }
+}

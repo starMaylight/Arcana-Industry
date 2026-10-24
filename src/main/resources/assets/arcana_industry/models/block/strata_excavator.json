@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "arcana_industry:block/strata_excavator_side",
+    "down": "arcana_industry:block/strata_excavator_bottom",
+    "up": "arcana_industry:block/strata_excavator_top",
+    "north": "arcana_industry:block/strata_excavator_side",
+    "south": "arcana_industry:block/strata_excavator_side",
+    "east": "arcana_industry:block/strata_excavator_side",
+    "west": "arcana_industry:block/strata_excavator_side"
+  }
+}

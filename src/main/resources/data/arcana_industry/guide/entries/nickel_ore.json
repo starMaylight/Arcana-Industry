@@ -1,0 +1,11 @@
+{
+  "title": "Nickel Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 2",
+  "group": "Common and base metals",
+  "pages": [
+    "Nickel Ore and Deepslate Nickel Ore generate in the Overworld between Y -56 and 24 in small, uncommon veins. An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Nickel and Fortune can increase the yield. Required industrial use: magnetizer. Its craft consumes this ingot; compatible forge:ingots/nickel inputs are accepted.",
+    "Smelt or blast Raw Nickel into Nickel Ingots. The Crusher processes one Raw Nickel into two Nickel Grit, each of which can be smelted or blasted into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability; furnace or blast furnace automation handles the grit.",
+    "Nickel uses forge:ores/nickel, forge:raw_materials/nickel and forge:ingots/nickel tags. Datapacks can add matching recipes. Nickel Ingots are stored for later apparatus and material progression. The Pressure Press also consumes 2 forge:ingots/nickel ingots to make one heavy weighted pressure plate; feed the input slot, supply 960 FE, and extract the finished item from an output face. The recipe takes 120 ticks."
+  ]
+}

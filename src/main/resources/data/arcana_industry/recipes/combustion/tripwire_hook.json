@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "item": "minecraft:tripwire_hook"
+  },
+  "count": 2,
+  "residue": {
+    "item": "minecraft:iron_nugget",
+    "count": 3
+  },
+  "burn_time": 600,
+  "energy_per_tick": 10,
+  "priority": 0
+}

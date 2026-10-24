@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "tag": "forge:ores/ruthenium"
+  },
+  "result": {
+    "item": "arcana_industry:ruthenium_grit",
+    "count": 2
+  },
+  "duration": 200,
+  "energy_per_tick": 6
+}

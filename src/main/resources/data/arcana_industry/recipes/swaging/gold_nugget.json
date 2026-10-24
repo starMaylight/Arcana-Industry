@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:swaging",
+  "ingredient": {
+    "item": "minecraft:gold_nugget"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 1
+  }
+}

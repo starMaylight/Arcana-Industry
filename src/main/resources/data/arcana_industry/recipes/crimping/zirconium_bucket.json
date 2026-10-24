@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:crimping",
+  "ingredient": {
+    "tag": "forge:ingots/zirconium"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 1
+  }
+}

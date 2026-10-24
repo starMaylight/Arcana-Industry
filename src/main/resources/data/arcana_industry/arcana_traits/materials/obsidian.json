@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:obsidian"
+  ],
+  "traits": {
+    "arcana_industry:fiery": 2,
+    "arcana_industry:aqueous": 1
+  }
+}

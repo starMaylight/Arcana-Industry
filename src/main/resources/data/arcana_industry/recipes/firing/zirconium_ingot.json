@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {"item": "arcana_industry:zirconium_flux_charge"},
+  "result": {"item": "arcana_industry:zirconium_ingot", "count": 1},
+  "duration": 280,
+  "temperature": 1000
+}

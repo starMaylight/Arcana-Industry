@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:daylight_detector"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/rhenium"
+  },
+  "result": {
+    "item": "arcana_industry:heliograph_plate"
+  }
+}

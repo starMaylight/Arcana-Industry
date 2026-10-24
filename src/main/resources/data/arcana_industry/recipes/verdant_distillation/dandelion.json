@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:verdant_distillation",
+  "ingredient": {
+    "item": "minecraft:dandelion"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:yellow_dye",
+    "count": 12
+  }
+}

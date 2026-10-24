@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:tumbling",
+  "ingredient": {
+    "item": "minecraft:red_sandstone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:red_sand",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

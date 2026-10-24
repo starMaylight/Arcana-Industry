@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:verdant_distillation",
+  "ingredient": {
+    "item": "minecraft:wither_rose"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:black_dye",
+    "count": 12
+  }
+}

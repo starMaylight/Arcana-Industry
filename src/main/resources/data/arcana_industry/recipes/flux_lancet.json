@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["  H", " LC", "VZ "],
+  "key": {
+    "H": {"item": "arcana_industry:phase_heart"},
+    "L": {"item": "arcana_industry:phase_lattice"},
+    "C": {"item": "arcana_industry:phase_coil"},
+    "V": {"item": "arcana_industry:phase_vessel"},
+    "Z": {"item": "arcana_industry:converged_phase"}
+  },
+  "result": {"item": "arcana_industry:flux_lancet"}
+}

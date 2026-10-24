@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:phase_heart"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 4,
+    "arcana_industry:resonant": 4
+  }
+}

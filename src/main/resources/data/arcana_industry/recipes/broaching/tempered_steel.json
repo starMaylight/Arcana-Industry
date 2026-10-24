@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:broaching",
+  "ingredient": {
+    "item": "arcana_industry:tempered_steel"
+  },
+  "count": 3,
+  "result": {
+    "item": "arcana_industry:broached_pin",
+    "count": 1
+  }
+}

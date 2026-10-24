@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:fermented_spider_eye"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:spider_eye",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

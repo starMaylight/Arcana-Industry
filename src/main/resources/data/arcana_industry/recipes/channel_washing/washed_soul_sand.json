@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:channel_washing",
+  "ingredient": {
+    "item": "minecraft:soul_sand"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:soul_soil",
+    "count": 4
+  }
+}

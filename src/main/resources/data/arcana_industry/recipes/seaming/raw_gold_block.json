@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:seaming",
+  "ingredient": {
+    "item": "minecraft:raw_gold_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:raw_gold",
+    "count": 9
+  }
+}

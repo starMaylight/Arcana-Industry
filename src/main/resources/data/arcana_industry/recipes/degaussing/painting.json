@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:degaussing",
+  "ingredient": {
+    "item": "minecraft:painting"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:white_wool",
+    "count": 1
+  }
+}

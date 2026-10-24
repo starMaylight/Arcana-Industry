@@ -1,0 +1,12 @@
+{
+  "title": "Stellar Crucible",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 6",
+  "group": "Solar and optics",
+  "pages": [
+    "Craft this tier-6 apparatus from three sealed steel plates, the Astral Core, two amethyst blocks, a resonance infuser, the Heliostat Etcher and a Platinum Resistance Probe. Craft the sensor blank from two tagged platinum ingots, copper, glass and steel; etch its serpentine platinum film in the open-sky daylight Etcher (220 ticks, 20 FE/t). The etched probe is required; the unetched blank or fourth plate cannot replace it. The probe represents thermal feedback, not a simulated temperature controller.",
+    "Unlike every earlier apparatus, the Stellar Crucible needs two different energies at once: Forge Energy from any side, and lumen drawn each tick from an Astral Font placed directly adjacent (any of the six faces). Work pauses on status \"no_lumen\" whenever no neighboring font holds enough lumen, even with a full FE buffer.",
+    "Twenty datapack fusing recipes turn raw ores and overworld/nether/end reagents into nuggets, ingots, dyes, stone variants and light sources. Fusing obeys the material-trait rule: a product may only carry the traits of count x its input plus the font's starfire (fiery 1, luminous 1, crystalline 1). Two crying obsidian (luminous 1 each) plus starfire give glowstone dust's luminous 2; two emeralds supply lime dye's pigment 2. Calcite now fuses into dripstone and netherrack into gunpowder. A datapack row whose product needs other traits pauses on status \"unexplained_traits\" without spending FE or lumen. JEI shows the ingredient, FE per tick, lumen per tick drawn from the font, output space and priority. Recipe type: arcana_industry:fusing; fields ingredient, count, result, duration, energy_per_tick, lumen_per_tick and optional priority. Two basalt fuse into one blackstone, four blackstone into four cracked polished blackstone bricks, and nine kelp into one dried kelp block without a smoker.",
+    "Top and horizontal faces import; bottom exports. Each side is configurable in the GUI. Supply 16 FE/t or use the manual crank; keep an Astral Font with stored lumen touching the block. Inventory, FE, progress and port modes persist; breaking drops inventory."
+  ]
+}

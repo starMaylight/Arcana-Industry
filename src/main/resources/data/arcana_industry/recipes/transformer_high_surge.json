@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ILI",
+    "LTH",
+    "IHI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/niobium"
+    },
+    "L": {
+      "item": "arcana_industry:aluminum_cable"
+    },
+    "H": {
+      "item": "arcana_industry:niobium_line"
+    },
+    "T": {
+      "item": "arcana_industry:transformer_core"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:transformer_high_surge"
+  }
+}

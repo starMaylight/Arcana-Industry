@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XTI",
+    "TPT",
+    "RDX"
+  ],
+  "key": {
+    "X": {
+      "item": "arcana_industry:swaged_fitting"
+    },
+    "I": {
+      "item": "arcana_industry:temper_glyph"
+    },
+    "R": {
+      "item": "arcana_industry:riveted_brace"
+    },
+    "T": {
+      "item": "arcana_industry:tempered_steel"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "D": {
+      "item": "arcana_industry:press_drive_train"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:press"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BCB",
+    "ARA",
+    "BCB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bookshelf"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "R": {
+      "item": "arcana_industry:reliquary_core"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:concordance_altar"
+  }
+}

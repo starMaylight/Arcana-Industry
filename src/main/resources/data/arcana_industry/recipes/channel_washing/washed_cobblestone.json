@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:channel_washing",
+  "ingredient": {
+    "item": "minecraft:cobblestone"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:gravel",
+    "count": 4
+  }
+}

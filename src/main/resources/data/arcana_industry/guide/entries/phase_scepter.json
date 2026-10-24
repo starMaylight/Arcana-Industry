@@ -1,0 +1,12 @@
+{
+  "title": "Phase Scepter",
+  "category": "arcana_industry:arcana",
+  "chapter": "Tier 9",
+  "group": "Spellcasting",
+  "pages": [
+    "The t9 capstone. Craft it with an Astral Wand in the center, a Phase Heart above it, two Phase Coils in the top corners, two Ripened Phase (Refracted Phase fermented in the Phase Fermenter) at its sides and a Phase Reclaimer below. The craft consumes the Reclaimer: build a spare if you want to keep recycling gear. The heart comes from the capstone rite: offer two Converged Phase to an Astral Font holding 480 lumen. Phase Coils come from the Phase Annealer (copper ingot over a phase lattice focus).",
+    "Every input traces through the t9 line: the Phase Inverter, Modulator, Stabilizer, Preserver, Effuser and Conflux each refine the previous phase material until two Effused Phase converge. The recipe consumes the wand, so the scepter replaces it rather than adding a second caster.",
+    "Use it exactly like the Astral Wand: sneak-use cycles through all registered spells, plain use casts the selected one. The scepter draws only from Astral Fonts, but it searches 12 blocks in every direction instead of 6, pays three quarters of each spell's lumen cost (rounded up) and recovers in 5 ticks instead of 10. The tooltip shows the reduced cost for the selected spell.",
+    "Automation: a crafter or hopper chain can stock coils, ripened phase and a spare Phase Reclaimer; the Phase Conflux can be fed by side-configured hoppers. The Phase Heart rite and the cast itself stay hand-performed, because lumen cannot be produced or moved by machines."
+  ]
+}

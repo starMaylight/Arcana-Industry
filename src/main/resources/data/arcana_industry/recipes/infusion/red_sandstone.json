@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:infusion",
+  "ingredient": {
+    "item": "minecraft:red_sandstone"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:chiseled_red_sandstone",
+    "count": 3
+  },
+  "duration": 140,
+  "energy_per_tick": 20
+}

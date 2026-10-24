@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "tag": "forge:ingots/aluminum"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:aluminum_rivet",
+    "count": 8
+  }
+}

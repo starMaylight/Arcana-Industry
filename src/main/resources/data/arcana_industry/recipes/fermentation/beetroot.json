@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:fermentation",
+  "ingredient": {
+    "item": "minecraft:beetroot"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 2
+  },
+  "duration": 140,
+  "energy_per_tick": 20
+}

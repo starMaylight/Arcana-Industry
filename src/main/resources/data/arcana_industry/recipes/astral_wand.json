@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "B",
+    "G"
+  ],
+  "key": {
+    "A": { "item": "minecraft:amethyst_shard" },
+    "B": { "item": "minecraft:blaze_rod" },
+    "G": { "item": "minecraft:gold_ingot" }
+  },
+  "result": { "item": "arcana_industry:astral_wand", "count": 1 }
+}

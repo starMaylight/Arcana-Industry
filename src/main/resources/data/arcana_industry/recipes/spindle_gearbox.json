@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GPG",
+    "BSB",
+    "KO "
+  ],
+  "key": {
+    "G": {
+      "item": "arcana_industry:sintered_bronze_gear"
+    },
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "B": {
+      "item": "arcana_industry:hydrodynamic_journal_bearing"
+    },
+    "S": {
+      "item": "arcana_industry:drive_shaft"
+    },
+    "O": {
+      "item": "arcana_industry:lubricating_oil"
+    },
+    "K": {
+      "item": "arcana_industry:shaft_key"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:spindle_gearbox"
+  }
+}

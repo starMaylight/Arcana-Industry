@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:lattice_lamination",
+  "ingredient": { "tag": "forge:ingots/gallium" },
+  "count": 2,
+  "result": { "item": "minecraft:daylight_detector", "count": 1 },
+  "duration": 160,
+  "energy_per_tick": 24
+}

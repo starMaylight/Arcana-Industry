@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ILI",
+    "ZSC",
+    "ITI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "item": "arcana_industry:laminated_shell"
+    },
+    "T": {
+      "item": "arcana_industry:transformer_core"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "S": {
+      "item": "arcana_industry:stator_coil"
+    },
+    "Z": {
+      "tag": "forge:ingots/antimony"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:signal_imprinter"
+  }
+}

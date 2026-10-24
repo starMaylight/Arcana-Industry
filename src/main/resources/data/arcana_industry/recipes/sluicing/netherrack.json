@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:sluicing",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:quartz"
+  }
+}

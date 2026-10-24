@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WCM",
+    "ARU",
+    "PBX"
+  ],
+  "key": {
+    "W": {
+      "item": "arcana_industry:wound_coil"
+    },
+    "X": {
+      "item": "arcana_industry:charged_capacitor"
+    },
+    "M": {
+      "item": "arcana_industry:magnetized_core"
+    },
+    "P": {
+      "item": "arcana_industry:fused_steel_plate"
+    },
+    "C": {
+      "item": "arcana_industry:conductive_crystal"
+    },
+    "A": {
+      "item": "arcana_industry:vitrified_amethyst"
+    },
+    "U": {
+      "item": "arcana_industry:resonant_rune"
+    },
+    "R": {
+      "item": "arcana_industry:harmonic_lens"
+    },
+    "B": {
+      "item": "arcana_industry:electrolyzer"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:resonance_infuser"
+  }
+}

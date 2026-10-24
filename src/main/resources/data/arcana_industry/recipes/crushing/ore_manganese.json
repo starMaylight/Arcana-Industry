@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "tag": "forge:ores/manganese"
+  },
+  "result": {
+    "item": "arcana_industry:manganese_grit",
+    "count": 2
+  },
+  "duration": 180,
+  "energy_per_tick": 5
+}

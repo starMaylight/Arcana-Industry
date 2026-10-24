@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:degaussing",
+  "ingredient": {
+    "item": "arcana_industry:stator_coil"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:degaussed_armature",
+    "count": 1
+  }
+}

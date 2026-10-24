@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "GBG",
+    "SPS"
+  ],
+  "key": {
+    "S": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "C": {
+      "item": "arcana_industry:converged_phase"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "B": {
+      "item": "minecraft:water_bucket"
+    },
+    "P": {
+      "item": "arcana_industry:phase_coil"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_revivifier"
+  }
+}

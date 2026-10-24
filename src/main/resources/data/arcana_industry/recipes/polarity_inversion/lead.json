@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:polarity_inversion",
+  "ingredient": {
+    "item": "minecraft:lead"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:string",
+    "count": 1
+  }
+}

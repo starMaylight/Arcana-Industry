@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:photolysis",
+  "ingredient": {
+    "item": "minecraft:fletching_table"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:flint",
+    "count": 2
+  },
+  "duration": 160,
+  "energy_per_tick": 20
+}

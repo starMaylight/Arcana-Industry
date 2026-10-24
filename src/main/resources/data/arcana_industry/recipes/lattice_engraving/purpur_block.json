@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:lattice_engraving",
+  "ingredient": {
+    "item": "minecraft:purpur_block"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:purpur_pillar",
+    "count": 5
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

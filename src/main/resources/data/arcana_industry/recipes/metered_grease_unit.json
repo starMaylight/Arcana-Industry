@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CGC", "PBR", "CLC"],
+  "key": {
+    "C": {"item": "minecraft:copper_ingot"},
+    "G": {"item": "arcana_industry:bourdon_pressure_gauge"},
+    "P": {"item": "arcana_industry:bath_circulation_pump"},
+    "B": {"item": "arcana_industry:bearing_grease"},
+    "R": {"item": "minecraft:redstone"},
+    "L": {"item": "arcana_industry:sealed_steel_plate"}
+  },
+  "result": {"item": "arcana_industry:metered_grease_unit"}
+}

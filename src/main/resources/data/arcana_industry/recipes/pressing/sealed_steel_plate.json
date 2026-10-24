@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"item": "arcana_industry:galvanized_steel_billet"},
+  "count": 1,
+  "result": {"item": "arcana_industry:sealed_steel_plate"},
+  "duration": 120,
+  "energy_per_tick": 8
+}

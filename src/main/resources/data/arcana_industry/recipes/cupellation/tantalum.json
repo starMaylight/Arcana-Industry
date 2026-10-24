@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/tantalum"
+  },
+  "count": 3,
+  "levels": 2,
+  "result": {
+    "item": "arcana_industry:tantalum_fluoride_concentrate",
+    "count": 2
+  },
+  "byproduct": {
+    "item": "arcana_industry:niobium_ingot"
+  }
+}

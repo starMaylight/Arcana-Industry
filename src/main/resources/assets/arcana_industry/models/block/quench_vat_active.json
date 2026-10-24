@@ -1,0 +1,7 @@
+{
+  "parent": "arcana_industry:block/quench_vat",
+  "textures": {
+    "up": "arcana_industry:block/quench_vat_top_active",
+    "north": "arcana_industry:block/quench_vat_face_active"
+  }
+}

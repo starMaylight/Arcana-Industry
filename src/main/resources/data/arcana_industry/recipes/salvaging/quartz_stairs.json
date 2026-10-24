@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:salvaging",
+  "ingredient": {
+    "item": "minecraft:quartz_stairs"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:quartz_block",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 18
+}

@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:torch",
+    "count": 6
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

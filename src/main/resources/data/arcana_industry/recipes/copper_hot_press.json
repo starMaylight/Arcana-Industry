@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    "PHP",
+    "ARA"
+  ],
+  "key": {
+    "A": {
+      "item": "arcana_industry:annealed_copper"
+    },
+    "C": {
+      "item": "arcana_industry:kiln"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:copper_hot_press"
+  }
+}

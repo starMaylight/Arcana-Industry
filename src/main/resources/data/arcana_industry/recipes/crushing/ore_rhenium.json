@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "tag": "forge:ores/rhenium"
+  },
+  "result": {
+    "item": "arcana_industry:rhenium_grit",
+    "count": 2
+  },
+  "duration": 200,
+  "energy_per_tick": 6
+}

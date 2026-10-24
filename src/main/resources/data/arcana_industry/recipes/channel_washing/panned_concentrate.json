@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:channel_washing",
+  "ingredient": {
+    "item": "minecraft:raw_gold"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:panned_concentrate",
+    "count": 1
+  }
+}

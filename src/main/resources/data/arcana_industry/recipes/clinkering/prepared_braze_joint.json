@@ -1,0 +1,9 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {"item": "arcana_industry:prepared_braze_joint"},
+  "count": 1,
+  "result": {"item": "arcana_industry:brazed_joint", "count": 1},
+  "duration": 200,
+  "energy_per_tick": 12,
+  "priority": 0
+}

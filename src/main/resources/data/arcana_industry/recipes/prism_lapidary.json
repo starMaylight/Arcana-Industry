@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XAP",
+    "GCG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "A": {
+      "item": "arcana_industry:attuned_quartz"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:prism_separator"
+    },
+    "X": {
+      "item": "arcana_industry:burnished_prism_sheet"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:prism_lapidary"
+  }
+}

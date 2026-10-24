@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lattice_engraving",
+  "ingredient": {
+    "item": "arcana_industry:prism_core"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:etched_prism"
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

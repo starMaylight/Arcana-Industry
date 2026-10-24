@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:sculk"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:sculk_sensor",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

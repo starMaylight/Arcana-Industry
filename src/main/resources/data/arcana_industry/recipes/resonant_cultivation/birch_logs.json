@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:resonant_cultivation",
+  "ingredient": {
+    "item": "minecraft:birch_sapling"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:birch_log",
+    "count": 4
+  }
+}

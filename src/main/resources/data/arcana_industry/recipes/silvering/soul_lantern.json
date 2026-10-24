@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:soul_torch"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/titanium"
+  },
+  "result": {
+    "item": "minecraft:soul_lantern"
+  }
+}

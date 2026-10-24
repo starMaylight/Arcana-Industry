@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:grinding",
+  "ingredient": {
+    "item": "arcana_industry:cemented_carbide_insert"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:lapped_carbide_seat",
+    "count": 1
+  },
+  "duration": 200,
+  "energy_per_tick": 16
+}

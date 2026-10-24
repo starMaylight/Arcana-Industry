@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:induction_winding",
+  "ingredient": { "item": "arcana_industry:conductive_crystal" },
+  "count": 3,
+  "result": { "item": "arcana_industry:wound_coil", "count": 1 },
+  "duration": 160,
+  "energy_per_tick": 32
+}

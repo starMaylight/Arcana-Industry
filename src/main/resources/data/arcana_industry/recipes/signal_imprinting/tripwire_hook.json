@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:signal_imprinting",
+  "ingredient": {
+    "item": "minecraft:string"
+  },
+  "count": 16,
+  "result": {
+    "item": "minecraft:tripwire_hook",
+    "count": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:iridescent",
+  "base": {
+    "item": "minecraft:white_concrete_powder"
+  },
+  "base_count": 8,
+  "reagent": {
+    "item": "minecraft:pink_dye"
+  },
+  "reagent_count": 1,
+  "result": {
+    "item": "minecraft:pink_concrete_powder",
+    "count": 8
+  }
+}

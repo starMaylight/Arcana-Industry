@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:molding",
+  "ingredient": {
+    "item": "minecraft:iron_door"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 2
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

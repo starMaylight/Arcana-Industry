@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:degaussing",
+  "ingredient": {
+    "item": "minecraft:brewing_stand"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:blaze_rod",
+    "count": 1
+  }
+}

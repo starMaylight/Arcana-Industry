@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "CCC",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "arcana_industry:carded_fiber"
+    },
+    "C": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:copper_cable",
+    "count": 6
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/tungsten"
+  },
+  "count": 24,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 8,
+  "result": {
+    "item": "minecraft:anvil"
+  }
+}

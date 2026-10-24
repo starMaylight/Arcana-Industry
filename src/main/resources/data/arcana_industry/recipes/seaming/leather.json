@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:seaming",
+  "ingredient": {
+    "item": "minecraft:leather"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:clamped_liner",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:reliquary_core"
+  ],
+  "traits": {
+    "arcana_industry:binding": 3,
+    "arcana_industry:woven": 1
+  }
+}

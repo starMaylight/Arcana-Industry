@@ -1,0 +1,135 @@
+{
+  "id": "arcana_industry:iridescent_basin",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/IridescentBasinBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:end_rod"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 2,
+      "block": "minecraft:prismarine_bricks"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:prismarine_bricks"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:obsidian"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:obsidian"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:end_rod",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:prismarine_bricks",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:obsidian",
+          "[controller]",
+          "minecraft:obsidian"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:prismarine_bricks",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:sea_lantern",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

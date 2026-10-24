@@ -1,0 +1,13 @@
+{
+  "title": "Containment Forge",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 8",
+  "group": "Lattice works",
+  "pages": [
+    "Craft with a Prism Core, three Sealed Steel Plates, a Static O-Ring, two glass panes, a hopper, a Lattice Composer and a Stasis Core. Reclaim a Reinforced Seal preform from one Sealed Steel Plate in the Lattice Reclaimer, then line it with one slime ball in a crafting grid. The elastomer ring seals this stationary containment chamber; the metal preform alone will not fit. Crafting slot 4 (row-major 3x3) requires a niobium ingot via forge:ingots/niobium; all progression gates remain required.",
+    "Feed one item into the left slot. The forge spends 20 FE/t for 150 ticks and yields a single sealed result in the right slot; unlike the Lattice Composer there is no second byproduct channel. Containing two Phase Lattices yields the Bound Singularity, the next t9 progression material.",
+    "Twenty datapack recipes cover compaction of powders, shards, kelp and drips into dense sealed blocks. Nine slime balls seal into one slime block, matching the nine balls recovered by scoring or capacitor discharge. Five gunpowder seal into one TNT; Ash Bellows can recover those five gunpowder, without gaining any. JEI displays the result and FE. Recipe type arcana_industry:containment accepts ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; equal priority uses recipe ID.",
+    "Sealing invents nothing: the product's material traits must fit inside the combined traits of the consumed inputs (count x input). A row that would add a trait, for example a modded recipe packing untraited nuggets into a heavy ingot, halts with \"Product traits not in input or field\" and keeps its input. The Phase Lattice keeps one point of the Prism Core glow, which is what lets two lattices seal into the luminous Bound Singularity; magma blocks carry the binding of the cream they were packed from.",
+    "Top and horizontal sides import; bottom exports the result. Side mode buttons configure each face. Supply FE by capability or manual crank. The machine pauses if the output slot is full; inventory, FE, work progress and side modes persist. Breaking it drops both slots. The Phase Annealer now requires one Bound Singularity in place of one of its four sealed steel plate corners."
+  ]
+}

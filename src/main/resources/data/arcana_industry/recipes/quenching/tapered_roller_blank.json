@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:quenching",
+  "ingredient": {
+    "item": "arcana_industry:tapered_roller_blank"
+  },
+  "count": 2,
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "arcana_industry:tapered_roller",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 12
+}

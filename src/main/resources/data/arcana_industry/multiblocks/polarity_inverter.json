@@ -1,0 +1,135 @@
+{
+  "id": "arcana_industry:polarity_inverter",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/PolarityInverterBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:lodestone"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:end_rod"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:crying_obsidian"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:crying_obsidian"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:crying_obsidian"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:crying_obsidian"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:amethyst_block"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:end_rod",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:amethyst_block",
+          "minecraft:crying_obsidian",
+          "minecraft:amethyst_block"
+        ],
+        [
+          "minecraft:crying_obsidian",
+          "[controller]",
+          "minecraft:crying_obsidian"
+        ],
+        [
+          "minecraft:amethyst_block",
+          "minecraft:crying_obsidian",
+          "minecraft:amethyst_block"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:lodestone",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ],
+  "port_substitute": {
+    "block": "arcana_industry:stock_hatch",
+    "replaces": "any part touching the controller face-to-face",
+    "max": 2,
+    "relays": "the covered controller face's item port (In/Out/Off)"
+  }
+}

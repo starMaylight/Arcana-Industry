@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/iron"
+  },
+  "count": 4,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 3,
+  "result": {
+    "item": "arcana_industry:cupel_tongs"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": { "item": "arcana_industry:conductive_crystal" },
+  "count": 2,
+  "lumen_cost": 200,
+  "result": { "item": "arcana_industry:resonant_rune", "count": 1 }
+}

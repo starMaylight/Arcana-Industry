@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:stasis_weaving",
+  "ingredient": {
+    "item": "minecraft:echo_shard"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:sculk"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

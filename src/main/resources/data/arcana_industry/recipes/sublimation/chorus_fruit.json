@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:sublimation",
+  "ingredient": {
+    "item": "minecraft:chorus_fruit"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:popped_chorus_fruit",
+    "count": 5
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

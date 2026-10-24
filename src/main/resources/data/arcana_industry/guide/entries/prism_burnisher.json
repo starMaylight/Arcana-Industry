@@ -1,0 +1,11 @@
+{
+  "title": "Prism Burnisher",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 7",
+  "group": "Prism and spectral finishing",
+  "pages": [
+    "Craft from sealed steel, Attuned Quartz, a Tumbled Prism Bead, quartz, hopper and Prism Separator. Tumble the bead first in the Prism Tumbler. Put quartz blocks directly north and south of the drum; missing or unloaded pads halt work.",
+    "Feed 24 FE/t or crank. Top and horizontal ports import, bottom exports; configure each face in the menu. Inventory, power, progress and ports persist. JEI lists twenty datapack recipes for surface finishing and optical sheets.",
+    "Burnish Attuned Quartz into a Burnished Prism Sheet. The sheet replaces one sealed steel corner of the Prism Lapidary craft, so it gates the next t7 apparatus without a cycle. Stone polishing jobs (andesite, basalt, blackstone, diorite, granite, stone, stone bricks, polished blackstone and quartz blocks) take four blocks for five; sandstone, red sandstone and end stone stay one-to-one because other machines recover them."
+  ]
+}

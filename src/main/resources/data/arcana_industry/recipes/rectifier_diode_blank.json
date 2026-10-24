@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "W",
+    "P"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "W": {
+      "item": "arcana_industry:germanium_wafer"
+    },
+    "P": {
+      "item": "arcana_industry:porcelain_insulator"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:rectifier_diode_blank"
+  }
+}

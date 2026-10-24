@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "arcana_industry:ash_bellows",
+    "arcana_industry:astral_font",
+    "arcana_industry:basalt_temperer",
+    "arcana_industry:char_retort",
+    "arcana_industry:clay_extruder",
+    "arcana_industry:clinker_oven",
+    "arcana_industry:copper_hot_press",
+    "arcana_industry:crusher",
+    "arcana_industry:ember_dryer",
+    "arcana_industry:fiber_carder",
+    "arcana_industry:kiln",
+    "arcana_industry:mold_caster",
+    "arcana_industry:quench_vat",
+    "arcana_industry:quern",
+    "arcana_industry:refractory_mixer",
+    "arcana_industry:sawmill",
+    "arcana_industry:sieve"
+  ]
+}

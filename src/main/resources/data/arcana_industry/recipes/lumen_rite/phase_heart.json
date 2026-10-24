@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": { "item": "arcana_industry:converged_phase" },
+  "count": 2,
+  "lumen_cost": 480,
+  "result": { "item": "arcana_industry:phase_heart", "count": 1 }
+}

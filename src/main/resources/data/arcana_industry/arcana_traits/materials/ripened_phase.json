@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:ripened_phase"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 1,
+    "arcana_industry:resonant": 1
+  }
+}

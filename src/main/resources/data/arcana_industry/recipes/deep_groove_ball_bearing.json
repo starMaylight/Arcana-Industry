@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "arcana_industry:hardened_bearing_race"},
+    {"item": "arcana_industry:hardened_bearing_race"},
+    {"item": "arcana_industry:bearing_ball"},
+    {"item": "arcana_industry:bearing_ball"},
+    {"tag": "forge:nuggets/iron"}
+  ],
+  "result": {"item": "arcana_industry:deep_groove_ball_bearing"}
+}

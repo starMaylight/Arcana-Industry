@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" C ", "SFS", " C "],
+  "key": {
+    "C": {"tag": "forge:ingots/copper"},
+    "S": {"tag": "forge:ingots/silver"},
+    "F": {"item": "minecraft:blaze_powder"}
+  },
+  "result": {"item": "arcana_industry:prepared_braze_joint", "count": 2}
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:ashing",
+  "ingredient": {
+    "item": "minecraft:clay"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:brick",
+    "count": 4
+  },
+  "duration": 160,
+  "energy_per_tick": 4,
+  "priority": 0
+}

@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/zirconium"
+  },
+  "count": 3,
+  "levels": 2,
+  "result": {
+    "item": "arcana_industry:zirconium_ingot",
+    "count": 2
+  },
+  "byproduct": {
+    "item": "arcana_industry:hafnium_ingot"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:magnetization",
+  "ingredient": {
+    "item": "minecraft:golden_hoe"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:golden_shovel",
+    "count": 1
+  }
+}

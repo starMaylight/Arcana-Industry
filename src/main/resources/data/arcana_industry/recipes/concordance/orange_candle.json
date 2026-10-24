@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:concordance",
+  "base": {
+    "item": "minecraft:white_candle"
+  },
+  "base_count": 4,
+  "reagent": {
+    "item": "minecraft:orange_dye"
+  },
+  "reagent_count": 1,
+  "result": {
+    "item": "minecraft:orange_candle",
+    "count": 4
+  }
+}

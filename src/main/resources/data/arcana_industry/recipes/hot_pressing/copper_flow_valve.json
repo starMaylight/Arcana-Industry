@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {"item": "arcana_industry:valve_blank"},
+  "count": 1,
+  "result": {"item": "arcana_industry:copper_flow_valve", "count": 1},
+  "duration": 180,
+  "energy_per_tick": 12
+}

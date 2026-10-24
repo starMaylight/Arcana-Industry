@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "item": "arcana_industry:annealed_copper"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:lightning_rod",
+    "count": 1
+  }
+}

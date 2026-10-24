@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:faceting",
+  "ingredient": {
+    "item": "minecraft:deepslate"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:deepslate_bricks",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

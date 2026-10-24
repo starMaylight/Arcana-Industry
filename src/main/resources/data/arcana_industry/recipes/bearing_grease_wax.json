@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:honeycomb"},
+    {"item": "minecraft:clay_ball"}
+  ],
+  "result": {"item": "arcana_industry:bearing_grease", "count": 2}
+}

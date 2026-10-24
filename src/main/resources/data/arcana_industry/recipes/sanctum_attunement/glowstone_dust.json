@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:sanctum_attunement",
+  "ingredient": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:attuned_starshard"
+  }
+}

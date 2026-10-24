@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collection",
+  "ingredient": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:corona_ember",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 16
+}

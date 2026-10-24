@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:shulker_box"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 3,
+    "arcana_industry:buoyant": 1
+  }
+}

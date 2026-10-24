@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:arc_discharge",
+  "ingredient": { "item": "minecraft:dispenser" },
+  "count": 1,
+  "result": { "item": "minecraft:redstone", "count": 1 }
+}

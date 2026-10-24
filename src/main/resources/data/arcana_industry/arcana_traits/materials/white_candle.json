@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:white_candle"
+  ],
+  "traits": {
+    "arcana_industry:waxen": 2,
+    "arcana_industry:luminous": 1
+  }
+}

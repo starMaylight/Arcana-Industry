@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "tag": "minecraft:saplings"
+  },
+  "count": 4,
+  "residue": {
+    "item": "minecraft:bone_meal",
+    "count": 1
+  },
+  "burn_time": 400,
+  "energy_per_tick": 8,
+  "priority": 0
+}

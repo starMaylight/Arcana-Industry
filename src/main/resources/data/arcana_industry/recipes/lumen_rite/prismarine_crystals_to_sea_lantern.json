@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:prismarine_crystals"
+  },
+  "count": 6,
+  "lumen_cost": 180,
+  "result": {
+    "item": "minecraft:sea_lantern",
+    "count": 1
+  }
+}

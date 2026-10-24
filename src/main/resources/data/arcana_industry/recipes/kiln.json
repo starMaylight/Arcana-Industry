@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XRM",
+    "CFN",
+    "SGS"
+  ],
+  "key": {
+    "M": {
+      "item": "arcana_industry:ground_meal"
+    },
+    "C": {
+      "item": "arcana_industry:copper_grit"
+    },
+    "R": {
+      "item": "arcana_industry:refractory_binder"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "S": {
+      "item": "arcana_industry:screened_flux"
+    },
+    "G": {
+      "item": "arcana_industry:temper_ash"
+    },
+    "N": {
+      "item": "arcana_industry:night_sigil"
+    },
+    "X": {
+      "item": "arcana_industry:formed_firebrick"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:kiln"
+  }
+}

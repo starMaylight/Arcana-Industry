@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:sublimation",
+  "ingredient": {
+    "item": "minecraft:end_crystal"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:ghast_tear",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

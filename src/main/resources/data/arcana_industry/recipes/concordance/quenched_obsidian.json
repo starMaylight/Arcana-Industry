@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:concordance",
+  "base": {
+    "item": "minecraft:water_bucket"
+  },
+  "base_count": 1,
+  "reagent": {
+    "item": "minecraft:blaze_powder"
+  },
+  "reagent_count": 2,
+  "result": {
+    "item": "minecraft:obsidian",
+    "count": 2
+  },
+  "stability": 3
+}

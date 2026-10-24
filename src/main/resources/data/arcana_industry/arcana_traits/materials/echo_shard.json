@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:echo_shard"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 3,
+    "arcana_industry:umbral": 3
+  }
+}

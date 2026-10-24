@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:raw_materials/indium"
+  },
+  "result": "arcana_industry:indium_ingot",
+  "experience": 0.3,
+  "cookingtime": 200
+}

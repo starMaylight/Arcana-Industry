@@ -1,0 +1,1281 @@
+{
+  "astral_rite": {
+    "subtitle": "subtitles.arcana_industry.astral_rite",
+    "sounds": [
+      "arcana_industry:astral_rite"
+    ]
+  },
+  "crusher_batch": {
+    "subtitle": "subtitles.arcana_industry.crusher_batch",
+    "sounds": [
+      "arcana_industry:crusher_batch"
+    ]
+  },
+  "ash_bellows_batch": {
+    "subtitle": "subtitles.arcana_industry.ash_bellows_batch",
+    "sounds": [
+      "arcana_industry:machine/ash_bellows_1",
+      "arcana_industry:machine/ash_bellows_2"
+    ]
+  },
+  "char_retort_batch": {
+    "subtitle": "subtitles.arcana_industry.char_retort_batch",
+    "sounds": [
+      "arcana_industry:machine/char_retort_1",
+      "arcana_industry:machine/char_retort_2"
+    ]
+  },
+  "clinker_oven_batch": {
+    "subtitle": "subtitles.arcana_industry.clinker_oven_batch",
+    "sounds": [
+      "arcana_industry:machine/clinker_oven_1",
+      "arcana_industry:machine/clinker_oven_2"
+    ]
+  },
+  "ember_dryer_batch": {
+    "subtitle": "subtitles.arcana_industry.ember_dryer_batch",
+    "sounds": [
+      "arcana_industry:machine/ember_dryer_1",
+      "arcana_industry:machine/ember_dryer_2"
+    ]
+  },
+  "basalt_temperer_batch": {
+    "subtitle": "subtitles.arcana_industry.basalt_temperer_batch",
+    "sounds": [
+      "arcana_industry:machine/basalt_temperer_1",
+      "arcana_industry:machine/basalt_temperer_2"
+    ]
+  },
+  "containment_forge_batch": {
+    "subtitle": "subtitles.arcana_industry.containment_forge_batch",
+    "sounds": [
+      "arcana_industry:machine/containment_forge_1",
+      "arcana_industry:machine/containment_forge_2"
+    ]
+  },
+  "press_batch": {
+    "subtitle": "subtitles.arcana_industry.press_batch",
+    "sounds": [
+      "arcana_industry:machine/press_1",
+      "arcana_industry:machine/press_2"
+    ]
+  },
+  "copper_hot_press_batch": {
+    "subtitle": "subtitles.arcana_industry.copper_hot_press_batch",
+    "sounds": [
+      "arcana_industry:machine/copper_hot_press_1",
+      "arcana_industry:machine/copper_hot_press_2"
+    ]
+  },
+  "mold_caster_batch": {
+    "subtitle": "subtitles.arcana_industry.mold_caster_batch",
+    "sounds": [
+      "arcana_industry:machine/mold_caster_1",
+      "arcana_industry:machine/mold_caster_2"
+    ]
+  },
+  "clay_extruder_batch": {
+    "subtitle": "subtitles.arcana_industry.clay_extruder_batch",
+    "sounds": [
+      "arcana_industry:machine/clay_extruder_1",
+      "arcana_industry:machine/clay_extruder_2"
+    ]
+  },
+  "electrolyzer_batch": {
+    "subtitle": "subtitles.arcana_industry.electrolyzer_batch",
+    "sounds": [
+      "arcana_industry:machine/electrolyzer_1",
+      "arcana_industry:machine/electrolyzer_2"
+    ]
+  },
+  "leaching_vat_batch": {
+    "subtitle": "subtitles.arcana_industry.leaching_vat_batch",
+    "sounds": [
+      "arcana_industry:machine/leaching_vat_1",
+      "arcana_industry:machine/leaching_vat_2"
+    ]
+  },
+  "quench_vat_batch": {
+    "subtitle": "subtitles.arcana_industry.quench_vat_batch",
+    "sounds": [
+      "arcana_industry:machine/quench_vat_1",
+      "arcana_industry:machine/quench_vat_2"
+    ]
+  },
+  "refractory_mixer_batch": {
+    "subtitle": "subtitles.arcana_industry.refractory_mixer_batch",
+    "sounds": [
+      "arcana_industry:machine/refractory_mixer_1",
+      "arcana_industry:machine/refractory_mixer_2"
+    ]
+  },
+  "stellar_crucible_batch": {
+    "subtitle": "subtitles.arcana_industry.stellar_crucible_batch",
+    "sounds": [
+      "arcana_industry:machine/stellar_crucible_1",
+      "arcana_industry:machine/stellar_crucible_2"
+    ]
+  },
+  "quern_batch": {
+    "subtitle": "subtitles.arcana_industry.quern_batch",
+    "sounds": [
+      "arcana_industry:machine/quern_1",
+      "arcana_industry:machine/quern_2"
+    ]
+  },
+  "sieve_batch": {
+    "subtitle": "subtitles.arcana_industry.sieve_batch",
+    "sounds": [
+      "arcana_industry:machine/sieve_1",
+      "arcana_industry:machine/sieve_2"
+    ]
+  },
+  "sawmill_batch": {
+    "subtitle": "subtitles.arcana_industry.sawmill_batch",
+    "sounds": [
+      "arcana_industry:machine/sawmill_1",
+      "arcana_industry:machine/sawmill_2"
+    ]
+  },
+  "fiber_carder_batch": {
+    "subtitle": "subtitles.arcana_industry.fiber_carder_batch",
+    "sounds": [
+      "arcana_industry:machine/fiber_carder_1",
+      "arcana_industry:machine/fiber_carder_2"
+    ]
+  },
+  "lens_grinder_batch": {
+    "subtitle": "subtitles.arcana_industry.lens_grinder_batch",
+    "sounds": [
+      "arcana_industry:machine/lens_grinder_1",
+      "arcana_industry:machine/lens_grinder_2"
+    ]
+  },
+  "prism_burnisher_batch": {
+    "subtitle": "subtitles.arcana_industry.prism_burnisher_batch",
+    "sounds": [
+      "arcana_industry:machine/prism_burnisher_1",
+      "arcana_industry:machine/prism_burnisher_2"
+    ]
+  },
+  "prism_lapidary_batch": {
+    "subtitle": "subtitles.arcana_industry.prism_lapidary_batch",
+    "sounds": [
+      "arcana_industry:machine/prism_lapidary_1",
+      "arcana_industry:machine/prism_lapidary_2"
+    ]
+  },
+  "prism_polisher_batch": {
+    "subtitle": "subtitles.arcana_industry.prism_polisher_batch",
+    "sounds": [
+      "arcana_industry:machine/prism_polisher_1",
+      "arcana_industry:machine/prism_polisher_2"
+    ]
+  },
+  "prism_scorer_batch": {
+    "subtitle": "subtitles.arcana_industry.prism_scorer_batch",
+    "sounds": [
+      "arcana_industry:machine/prism_scorer_1",
+      "arcana_industry:machine/prism_scorer_2"
+    ]
+  },
+  "prism_separator_batch": {
+    "subtitle": "subtitles.arcana_industry.prism_separator_batch",
+    "sounds": [
+      "arcana_industry:machine/prism_separator_1",
+      "arcana_industry:machine/prism_separator_2"
+    ]
+  },
+  "prism_tumbler_batch": {
+    "subtitle": "subtitles.arcana_industry.prism_tumbler_batch",
+    "sounds": [
+      "arcana_industry:machine/prism_tumbler_1",
+      "arcana_industry:machine/prism_tumbler_2"
+    ]
+  },
+  "lens_collimator_batch": {
+    "subtitle": "subtitles.arcana_industry.lens_collimator_batch",
+    "sounds": [
+      "arcana_industry:machine/lens_collimator_1",
+      "arcana_industry:machine/lens_collimator_2"
+    ]
+  },
+  "spectral_filter_batch": {
+    "subtitle": "subtitles.arcana_industry.spectral_filter_batch",
+    "sounds": [
+      "arcana_industry:machine/spectral_filter_1",
+      "arcana_industry:machine/spectral_filter_2"
+    ]
+  },
+  "diffraction_grate_batch": {
+    "subtitle": "subtitles.arcana_industry.diffraction_grate_batch",
+    "sounds": [
+      "arcana_industry:machine/diffraction_grate_1",
+      "arcana_industry:machine/diffraction_grate_2"
+    ]
+  },
+  "heliostat_etcher_batch": {
+    "subtitle": "subtitles.arcana_industry.heliostat_etcher_batch",
+    "sounds": [
+      "arcana_industry:machine/heliostat_etcher_1",
+      "arcana_industry:machine/heliostat_etcher_2"
+    ]
+  },
+  "solar_photolyzer_batch": {
+    "subtitle": "subtitles.arcana_industry.solar_photolyzer_batch",
+    "sounds": [
+      "arcana_industry:machine/solar_photolyzer_1",
+      "arcana_industry:machine/solar_photolyzer_2"
+    ]
+  },
+  "solar_smelter_batch": {
+    "subtitle": "subtitles.arcana_industry.solar_smelter_batch",
+    "sounds": [
+      "arcana_industry:machine/solar_smelter_1",
+      "arcana_industry:machine/solar_smelter_2"
+    ]
+  },
+  "lattice_composer_batch": {
+    "subtitle": "subtitles.arcana_industry.lattice_composer_batch",
+    "sounds": [
+      "arcana_industry:machine/lattice_composer_1",
+      "arcana_industry:machine/lattice_composer_2"
+    ]
+  },
+  "lattice_engraver_batch": {
+    "subtitle": "subtitles.arcana_industry.lattice_engraver_batch",
+    "sounds": [
+      "arcana_industry:machine/lattice_engraver_1",
+      "arcana_industry:machine/lattice_engraver_2"
+    ]
+  },
+  "lattice_infuser_batch": {
+    "subtitle": "subtitles.arcana_industry.lattice_infuser_batch",
+    "sounds": [
+      "arcana_industry:machine/lattice_infuser_1",
+      "arcana_industry:machine/lattice_infuser_2"
+    ]
+  },
+  "lattice_laminator_batch": {
+    "subtitle": "subtitles.arcana_industry.lattice_laminator_batch",
+    "sounds": [
+      "arcana_industry:machine/lattice_laminator_1",
+      "arcana_industry:machine/lattice_laminator_2"
+    ]
+  },
+  "lattice_reclaimer_batch": {
+    "subtitle": "subtitles.arcana_industry.lattice_reclaimer_batch",
+    "sounds": [
+      "arcana_industry:machine/lattice_reclaimer_1",
+      "arcana_industry:machine/lattice_reclaimer_2"
+    ]
+  },
+  "lattice_scriber_batch": {
+    "subtitle": "subtitles.arcana_industry.lattice_scriber_batch",
+    "sounds": [
+      "arcana_industry:machine/lattice_scriber_1",
+      "arcana_industry:machine/lattice_scriber_2"
+    ]
+  },
+  "lattice_welder_batch": {
+    "subtitle": "subtitles.arcana_industry.lattice_welder_batch",
+    "sounds": [
+      "arcana_industry:machine/lattice_welder_1",
+      "arcana_industry:machine/lattice_welder_2"
+    ]
+  },
+  "phase_annealer_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_annealer_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_annealer_1",
+      "arcana_industry:machine/phase_annealer_2"
+    ]
+  },
+  "phase_collapser_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_collapser_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_collapser_1",
+      "arcana_industry:machine/phase_collapser_2"
+    ]
+  },
+  "phase_conflux_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_conflux_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_conflux_1",
+      "arcana_industry:machine/phase_conflux_2"
+    ]
+  },
+  "phase_diffuser_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_diffuser_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_diffuser_1",
+      "arcana_industry:machine/phase_diffuser_2"
+    ]
+  },
+  "phase_effuser_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_effuser_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_effuser_1",
+      "arcana_industry:machine/phase_effuser_2"
+    ]
+  },
+  "phase_inverter_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_inverter_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_inverter_1",
+      "arcana_industry:machine/phase_inverter_2"
+    ]
+  },
+  "phase_modulator_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_modulator_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_modulator_1",
+      "arcana_industry:machine/phase_modulator_2"
+    ]
+  },
+  "phase_preserver_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_preserver_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_preserver_1",
+      "arcana_industry:machine/phase_preserver_2"
+    ]
+  },
+  "phase_reclaimer_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_reclaimer_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_reclaimer_1",
+      "arcana_industry:machine/phase_reclaimer_2"
+    ]
+  },
+  "phase_stabilizer_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_stabilizer_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_stabilizer_1",
+      "arcana_industry:machine/phase_stabilizer_2"
+    ]
+  },
+  "phase_sublimator_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_sublimator_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_sublimator_1",
+      "arcana_industry:machine/phase_sublimator_2"
+    ]
+  },
+  "astral_relay_batch": {
+    "subtitle": "subtitles.arcana_industry.astral_relay_batch",
+    "sounds": [
+      "arcana_industry:machine/astral_relay_1",
+      "arcana_industry:machine/astral_relay_2"
+    ]
+  },
+  "resonance_infuser_batch": {
+    "subtitle": "subtitles.arcana_industry.resonance_infuser_batch",
+    "sounds": [
+      "arcana_industry:machine/resonance_infuser_1",
+      "arcana_industry:machine/resonance_infuser_2"
+    ]
+  },
+  "noctilucent_condenser_batch": {
+    "subtitle": "subtitles.arcana_industry.noctilucent_condenser_batch",
+    "sounds": [
+      "arcana_industry:machine/noctilucent_condenser_1",
+      "arcana_industry:machine/noctilucent_condenser_2"
+    ]
+  },
+  "corona_collector_batch": {
+    "subtitle": "subtitles.arcana_industry.corona_collector_batch",
+    "sounds": [
+      "arcana_industry:machine/corona_collector_1",
+      "arcana_industry:machine/corona_collector_2"
+    ]
+  },
+  "stasis_weaver_batch": {
+    "subtitle": "subtitles.arcana_industry.stasis_weaver_batch",
+    "sounds": [
+      "arcana_industry:machine/stasis_weaver_1",
+      "arcana_industry:machine/stasis_weaver_2"
+    ]
+  },
+  "spell_lumen_bolt": {
+    "subtitle": "subtitles.arcana_industry.spell_lumen_bolt",
+    "sounds": [
+      "arcana_industry:spell/lumen_bolt_1",
+      "arcana_industry:spell/lumen_bolt_2"
+    ]
+  },
+  "spell_resonance_pulse": {
+    "subtitle": "subtitles.arcana_industry.spell_resonance_pulse",
+    "sounds": [
+      "arcana_industry:spell/resonance_pulse_1",
+      "arcana_industry:spell/resonance_pulse_2"
+    ]
+  },
+  "spell_astral_lance": {
+    "subtitle": "subtitles.arcana_industry.spell_astral_lance",
+    "sounds": [
+      "arcana_industry:spell/astral_lance_1",
+      "arcana_industry:spell/astral_lance_2"
+    ]
+  },
+  "spell_starfall": {
+    "subtitle": "subtitles.arcana_industry.spell_starfall",
+    "sounds": [
+      "arcana_industry:spell/starfall_1",
+      "arcana_industry:spell/starfall_2"
+    ]
+  },
+  "spell_arc_chain": {
+    "subtitle": "subtitles.arcana_industry.spell_arc_chain",
+    "sounds": [
+      "arcana_industry:spell/arc_chain_1",
+      "arcana_industry:spell/arc_chain_2"
+    ]
+  },
+  "spell_dusk_fan": {
+    "subtitle": "subtitles.arcana_industry.spell_dusk_fan",
+    "sounds": [
+      "arcana_industry:spell/dusk_fan_1",
+      "arcana_industry:spell/dusk_fan_2"
+    ]
+  },
+  "spell_gravity_well": {
+    "subtitle": "subtitles.arcana_industry.spell_gravity_well",
+    "sounds": [
+      "arcana_industry:spell/gravity_well_1",
+      "arcana_industry:spell/gravity_well_2"
+    ]
+  },
+  "spell_repulsion_burst": {
+    "subtitle": "subtitles.arcana_industry.spell_repulsion_burst",
+    "sounds": [
+      "arcana_industry:spell/repulsion_burst_1",
+      "arcana_industry:spell/repulsion_burst_2"
+    ]
+  },
+  "spell_skyward_surge": {
+    "subtitle": "subtitles.arcana_industry.spell_skyward_surge",
+    "sounds": [
+      "arcana_industry:spell/skyward_surge_1",
+      "arcana_industry:spell/skyward_surge_2"
+    ]
+  },
+  "spell_withering_sigil": {
+    "subtitle": "subtitles.arcana_industry.spell_withering_sigil",
+    "sounds": [
+      "arcana_industry:spell/withering_sigil_1",
+      "arcana_industry:spell/withering_sigil_2"
+    ]
+  },
+  "spell_siphon_mark": {
+    "subtitle": "subtitles.arcana_industry.spell_siphon_mark",
+    "sounds": [
+      "arcana_industry:spell/siphon_mark_1",
+      "arcana_industry:spell/siphon_mark_2"
+    ]
+  },
+  "spell_nullifying_brand": {
+    "subtitle": "subtitles.arcana_industry.spell_nullifying_brand",
+    "sounds": [
+      "arcana_industry:spell/nullifying_brand_1",
+      "arcana_industry:spell/nullifying_brand_2"
+    ]
+  },
+  "spell_binding_snare": {
+    "subtitle": "subtitles.arcana_industry.spell_binding_snare",
+    "sounds": [
+      "arcana_industry:spell/binding_snare_1",
+      "arcana_industry:spell/binding_snare_2"
+    ]
+  },
+  "spell_finishing_gleam": {
+    "subtitle": "subtitles.arcana_industry.spell_finishing_gleam",
+    "sounds": [
+      "arcana_industry:spell/finishing_gleam_1",
+      "arcana_industry:spell/finishing_gleam_2"
+    ]
+  },
+  "spell_aegis_ward": {
+    "subtitle": "subtitles.arcana_industry.spell_aegis_ward",
+    "sounds": [
+      "arcana_industry:spell/aegis_ward_1",
+      "arcana_industry:spell/aegis_ward_2"
+    ]
+  },
+  "spell_harmonic_reversal": {
+    "subtitle": "subtitles.arcana_industry.spell_harmonic_reversal",
+    "sounds": [
+      "arcana_industry:spell/harmonic_reversal_1",
+      "arcana_industry:spell/harmonic_reversal_2"
+    ]
+  },
+  "spell_blink_strike": {
+    "subtitle": "subtitles.arcana_industry.spell_blink_strike",
+    "sounds": [
+      "arcana_industry:spell/blink_strike_1",
+      "arcana_industry:spell/blink_strike_2"
+    ]
+  },
+  "spell_discordant_call": {
+    "subtitle": "subtitles.arcana_industry.spell_discordant_call",
+    "sounds": [
+      "arcana_industry:spell/discordant_call_1",
+      "arcana_industry:spell/discordant_call_2"
+    ]
+  },
+  "spell_rift_exchange": {
+    "subtitle": "subtitles.arcana_industry.spell_rift_exchange",
+    "sounds": [
+      "arcana_industry:spell/rift_exchange_1",
+      "arcana_industry:spell/rift_exchange_2"
+    ]
+  },
+  "spell_arcane_fury": {
+    "subtitle": "subtitles.arcana_industry.spell_arcane_fury",
+    "sounds": [
+      "arcana_industry:spell/arcane_fury_1",
+      "arcana_industry:spell/arcane_fury_2"
+    ]
+  },
+  "cinder_husk_ambient": {
+    "subtitle": "subtitles.arcana_industry.cinder_husk_ambient",
+    "sounds": [
+      "arcana_industry:mob/cinder_husk/ambient_1",
+      "arcana_industry:mob/cinder_husk/ambient_2",
+      "arcana_industry:mob/cinder_husk/ambient_3"
+    ]
+  },
+  "cinder_husk_hurt": {
+    "subtitle": "subtitles.arcana_industry.cinder_husk_hurt",
+    "sounds": [
+      "arcana_industry:mob/cinder_husk/hurt_1",
+      "arcana_industry:mob/cinder_husk/hurt_2",
+      "arcana_industry:mob/cinder_husk/hurt_3"
+    ]
+  },
+  "cinder_husk_death": {
+    "subtitle": "subtitles.arcana_industry.cinder_husk_death",
+    "sounds": [
+      "arcana_industry:mob/cinder_husk/death_1",
+      "arcana_industry:mob/cinder_husk/death_2"
+    ]
+  },
+  "flux_archer_ambient": {
+    "subtitle": "subtitles.arcana_industry.flux_archer_ambient",
+    "sounds": [
+      "arcana_industry:mob/flux_archer/ambient_1",
+      "arcana_industry:mob/flux_archer/ambient_2",
+      "arcana_industry:mob/flux_archer/ambient_3"
+    ]
+  },
+  "flux_archer_hurt": {
+    "subtitle": "subtitles.arcana_industry.flux_archer_hurt",
+    "sounds": [
+      "arcana_industry:mob/flux_archer/hurt_1",
+      "arcana_industry:mob/flux_archer/hurt_2",
+      "arcana_industry:mob/flux_archer/hurt_3"
+    ]
+  },
+  "flux_archer_death": {
+    "subtitle": "subtitles.arcana_industry.flux_archer_death",
+    "sounds": [
+      "arcana_industry:mob/flux_archer/death_1",
+      "arcana_industry:mob/flux_archer/death_2"
+    ]
+  },
+  "static_creeper_ambient": {
+    "subtitle": "subtitles.arcana_industry.static_creeper_ambient",
+    "sounds": [
+      "arcana_industry:mob/static_creeper/ambient_1",
+      "arcana_industry:mob/static_creeper/ambient_2",
+      "arcana_industry:mob/static_creeper/ambient_3"
+    ]
+  },
+  "static_creeper_hurt": {
+    "subtitle": "subtitles.arcana_industry.static_creeper_hurt",
+    "sounds": [
+      "arcana_industry:mob/static_creeper/hurt_1",
+      "arcana_industry:mob/static_creeper/hurt_2",
+      "arcana_industry:mob/static_creeper/hurt_3"
+    ]
+  },
+  "static_creeper_death": {
+    "subtitle": "subtitles.arcana_industry.static_creeper_death",
+    "sounds": [
+      "arcana_industry:mob/static_creeper/death_1",
+      "arcana_industry:mob/static_creeper/death_2"
+    ]
+  },
+  "ore_mite_ambient": {
+    "subtitle": "subtitles.arcana_industry.ore_mite_ambient",
+    "sounds": [
+      "arcana_industry:mob/ore_mite/ambient_1",
+      "arcana_industry:mob/ore_mite/ambient_2",
+      "arcana_industry:mob/ore_mite/ambient_3"
+    ]
+  },
+  "ore_mite_hurt": {
+    "subtitle": "subtitles.arcana_industry.ore_mite_hurt",
+    "sounds": [
+      "arcana_industry:mob/ore_mite/hurt_1",
+      "arcana_industry:mob/ore_mite/hurt_2",
+      "arcana_industry:mob/ore_mite/hurt_3"
+    ]
+  },
+  "ore_mite_death": {
+    "subtitle": "subtitles.arcana_industry.ore_mite_death",
+    "sounds": [
+      "arcana_industry:mob/ore_mite/death_1",
+      "arcana_industry:mob/ore_mite/death_2"
+    ]
+  },
+  "rust_crawler_ambient": {
+    "subtitle": "subtitles.arcana_industry.rust_crawler_ambient",
+    "sounds": [
+      "arcana_industry:mob/rust_crawler/ambient_1",
+      "arcana_industry:mob/rust_crawler/ambient_2",
+      "arcana_industry:mob/rust_crawler/ambient_3"
+    ]
+  },
+  "rust_crawler_hurt": {
+    "subtitle": "subtitles.arcana_industry.rust_crawler_hurt",
+    "sounds": [
+      "arcana_industry:mob/rust_crawler/hurt_1",
+      "arcana_industry:mob/rust_crawler/hurt_2",
+      "arcana_industry:mob/rust_crawler/hurt_3"
+    ]
+  },
+  "rust_crawler_death": {
+    "subtitle": "subtitles.arcana_industry.rust_crawler_death",
+    "sounds": [
+      "arcana_industry:mob/rust_crawler/death_1",
+      "arcana_industry:mob/rust_crawler/death_2"
+    ]
+  },
+  "cinder_husk_step": {
+    "subtitle": "subtitles.arcana_industry.cinder_husk_step",
+    "sounds": [
+      "arcana_industry:mob/cinder_husk/step_1",
+      "arcana_industry:mob/cinder_husk/step_2",
+      "arcana_industry:mob/cinder_husk/step_3"
+    ]
+  },
+  "flux_archer_step": {
+    "subtitle": "subtitles.arcana_industry.flux_archer_step",
+    "sounds": [
+      "arcana_industry:mob/flux_archer/step_1",
+      "arcana_industry:mob/flux_archer/step_2",
+      "arcana_industry:mob/flux_archer/step_3"
+    ]
+  },
+  "static_creeper_step": {
+    "subtitle": "subtitles.arcana_industry.static_creeper_step",
+    "sounds": [
+      "arcana_industry:mob/static_creeper/step_1",
+      "arcana_industry:mob/static_creeper/step_2",
+      "arcana_industry:mob/static_creeper/step_3"
+    ]
+  },
+  "ore_mite_step": {
+    "subtitle": "subtitles.arcana_industry.ore_mite_step",
+    "sounds": [
+      "arcana_industry:mob/ore_mite/step_1",
+      "arcana_industry:mob/ore_mite/step_2",
+      "arcana_industry:mob/ore_mite/step_3"
+    ]
+  },
+  "rust_crawler_step": {
+    "subtitle": "subtitles.arcana_industry.rust_crawler_step",
+    "sounds": [
+      "arcana_industry:mob/rust_crawler/step_1",
+      "arcana_industry:mob/rust_crawler/step_2",
+      "arcana_industry:mob/rust_crawler/step_3"
+    ]
+  },
+  "flux_archer_shoot": {
+    "subtitle": "subtitles.arcana_industry.flux_archer_shoot",
+    "sounds": [
+      "arcana_industry:mob/flux_archer/shoot_1",
+      "arcana_industry:mob/flux_archer/shoot_2",
+      "arcana_industry:mob/flux_archer/shoot_3"
+    ]
+  },
+  "static_creeper_fuse": {
+    "subtitle": "subtitles.arcana_industry.static_creeper_fuse",
+    "sounds": [
+      "arcana_industry:mob/static_creeper/fuse_1",
+      "arcana_industry:mob/static_creeper/fuse_2",
+      "arcana_industry:mob/static_creeper/fuse_3"
+    ]
+  },
+  "arc_press_work": {
+    "subtitle": "subtitles.arcana_industry.arc_press_work",
+    "sounds": [
+      "arcana_industry:multiblock/arc_press_1",
+      "arcana_industry:multiblock/arc_press_2"
+    ]
+  },
+  "armor_delaminator_work": {
+    "subtitle": "subtitles.arcana_industry.armor_delaminator_work",
+    "sounds": [
+      "arcana_industry:multiblock/armor_delaminator_1",
+      "arcana_industry:multiblock/armor_delaminator_2"
+    ]
+  },
+  "blast_column_work": {
+    "subtitle": "subtitles.arcana_industry.blast_column_work",
+    "sounds": [
+      "arcana_industry:multiblock/blast_column_1",
+      "arcana_industry:multiblock/blast_column_2"
+    ]
+  },
+  "broach_press_work": {
+    "subtitle": "subtitles.arcana_industry.broach_press_work",
+    "sounds": [
+      "arcana_industry:multiblock/broach_press_1",
+      "arcana_industry:multiblock/broach_press_2"
+    ]
+  },
+  "capacitor_array_work": {
+    "subtitle": "subtitles.arcana_industry.capacitor_array_work",
+    "sounds": [
+      "arcana_industry:multiblock/capacitor_array_1",
+      "arcana_industry:multiblock/capacitor_array_2"
+    ]
+  },
+  "chromatic_kiln_work": {
+    "subtitle": "subtitles.arcana_industry.chromatic_kiln_work",
+    "sounds": [
+      "arcana_industry:multiblock/chromatic_kiln_1",
+      "arcana_industry:multiblock/chromatic_kiln_2"
+    ]
+  },
+  "clamping_press_work": {
+    "subtitle": "subtitles.arcana_industry.clamping_press_work",
+    "sounds": [
+      "arcana_industry:multiblock/clamping_press_1",
+      "arcana_industry:multiblock/clamping_press_2"
+    ]
+  },
+  "compaction_spire_work": {
+    "subtitle": "subtitles.arcana_industry.compaction_spire_work",
+    "sounds": [
+      "arcana_industry:multiblock/compaction_spire_1",
+      "arcana_industry:multiblock/compaction_spire_2"
+    ]
+  },
+  "concordance_altar_work": {
+    "subtitle": "subtitles.arcana_industry.concordance_altar_work",
+    "sounds": [
+      "arcana_industry:multiblock/concordance_altar_1",
+      "arcana_industry:multiblock/concordance_altar_2"
+    ]
+  },
+  "crimp_press_work": {
+    "subtitle": "subtitles.arcana_industry.crimp_press_work",
+    "sounds": [
+      "arcana_industry:multiblock/crimp_press_1",
+      "arcana_industry:multiblock/crimp_press_2"
+    ]
+  },
+  "degauss_coil_work": {
+    "subtitle": "subtitles.arcana_industry.degauss_coil_work",
+    "sounds": [
+      "arcana_industry:multiblock/degauss_coil_1",
+      "arcana_industry:multiblock/degauss_coil_2"
+    ]
+  },
+  "flange_press_work": {
+    "subtitle": "subtitles.arcana_industry.flange_press_work",
+    "sounds": [
+      "arcana_industry:multiblock/flange_press_1",
+      "arcana_industry:multiblock/flange_press_2"
+    ]
+  },
+  "flux_rectifier_work": {
+    "subtitle": "subtitles.arcana_industry.flux_rectifier_work",
+    "sounds": [
+      "arcana_industry:multiblock/flux_rectifier_1",
+      "arcana_industry:multiblock/flux_rectifier_2"
+    ]
+  },
+  "foundry_ring_work": {
+    "subtitle": "subtitles.arcana_industry.foundry_ring_work",
+    "sounds": [
+      "arcana_industry:multiblock/foundry_ring_1",
+      "arcana_industry:multiblock/foundry_ring_2"
+    ]
+  },
+  "heraldic_frame_work": {
+    "subtitle": "subtitles.arcana_industry.heraldic_frame_work",
+    "sounds": [
+      "arcana_industry:multiblock/heraldic_frame_1",
+      "arcana_industry:multiblock/heraldic_frame_2"
+    ]
+  },
+  "hydraulic_riveter_work": {
+    "subtitle": "subtitles.arcana_industry.hydraulic_riveter_work",
+    "sounds": [
+      "arcana_industry:multiblock/hydraulic_riveter_1",
+      "arcana_industry:multiblock/hydraulic_riveter_2"
+    ]
+  },
+  "induction_coiler_work": {
+    "subtitle": "subtitles.arcana_industry.induction_coiler_work",
+    "sounds": [
+      "arcana_industry:multiblock/induction_coiler_1",
+      "arcana_industry:multiblock/induction_coiler_2"
+    ]
+  },
+  "iridescent_basin_work": {
+    "subtitle": "subtitles.arcana_industry.iridescent_basin_work",
+    "sounds": [
+      "arcana_industry:multiblock/iridescent_basin_1",
+      "arcana_industry:multiblock/iridescent_basin_2"
+    ]
+  },
+  "magnetizer_work": {
+    "subtitle": "subtitles.arcana_industry.magnetizer_work",
+    "sounds": [
+      "arcana_industry:multiblock/magnetizer_1",
+      "arcana_industry:multiblock/magnetizer_2"
+    ]
+  },
+  "milling_gantry_work": {
+    "subtitle": "subtitles.arcana_industry.milling_gantry_work",
+    "sounds": [
+      "arcana_industry:multiblock/milling_gantry_1",
+      "arcana_industry:multiblock/milling_gantry_2"
+    ]
+  },
+  "ore_sluice_work": {
+    "subtitle": "subtitles.arcana_industry.ore_sluice_work",
+    "sounds": [
+      "arcana_industry:multiblock/ore_sluice_1",
+      "arcana_industry:multiblock/ore_sluice_2"
+    ]
+  },
+  "polarity_inverter_work": {
+    "subtitle": "subtitles.arcana_industry.polarity_inverter_work",
+    "sounds": [
+      "arcana_industry:multiblock/polarity_inverter_1",
+      "arcana_industry:multiblock/polarity_inverter_2"
+    ]
+  },
+  "prismatic_press_work": {
+    "subtitle": "subtitles.arcana_industry.prismatic_press_work",
+    "sounds": [
+      "arcana_industry:multiblock/prismatic_press_1",
+      "arcana_industry:multiblock/prismatic_press_2"
+    ]
+  },
+  "provision_hearth_work": {
+    "subtitle": "subtitles.arcana_industry.provision_hearth_work",
+    "sounds": [
+      "arcana_industry:multiblock/provision_hearth_1",
+      "arcana_industry:multiblock/provision_hearth_2"
+    ]
+  },
+  "reliquary_stand_work": {
+    "subtitle": "subtitles.arcana_industry.reliquary_stand_work",
+    "sounds": [
+      "arcana_industry:multiblock/reliquary_stand_1",
+      "arcana_industry:multiblock/reliquary_stand_2"
+    ]
+  },
+  "resonance_basin_work": {
+    "subtitle": "subtitles.arcana_industry.resonance_basin_work",
+    "sounds": [
+      "arcana_industry:multiblock/resonance_basin_1",
+      "arcana_industry:multiblock/resonance_basin_2"
+    ]
+  },
+  "resonant_cultivator_work": {
+    "subtitle": "subtitles.arcana_industry.resonant_cultivator_work",
+    "sounds": [
+      "arcana_industry:multiblock/resonant_cultivator_1",
+      "arcana_industry:multiblock/resonant_cultivator_2"
+    ]
+  },
+  "rotary_screen_work": {
+    "subtitle": "subtitles.arcana_industry.rotary_screen_work",
+    "sounds": [
+      "arcana_industry:multiblock/rotary_screen_1",
+      "arcana_industry:multiblock/rotary_screen_2"
+    ]
+  },
+  "sanctum_pylon_work": {
+    "subtitle": "subtitles.arcana_industry.sanctum_pylon_work",
+    "sounds": [
+      "arcana_industry:multiblock/sanctum_pylon_1",
+      "arcana_industry:multiblock/sanctum_pylon_2"
+    ]
+  },
+  "seam_press_work": {
+    "subtitle": "subtitles.arcana_industry.seam_press_work",
+    "sounds": [
+      "arcana_industry:multiblock/seam_press_1",
+      "arcana_industry:multiblock/seam_press_2"
+    ]
+  },
+  "signal_imprinter_work": {
+    "subtitle": "subtitles.arcana_industry.signal_imprinter_work",
+    "sounds": [
+      "arcana_industry:multiblock/signal_imprinter_1",
+      "arcana_industry:multiblock/signal_imprinter_2"
+    ]
+  },
+  "smoke_rack_work": {
+    "subtitle": "subtitles.arcana_industry.smoke_rack_work",
+    "sounds": [
+      "arcana_industry:multiblock/smoke_rack_1",
+      "arcana_industry:multiblock/smoke_rack_2"
+    ]
+  },
+  "soaking_hearth_work": {
+    "subtitle": "subtitles.arcana_industry.soaking_hearth_work",
+    "sounds": [
+      "arcana_industry:multiblock/soaking_hearth_1",
+      "arcana_industry:multiblock/soaking_hearth_2"
+    ]
+  },
+  "spectral_loom_work": {
+    "subtitle": "subtitles.arcana_industry.spectral_loom_work",
+    "sounds": [
+      "arcana_industry:multiblock/spectral_loom_1",
+      "arcana_industry:multiblock/spectral_loom_2"
+    ]
+  },
+  "swage_press_work": {
+    "subtitle": "subtitles.arcana_industry.swage_press_work",
+    "sounds": [
+      "arcana_industry:multiblock/swage_press_1",
+      "arcana_industry:multiblock/swage_press_2"
+    ]
+  },
+  "twin_channel_washer_work": {
+    "subtitle": "subtitles.arcana_industry.twin_channel_washer_work",
+    "sounds": [
+      "arcana_industry:multiblock/twin_channel_washer_1",
+      "arcana_industry:multiblock/twin_channel_washer_2"
+    ]
+  },
+  "verdant_distiller_work": {
+    "subtitle": "subtitles.arcana_industry.verdant_distiller_work",
+    "sounds": [
+      "arcana_industry:multiblock/verdant_distiller_1",
+      "arcana_industry:multiblock/verdant_distiller_2"
+    ]
+  },
+  "kiln_fire": {
+    "subtitle": "subtitles.arcana_industry.kiln_fire",
+    "sounds": [
+      "arcana_industry:machine/kiln_fire_1",
+      "arcana_industry:machine/kiln_fire_2",
+      "arcana_industry:machine/kiln_fire_3"
+    ]
+  },
+  "kiln_ignite": {
+    "subtitle": "subtitles.arcana_industry.kiln_ignite",
+    "sounds": [
+      "arcana_industry:machine/kiln_ignite"
+    ]
+  },
+  "kiln_cool": {
+    "subtitle": "subtitles.arcana_industry.kiln_cool",
+    "sounds": [
+      "arcana_industry:machine/kiln_cool"
+    ]
+  },
+  "electrolyzer_hum": {
+    "subtitle": "subtitles.arcana_industry.electrolyzer_hum",
+    "sounds": [
+      "arcana_industry:machine/electrolyzer_hum_1",
+      "arcana_industry:machine/electrolyzer_hum_2",
+      "arcana_industry:machine/electrolyzer_hum_3"
+    ]
+  },
+  "electrolyzer_start": {
+    "subtitle": "subtitles.arcana_industry.electrolyzer_start",
+    "sounds": [
+      "arcana_industry:machine/electrolyzer_start"
+    ]
+  },
+  "electrolyzer_stop": {
+    "subtitle": "subtitles.arcana_industry.electrolyzer_stop",
+    "sounds": [
+      "arcana_industry:machine/electrolyzer_stop"
+    ]
+  },
+  "leaching_vat_bubble": {
+    "subtitle": "subtitles.arcana_industry.leaching_vat_bubble",
+    "sounds": [
+      "arcana_industry:machine/leaching_vat_bubble_1",
+      "arcana_industry:machine/leaching_vat_bubble_2",
+      "arcana_industry:machine/leaching_vat_bubble_3"
+    ]
+  },
+  "leaching_vat_start": {
+    "subtitle": "subtitles.arcana_industry.leaching_vat_start",
+    "sounds": [
+      "arcana_industry:machine/leaching_vat_start"
+    ]
+  },
+  "leaching_vat_stop": {
+    "subtitle": "subtitles.arcana_industry.leaching_vat_stop",
+    "sounds": [
+      "arcana_industry:machine/leaching_vat_stop"
+    ]
+  },
+  "quench_vat_start": {
+    "subtitle": "subtitles.arcana_industry.quench_vat_start",
+    "sounds": [
+      "arcana_industry:machine/quench_vat_start"
+    ]
+  },
+  "quench_vat_stop": {
+    "subtitle": "subtitles.arcana_industry.quench_vat_stop",
+    "sounds": [
+      "arcana_industry:machine/quench_vat_stop"
+    ]
+  },
+  "music_disc.lattice_hymn": {
+    "sounds": [
+      {
+        "name": "arcana_industry:music/lattice_hymn",
+        "stream": true
+      }
+    ]
+  },
+  "spell_impact_lumen_bolt": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_lumen_bolt",
+    "sounds": [
+      "arcana_industry:spell_impact/lumen_bolt_1",
+      "arcana_industry:spell_impact/lumen_bolt_2",
+      "arcana_industry:spell_impact/lumen_bolt_3"
+    ]
+  },
+  "spell_impact_resonance_pulse": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_resonance_pulse",
+    "sounds": [
+      "arcana_industry:spell_impact/resonance_pulse_1",
+      "arcana_industry:spell_impact/resonance_pulse_2",
+      "arcana_industry:spell_impact/resonance_pulse_3"
+    ]
+  },
+  "spell_impact_astral_lance": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_astral_lance",
+    "sounds": [
+      "arcana_industry:spell_impact/astral_lance_1",
+      "arcana_industry:spell_impact/astral_lance_2",
+      "arcana_industry:spell_impact/astral_lance_3"
+    ]
+  },
+  "spell_impact_starfall": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_starfall",
+    "sounds": [
+      "arcana_industry:spell_impact/starfall_1",
+      "arcana_industry:spell_impact/starfall_2",
+      "arcana_industry:spell_impact/starfall_3"
+    ]
+  },
+  "spell_impact_arc_chain": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_arc_chain",
+    "sounds": [
+      "arcana_industry:spell_impact/arc_chain_1",
+      "arcana_industry:spell_impact/arc_chain_2",
+      "arcana_industry:spell_impact/arc_chain_3"
+    ]
+  },
+  "spell_impact_dusk_fan": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_dusk_fan",
+    "sounds": [
+      "arcana_industry:spell_impact/dusk_fan_1",
+      "arcana_industry:spell_impact/dusk_fan_2",
+      "arcana_industry:spell_impact/dusk_fan_3"
+    ]
+  },
+  "spell_impact_gravity_well": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_gravity_well",
+    "sounds": [
+      "arcana_industry:spell_impact/gravity_well_1",
+      "arcana_industry:spell_impact/gravity_well_2",
+      "arcana_industry:spell_impact/gravity_well_3"
+    ]
+  },
+  "spell_impact_repulsion_burst": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_repulsion_burst",
+    "sounds": [
+      "arcana_industry:spell_impact/repulsion_burst_1",
+      "arcana_industry:spell_impact/repulsion_burst_2",
+      "arcana_industry:spell_impact/repulsion_burst_3"
+    ]
+  },
+  "spell_impact_skyward_surge": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_skyward_surge",
+    "sounds": [
+      "arcana_industry:spell_impact/skyward_surge_1",
+      "arcana_industry:spell_impact/skyward_surge_2",
+      "arcana_industry:spell_impact/skyward_surge_3"
+    ]
+  },
+  "spell_impact_withering_sigil": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_withering_sigil",
+    "sounds": [
+      "arcana_industry:spell_impact/withering_sigil_1",
+      "arcana_industry:spell_impact/withering_sigil_2",
+      "arcana_industry:spell_impact/withering_sigil_3"
+    ]
+  },
+  "spell_impact_siphon_mark": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_siphon_mark",
+    "sounds": [
+      "arcana_industry:spell_impact/siphon_mark_1",
+      "arcana_industry:spell_impact/siphon_mark_2",
+      "arcana_industry:spell_impact/siphon_mark_3"
+    ]
+  },
+  "spell_impact_nullifying_brand": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_nullifying_brand",
+    "sounds": [
+      "arcana_industry:spell_impact/nullifying_brand_1",
+      "arcana_industry:spell_impact/nullifying_brand_2",
+      "arcana_industry:spell_impact/nullifying_brand_3"
+    ]
+  },
+  "spell_impact_binding_snare": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_binding_snare",
+    "sounds": [
+      "arcana_industry:spell_impact/binding_snare_1",
+      "arcana_industry:spell_impact/binding_snare_2",
+      "arcana_industry:spell_impact/binding_snare_3"
+    ]
+  },
+  "spell_impact_finishing_gleam": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_finishing_gleam",
+    "sounds": [
+      "arcana_industry:spell_impact/finishing_gleam_1",
+      "arcana_industry:spell_impact/finishing_gleam_2",
+      "arcana_industry:spell_impact/finishing_gleam_3"
+    ]
+  },
+  "spell_impact_aegis_ward": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_aegis_ward",
+    "sounds": [
+      "arcana_industry:spell_impact/aegis_ward_1",
+      "arcana_industry:spell_impact/aegis_ward_2",
+      "arcana_industry:spell_impact/aegis_ward_3"
+    ]
+  },
+  "spell_impact_harmonic_reversal": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_harmonic_reversal",
+    "sounds": [
+      "arcana_industry:spell_impact/harmonic_reversal_1",
+      "arcana_industry:spell_impact/harmonic_reversal_2",
+      "arcana_industry:spell_impact/harmonic_reversal_3"
+    ]
+  },
+  "spell_impact_blink_strike": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_blink_strike",
+    "sounds": [
+      "arcana_industry:spell_impact/blink_strike_1",
+      "arcana_industry:spell_impact/blink_strike_2",
+      "arcana_industry:spell_impact/blink_strike_3"
+    ]
+  },
+  "spell_impact_discordant_call": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_discordant_call",
+    "sounds": [
+      "arcana_industry:spell_impact/discordant_call_1",
+      "arcana_industry:spell_impact/discordant_call_2",
+      "arcana_industry:spell_impact/discordant_call_3"
+    ]
+  },
+  "spell_impact_rift_exchange": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_rift_exchange",
+    "sounds": [
+      "arcana_industry:spell_impact/rift_exchange_1",
+      "arcana_industry:spell_impact/rift_exchange_2",
+      "arcana_industry:spell_impact/rift_exchange_3"
+    ]
+  },
+  "spell_impact_arcane_fury": {
+    "subtitle": "subtitles.arcana_industry.spell_impact_arcane_fury",
+    "sounds": [
+      "arcana_industry:spell_impact/arcane_fury_1",
+      "arcana_industry:spell_impact/arcane_fury_2",
+      "arcana_industry:spell_impact/arcane_fury_3"
+    ]
+  },
+  "music_disc.corroded_waltz": {
+    "sounds": [
+      {
+        "name": "arcana_industry:music/corroded_waltz",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.vein_echo": {
+    "sounds": [
+      {
+        "name": "arcana_industry:music/vein_echo",
+        "stream": true
+      }
+    ]
+  },
+  "silvering_bath_work": {
+    "subtitle": "subtitles.arcana_industry.silvering_bath_work",
+    "sounds": [
+      "arcana_industry:multiblock/silvering_bath_1",
+      "arcana_industry:multiblock/silvering_bath_2"
+    ]
+  },
+  "enamel_kiln_work": {
+    "subtitle": "subtitles.arcana_industry.enamel_kiln_work",
+    "sounds": [
+      "arcana_industry:multiblock/enamel_kiln_1",
+      "arcana_industry:multiblock/enamel_kiln_2"
+    ]
+  },
+  "drawing_bench_work": {
+    "subtitle": "subtitles.arcana_industry.drawing_bench_work",
+    "sounds": [
+      "arcana_industry:multiblock/drawing_bench_1",
+      "arcana_industry:multiblock/drawing_bench_2"
+    ]
+  },
+  "assay_hearth_work": {
+    "subtitle": "subtitles.arcana_industry.assay_hearth_work",
+    "sounds": [
+      "arcana_industry:multiblock/assay_hearth_1",
+      "arcana_industry:multiblock/assay_hearth_2"
+    ]
+  },
+  "coal_forge_work": {
+    "subtitle": "subtitles.arcana_industry.coal_forge_work",
+    "sounds": [
+      "arcana_industry:multiblock/coal_forge_1",
+      "arcana_industry:multiblock/coal_forge_2"
+    ]
+  },
+  "phase_revivifier_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_revivifier_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_revivifier_1",
+      "arcana_industry:machine/phase_revivifier_2"
+    ]
+  },
+  "phase_refractor_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_refractor_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_refractor_1",
+      "arcana_industry:machine/phase_refractor_2"
+    ]
+  },
+  "phase_fermenter_batch": {
+    "subtitle": "subtitles.arcana_industry.phase_fermenter_batch",
+    "sounds": [
+      "arcana_industry:machine/phase_fermenter_1",
+      "arcana_industry:machine/phase_fermenter_2"
+    ]
+  }
+}

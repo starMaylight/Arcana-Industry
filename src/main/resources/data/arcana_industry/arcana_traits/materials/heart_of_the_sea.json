@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:heart_of_the_sea"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 5,
+    "arcana_industry:rigid": 2
+  }
+}

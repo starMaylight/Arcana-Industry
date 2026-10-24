@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:wither_skeleton_skull"
+  ],
+  "traits": {
+    "arcana_industry:umbral": 3,
+    "arcana_industry:rigid": 1
+  }
+}

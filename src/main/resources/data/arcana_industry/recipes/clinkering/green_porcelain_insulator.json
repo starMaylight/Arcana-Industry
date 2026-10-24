@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "arcana_industry:green_porcelain_insulator"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:porcelain_insulator",
+    "count": 1
+  },
+  "duration": 220,
+  "energy_per_tick": 13,
+  "priority": 0
+}

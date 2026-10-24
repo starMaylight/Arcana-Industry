@@ -1,0 +1,17 @@
+{
+  "type": "arcana_industry:separation",
+  "ingredient": {
+    "item": "minecraft:porkchop"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:rendered_tallow",
+    "count": 1
+  },
+  "byproduct": {
+    "item": "minecraft:cooked_porkchop",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

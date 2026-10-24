@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:quenching",
+  "ingredient": {
+    "item": "arcana_industry:steel_billet"
+  },
+  "count": 2,
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "arcana_industry:tempered_steel",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 10
+}

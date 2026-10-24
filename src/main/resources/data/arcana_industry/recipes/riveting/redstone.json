@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "item": "minecraft:redstone"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:redstone_block",
+    "count": 1
+  }
+}

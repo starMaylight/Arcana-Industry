@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:capacitor_charging",
+  "ingredient": {
+    "item": "minecraft:nether_wart_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:nether_wart",
+    "count": 9
+  }
+}

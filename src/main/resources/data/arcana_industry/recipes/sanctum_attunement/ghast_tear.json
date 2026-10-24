@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:sanctum_attunement",
+  "ingredient": {
+    "item": "minecraft:ghast_tear"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:blaze_powder"
+  }
+}

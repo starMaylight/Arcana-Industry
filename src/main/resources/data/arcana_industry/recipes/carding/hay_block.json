@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:carding",
+  "ingredient": {
+    "item": "minecraft:hay_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:carded_fiber",
+    "count": 20
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

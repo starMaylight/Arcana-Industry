@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:cut_sandstone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:chiseled_sandstone"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

@@ -1,0 +1,17 @@
+{
+  "items": [
+    "minecraft:golden_axe",
+    "minecraft:golden_boots",
+    "minecraft:golden_chestplate",
+    "minecraft:golden_helmet",
+    "minecraft:golden_hoe",
+    "minecraft:golden_leggings",
+    "minecraft:golden_pickaxe",
+    "minecraft:golden_shovel",
+    "minecraft:golden_sword"
+  ],
+  "traits": {
+    "arcana_industry:heavy": 2,
+    "arcana_industry:flexible": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": { "item": "minecraft:repeater" },
+  "count": 3,
+  "result": { "item": "minecraft:redstone", "count": 2 }
+}

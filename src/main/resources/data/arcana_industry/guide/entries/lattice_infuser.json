@@ -1,0 +1,12 @@
+{
+  "title": "Lattice Infuser",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 8",
+  "group": "Lattice works",
+  "pages": [
+    "Craft from four Sealed Steel Plates, a Prism Core, two glass panes, a hopper and a Collimated Lens (from the Lens Collimator). The machine is accessible before the Lattice Scriber and Lattice Engraver, so the Infuser -> Scriber -> Engraver chain has no loop. Infuse one Sealed Steel Plate into an Infused Lattice Core; this replaces the upper-left duplicate plate in the Lattice Scriber craft. Material update: crafting slot 4 (row-major 3x3) now requires a germanium ingot via forge:ingots/germanium; all existing progression gates remain required.",
+    "Twenty-two infusion recipes chisel, crack or re-cut one construction block into its structural variant (chiseled, cracked, pillar or wall form). Most rows grow the lattice: two blocks become three variants, beating the stonecutter. Cobbled deepslate, deepslate tiles, polished blackstone bricks, quartz block and sandstone stay one-to-one because other machines turn their products back. Every product is the same material re-formed, so it inherits all of its input's properties; the Infuser never turns metal into unrelated parts. The Infused Lattice Core is another exclusive recipe.",
+    "Feed items through top or horizontal faces, extract below, and set Off/In/Out modes in the menu. Forge energy or the menu crank supplies power. Stone infusion takes 140 ticks at 20 FE/t; the Core takes 160 ticks at 22 FE/t. Work pauses at full output and inventory, progress, FE and side modes persist.",
+    "Datapacks can add arcana_industry:infusion recipes with ingredient (item or tag), count, result, duration, energy_per_tick and optional priority. Higher priority wins, then ascending recipe ID. JEI shows inputs, outputs, time, power and the Infuser catalyst."
+  ]
+}

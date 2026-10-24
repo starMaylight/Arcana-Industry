@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PKP",
+    "ZCG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "K": {
+      "item": "arcana_industry:bound_singularity"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:containment_forge"
+    },
+    "Z": {
+      "tag": "forge:ingots/osmium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_collapser"
+  }
+}

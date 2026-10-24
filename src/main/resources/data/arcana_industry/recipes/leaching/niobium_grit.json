@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:leaching",
+  "ingredient": {
+    "item": "arcana_industry:niobium_grit"
+  },
+  "count": 1,
+  "fluid": "minecraft:water",
+  "fluid_amount": 500,
+  "result": {
+    "item": "arcana_industry:niobium_oxide_cake",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 12
+}

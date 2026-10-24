@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:copper_ingot"
+  ],
+  "traits": {
+    "arcana_industry:flexible": 1,
+    "arcana_industry:heavy": 1
+  }
+}

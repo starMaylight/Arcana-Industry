@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:fusing",
+  "ingredient": {
+    "item": "minecraft:kelp"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:dried_kelp_block"
+  },
+  "duration": 120,
+  "energy_per_tick": 16,
+  "lumen_per_tick": 4
+}

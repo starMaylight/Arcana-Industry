@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "tag": "forge:ingots/rhodium"
+  },
+  "binder": {
+    "item": "minecraft:comparator"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:observer",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

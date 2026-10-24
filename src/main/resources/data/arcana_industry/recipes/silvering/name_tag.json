@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:paper"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/tantalum"
+  },
+  "result": {
+    "item": "minecraft:name_tag"
+  }
+}

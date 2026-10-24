@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {"item": "arcana_industry:carbide_insert_blank"},
+  "count": 1,
+  "result": {"item": "arcana_industry:cemented_carbide_insert"},
+  "duration": 240,
+  "energy_per_tick": 16
+}

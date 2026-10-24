@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:elytra"
+  ],
+  "traits": {
+    "arcana_industry:buoyant": 4,
+    "arcana_industry:flexible": 3
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:column_blasting",
+  "ingredient": {
+    "item": "minecraft:andesite"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:polished_andesite",
+    "count": 5
+  }
+}

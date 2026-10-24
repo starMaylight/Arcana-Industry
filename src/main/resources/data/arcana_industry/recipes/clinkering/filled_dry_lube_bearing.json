@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "arcana_industry:filled_dry_lube_bearing"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:dry_lube_bearing",
+    "count": 1
+  },
+  "duration": 200,
+  "energy_per_tick": 12,
+  "priority": 0
+}

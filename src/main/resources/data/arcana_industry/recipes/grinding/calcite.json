@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:grinding",
+  "ingredient": {
+    "item": "minecraft:calcite"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:quartz",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

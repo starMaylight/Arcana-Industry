@@ -1,0 +1,11 @@
+{
+  "title": "Titanium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 1",
+  "group": "Alloying and refractory metals",
+  "pages": [
+    "Titanium Ore and Deepslate Titanium Ore generate in the Overworld between Y -64 and 16 (veins of size 4, up to three veins per chunk column), deeper and rarer than Chromium. An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Titanium and Fortune can increase the yield. Required industrial use: flange press. Its craft consumes this ingot; compatible forge:ingots/titanium inputs are accepted.",
+    "Titanium does not smelt in a furnace or blast furnace. The Crusher processes one Raw Titanium into two Titanium Grit in 180 ticks at 5 energy per tick. Craft two Titanium Grit, one Purified Salts from the Leaching Vat and one charcoal into two Titanium Chloride Charges, then fire each charge in the Kiln at the full 1000 heat for 240 ticks to get one Titanium Ingot. Automate it by piping Crusher output and leached salts to an autocrafter, then hopper the charges into the Kiln input face and extract ingots from its output face.",
+    "Titanium uses forge:ores/titanium, forge:raw_materials/titanium and forge:ingots/titanium tags. Datapacks can add matching recipes. Titanium Ingots are stored for later apparatus and material progression. The Copper Hot Press also consumes 2 forge:ingots/titanium ingots to make one smithing table; insert from the top or sides, supply 1,680 FE, and extract the result below. The recipe takes 140 ticks."
+  ]
+}

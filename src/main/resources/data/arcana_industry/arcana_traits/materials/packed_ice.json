@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:packed_ice"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 2,
+    "arcana_industry:crystalline": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Prism Polisher",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 7",
+  "group": "Prism and spectral finishing",
+  "pages": [
+    "Craft from one Bevel Gear Pair, one Cylindrical Roller Bearing, an amethyst shard, glowstone, hopper, Prism Lapidary and two Tapered Roller Bearings. Hand-feed two Sintered Bronze Gears into the formed Milling Gantry to cut one matched Bevel Gear Pair; its intersecting axes turn the feed drive toward the polishing spindle. The bearings carry radial load and opposed wheel thrust. Put glowstone blocks directly above and below the lens stack; missing or unloaded blocks halt work.",
+    "Feed 24 FE/t or crank. Top and horizontal ports import, bottom exports; configure each face in the menu. Inventory, power, progress and ports persist. JEI lists twenty datapack recipes for decorative stone, nether and light-block polishing. Prismarine bricks polish 2 -> 1 dark prismarine, matching the Modulator's ratio so the eight-shard milling recovery cannot gain. Cracked deepslate tiles, cracked polished blackstone bricks and cracked nether bricks polish back to their intact blocks, a repair no vanilla station offers; cobbled deepslate and purpur blocks polish into three slabs each instead of the stonecutter's two.",
+    "Polish Attuned Quartz into a Polished Prism Facet. The facet replaces one sealed steel corner of the Prism Scorer craft, so it gates that apparatus without a cycle.",
+    "Tapered Roller Bearing (RP-B02 analogue): cold-head one Bearing Steel Stock into four Tapered Roller Blanks at the Hydraulic Riveter, harden two at a time in the Quench Vat (250 mB water, 120 ticks, 12 FE/t), and grind a Hardened Bearing Race into a Ground Tapered Race at the Lens Grinder (160 ticks, 16 FE/t). Two ground races (cup and cone), four Tapered Rollers and an iron nugget cage craft one bearing. Every machine step accepts hoppers except the hand-fed riveter. Ball bearings, thrust bearings, unground races and unhardened blanks are rejected. Contact angle, preload and load rating are not simulated.",
+    "Cylindrical Roller Bearing (RP-B03 analogue): the Lens Grinder removes the taper from two hardened Tapered Rollers to produce one straight roller (180 ticks, 16 FE/t). Four straight rollers, two Hardened Bearing Races and an iron nugget cage make the bearing. It carries radial load at the polishing feed; the opposed tapered pair below carries wheel thrust. A sealed plate or tapered bearing cannot replace it. Grinding away the taper wastes steel by design; real radial load ratings and clearances are not simulated."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flanging",
+  "ingredient": {
+    "tag": "forge:ingots/manganese"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:iron_door",
+    "count": 3
+  }
+}

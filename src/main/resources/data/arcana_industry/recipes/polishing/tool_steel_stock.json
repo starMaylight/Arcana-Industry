@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {"item": "arcana_industry:tool_steel_stock"},
+  "count": 1,
+  "result": {"item": "arcana_industry:gauge_block"},
+  "duration": 220,
+  "energy_per_tick": 24
+}

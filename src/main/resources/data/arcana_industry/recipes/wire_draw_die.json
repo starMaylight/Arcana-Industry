@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "TNT",
+    " T "
+  ],
+  "key": {
+    "T": {
+      "item": "arcana_industry:tempered_steel"
+    },
+    "N": {
+      "item": "arcana_industry:cemented_carbide_nib"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:wire_draw_die"
+  }
+}

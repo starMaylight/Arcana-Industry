@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:inversion",
+  "ingredient": {
+    "item": "minecraft:exposed_copper"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:weathered_copper",
+    "count": 2
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

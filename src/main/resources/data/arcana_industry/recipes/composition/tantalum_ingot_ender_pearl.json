@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "tag": "forge:ingots/tantalum"
+  },
+  "binder": {
+    "item": "minecraft:ender_pearl"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:ender_chest",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

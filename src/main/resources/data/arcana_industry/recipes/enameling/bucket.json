@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:clay_ball"
+  },
+  "count": 3,
+  "reagent": {
+    "tag": "forge:ingots/tin"
+  },
+  "result": {
+    "item": "minecraft:bucket"
+  }
+}

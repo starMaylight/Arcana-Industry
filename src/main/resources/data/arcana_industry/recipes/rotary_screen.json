@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZGC",
+    "ISI",
+    "RGR"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "G": {
+      "item": "arcana_industry:panned_concentrate"
+    },
+    "I": {
+      "item": "minecraft:iron_bars"
+    },
+    "S": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "Z": {
+      "tag": "forge:ingots/aluminum"
+    },
+    "R": {
+      "item": "arcana_industry:aluminum_rivet"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:rotary_screen"
+  }
+}

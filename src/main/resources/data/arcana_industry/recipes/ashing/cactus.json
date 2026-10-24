@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:ashing",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:bone_meal"
+  },
+  "duration": 80,
+  "energy_per_tick": 2,
+  "priority": 0
+}

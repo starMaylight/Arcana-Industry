@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "arcana_industry:chromium_grit"
+    },
+    {
+      "item": "arcana_industry:chromium_grit"
+    },
+    {
+      "item": "arcana_industry:aluminum_grit"
+    }
+  ],
+  "result": {
+    "item": "arcana_industry:chromium_thermite_charge",
+    "count": 2
+  }
+}

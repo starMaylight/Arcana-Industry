@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {"item": "arcana_industry:thermocouple_pair"},
+  "count": 1,
+  "result": {"item": "arcana_industry:thermocouple_probe", "count": 1},
+  "duration": 200,
+  "energy_per_tick": 12
+}

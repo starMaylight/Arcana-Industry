@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "frame": "arcana_industry:block/sieve_frame",
+    "rim": "arcana_industry:block/sieve_rim",
+    "mesh": "arcana_industry:block/sieve_mesh",
+    "particle": "arcana_industry:block/sieve_frame"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 3, 16],
+      "faces": {
+        "up": {"texture": "#frame"}, "down": {"texture": "#frame"},
+        "north": {"texture": "#frame"}, "south": {"texture": "#frame"},
+        "east": {"texture": "#frame"}, "west": {"texture": "#frame"}
+      }
+    },
+    {
+      "from": [0, 3, 0],
+      "to": [3, 13, 16],
+      "faces": {
+        "up": {"texture": "#rim"}, "down": {"texture": "#rim"},
+        "north": {"texture": "#rim"}, "south": {"texture": "#rim"},
+        "east": {"texture": "#rim"}, "west": {"texture": "#rim"}
+      }
+    },
+    {
+      "from": [13, 3, 0],
+      "to": [16, 13, 16],
+      "faces": {
+        "up": {"texture": "#rim"}, "down": {"texture": "#rim"},
+        "north": {"texture": "#rim"}, "south": {"texture": "#rim"},
+        "east": {"texture": "#rim"}, "west": {"texture": "#rim"}
+      }
+    },
+    {
+      "from": [3, 3, 4],
+      "to": [13, 10, 12],
+      "faces": {
+        "up": {"texture": "#mesh"}, "down": {"texture": "#mesh"},
+        "north": {"texture": "#mesh"}, "south": {"texture": "#mesh"},
+        "east": {"texture": "#mesh"}, "west": {"texture": "#mesh"}
+      }
+    },
+    {
+      "from": [0, 13, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "up": {"texture": "#mesh"}, "down": {"texture": "#mesh"},
+        "north": {"texture": "#mesh"}, "south": {"texture": "#mesh"},
+        "east": {"texture": "#mesh"}, "west": {"texture": "#mesh"}
+      }
+    }
+  ]
+}

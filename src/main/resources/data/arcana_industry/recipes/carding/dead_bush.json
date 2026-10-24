@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:carding",
+  "ingredient": {
+    "item": "minecraft:dead_bush"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:stick",
+    "count": 2
+  },
+  "duration": 60,
+  "energy_per_tick": 4,
+  "priority": 0
+}

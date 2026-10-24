@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": {
+    "item": "minecraft:hopper_minecart"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:hopper",
+    "count": 1
+  }
+}

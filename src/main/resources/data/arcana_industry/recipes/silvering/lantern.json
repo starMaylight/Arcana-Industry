@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:torch"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/aluminum"
+  },
+  "result": {
+    "item": "minecraft:lantern"
+  }
+}

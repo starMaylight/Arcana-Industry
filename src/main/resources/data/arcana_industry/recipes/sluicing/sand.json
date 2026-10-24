@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:sluicing",
+  "ingredient": {"item": "minecraft:sand"},
+  "count": 4,
+  "result": {"item": "arcana_industry:copper_grit"}
+}

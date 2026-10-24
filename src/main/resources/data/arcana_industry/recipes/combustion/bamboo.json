@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "item": "minecraft:bamboo"
+  },
+  "count": 16,
+  "residue": {
+    "item": "minecraft:bone_meal",
+    "count": 1
+  },
+  "burn_time": 800,
+  "energy_per_tick": 8,
+  "priority": 0
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:emerald"
+  ],
+  "traits": {
+    "arcana_industry:crystalline": 2,
+    "arcana_industry:pigment": 1
+  }
+}

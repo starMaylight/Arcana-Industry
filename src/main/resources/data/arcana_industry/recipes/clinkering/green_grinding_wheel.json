@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "arcana_industry:green_grinding_wheel"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:vitrified_grinding_wheel",
+    "count": 1
+  },
+  "duration": 240,
+  "energy_per_tick": 14,
+  "priority": 0
+}

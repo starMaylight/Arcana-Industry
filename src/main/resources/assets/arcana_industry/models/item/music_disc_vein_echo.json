@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {"layer0": "arcana_industry:item/music_disc_vein_echo"}
+}

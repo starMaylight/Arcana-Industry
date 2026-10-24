@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:concordance",
+  "base": {
+    "item": "minecraft:white_banner"
+  },
+  "base_count": 4,
+  "reagent": {
+    "item": "minecraft:pink_dye"
+  },
+  "reagent_count": 1,
+  "result": {
+    "item": "minecraft:pink_banner",
+    "count": 4
+  }
+}

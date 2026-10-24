@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FQP",
+    "GSG",
+    "VRP"
+  ],
+  "key": {
+    "V": {
+      "item": "arcana_industry:flyweight_governor"
+    },
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "Q": {
+      "item": "arcana_industry:attuned_quartz"
+    },
+    "G": {
+      "item": "arcana_industry:optic_powder"
+    },
+    "S": {
+      "item": "minecraft:spyglass"
+    },
+    "R": {
+      "item": "arcana_industry:resonance_infuser"
+    },
+    "F": {
+      "item": "arcana_industry:solar_foil"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:corona_collector"
+  }
+}

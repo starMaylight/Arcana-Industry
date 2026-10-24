@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:blue_ice"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 3,
+    "arcana_industry:crystalline": 2
+  }
+}

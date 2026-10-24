@@ -1,0 +1,12 @@
+{
+  "title": "Lattice Reclaimer",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 8",
+  "group": "Lattice works",
+  "pages": [
+    "Craft from four Sealed Steel Plates, a Prism Core, two glass panes, a hopper and a Stasis Core. The machine is accessible before the Containment Forge. Reclaim one Sealed Steel Plate into a Reinforced Seal preform. Combine it with one slime ball in a crafting grid to make the Static O-Ring required in the Containment Forge's upper-left slot. The preform alone is rejected.",
+    "Nineteen salvage recipes recover matching masonry blocks from stairs. Ten stairs made by the Lattice Laminator require two stairs to recover one block, matching its one-block-to-two-stairs yield; the other nine require one stair per block. The Reinforced Seal is the twentieth exclusive recipe.",
+    "Feed items through top or horizontal faces, extract below, and set Off/In/Out modes in the menu. Forge energy or the menu crank supplies power. Salvage takes 120 ticks at 18 FE/t; the Seal takes 160 ticks at 22 FE/t. Work pauses at full output and inventory, progress, FE and side modes persist.",
+    "Datapacks can add arcana_industry:salvaging recipes with ingredient (item or tag), count, result, duration, energy_per_tick and optional priority. Higher priority wins, then ascending recipe ID. JEI shows inputs, outputs, time, power and the Reclaimer catalyst."
+  ]
+}

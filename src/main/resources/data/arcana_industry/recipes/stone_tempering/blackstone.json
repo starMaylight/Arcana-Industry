@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:stone_tempering",
+  "ingredient": {
+    "item": "minecraft:blackstone"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:tempered_blackstone",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:heraldic_weaving",
+  "ingredient": {
+    "item": "minecraft:white_carpet"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:white_bed"
+  }
+}

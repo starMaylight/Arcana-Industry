@@ -1,0 +1,99 @@
+{
+  "id": "arcana_industry:resonance_basin",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/ResonanceBasinBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:water[source]"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:amethyst_block"
+    }
+  ],
+  "layers": [
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:amethyst_block",
+          "."
+        ],
+        [
+          "minecraft:amethyst_block",
+          "[controller]",
+          "minecraft:amethyst_block"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:amethyst_block",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:water[source]",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

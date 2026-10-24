@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:melon_slice"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/zinc"
+  },
+  "result": {
+    "item": "minecraft:glistering_melon_slice"
+  }
+}

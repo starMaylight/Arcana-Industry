@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" H ", "HCH", " H "],
+  "key": {
+    "H": {"item": "minecraft:heavy_weighted_pressure_plate"},
+    "C": {"item": "arcana_industry:cast_fitting"}
+  },
+  "result": {"item": "arcana_industry:flywheel_rim_blank"}
+}

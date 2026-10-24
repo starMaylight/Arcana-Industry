@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:extruding",
+  "ingredient": {
+    "item": "minecraft:andesite"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:andesite_slab",
+    "count": 5
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

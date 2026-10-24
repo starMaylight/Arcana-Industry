@@ -1,0 +1,12 @@
+{
+  "title": "Verdant Distiller",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 3",
+  "group": "Washing and chemistry",
+  "pages": [
+    "Craft the Verdant Distiller with copper, glass, a campfire and two Verdant Resonators from the Resonant Cultivator. Its Chromatic Essence unlocks the Chromatic Kiln before the Electrolyzer.",
+    "Place a campfire below the controller, glass above, copper blocks two blocks north and south, and water source blocks east and west, plus a waxed cut copper condenser on top of the north copper block. Keep all seven parts in place. Right-click with a full batch to load one 40-tick distillation; a second batch is refused while it works. Missing or swapped parts stop production.",
+    "Twenty distinct flowers, cocoa, cactus and sea pickles yield concentrated pigment: eight source items make twelve dyes, or twenty-four for tall flowers, providing useful color materials for building and crafting. A final recipe condenses two Verdant Resonators into Chromatic Essence for a later t5 gate.",
+    "Feed full batches from a hopper or item pipe into the open north controller face; the stored stock processes every 40 ticks while formed. Sneak-right-click the south face with an empty hand once to set it to output, then extract with a hopper or pipe there. Empty-hand right-click collects buffered output. Side settings and stock persist through reload; breaking the structure pauses processing. No FE or fluid input is required. JEI shows loaded batches; datapack matching ties resolve by resource ID."
+  ]
+}

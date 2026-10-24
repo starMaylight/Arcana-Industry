@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:broaching",
+  "ingredient": {
+    "item": "arcana_industry:tempered_copper_sheet"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:copper_busbar",
+    "count": 1
+  }
+}

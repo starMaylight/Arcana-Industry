@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:etching",
+  "ingredient": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:blue_stained_glass",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

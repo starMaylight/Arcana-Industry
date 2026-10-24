@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AZA",
+    "CRC",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "arcana_industry:purified_salts"
+    },
+    "Z": {
+      "tag": "forge:ingots/lead"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:capacitor_array"
+  }
+}

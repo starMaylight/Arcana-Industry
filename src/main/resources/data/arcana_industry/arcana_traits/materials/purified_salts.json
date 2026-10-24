@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:purified_salts"
+  ],
+  "traits": {
+    "arcana_industry:crystalline": 1,
+    "arcana_industry:aqueous": 1
+  }
+}

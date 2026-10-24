@@ -1,0 +1,78 @@
+{
+  "textures": {
+    "cable": "arcana_industry:block/tin_wire",
+    "particle": "arcana_industry:block/tin_wire"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        6,
+        0
+      ],
+      "to": [
+        10,
+        10,
+        6
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            6,
+            10,
+            10
+          ],
+          "texture": "#cable"
+        },
+        "south": {
+          "uv": [
+            6,
+            6,
+            10,
+            10
+          ],
+          "texture": "#cable"
+        },
+        "east": {
+          "uv": [
+            0,
+            6,
+            6,
+            10
+          ],
+          "texture": "#cable"
+        },
+        "west": {
+          "uv": [
+            0,
+            6,
+            6,
+            10
+          ],
+          "texture": "#cable"
+        },
+        "up": {
+          "uv": [
+            0,
+            6,
+            6,
+            10
+          ],
+          "rotation": 90,
+          "texture": "#cable"
+        },
+        "down": {
+          "uv": [
+            0,
+            6,
+            6,
+            10
+          ],
+          "rotation": 90,
+          "texture": "#cable"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:molding",
+  "ingredient": {
+    "item": "minecraft:flint_and_steel"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:flint",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

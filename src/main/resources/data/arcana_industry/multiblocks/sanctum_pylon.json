@@ -1,0 +1,253 @@
+{
+  "id": "arcana_industry:sanctum_pylon",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/SanctumPylonBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:lodestone"
+    },
+    {
+      "right": 2,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": -2,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 2,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": 2,
+      "up": 0,
+      "forward": 2,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": 2,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": -2,
+      "up": 0,
+      "forward": 2,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": -2,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:sea_lantern"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "right": 0,
+      "up": 2,
+      "forward": 0,
+      "block": "minecraft:beacon"
+    }
+  ],
+  "layers": [
+    {
+      "up": 2,
+      "grid": [
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "minecraft:beacon",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "minecraft:amethyst_block",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:amethyst_block",
+          ".",
+          "minecraft:amethyst_block",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "minecraft:amethyst_block",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:sea_lantern",
+          ".",
+          "minecraft:sea_lantern",
+          ".",
+          "minecraft:sea_lantern"
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:sea_lantern",
+          ".",
+          "[controller]",
+          ".",
+          "minecraft:sea_lantern"
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:sea_lantern",
+          ".",
+          "minecraft:sea_lantern",
+          ".",
+          "minecraft:sea_lantern"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "minecraft:lodestone",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

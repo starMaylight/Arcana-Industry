@@ -1,0 +1,12 @@
+{
+  "title": "Spectral Filter",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 7",
+  "group": "Solar and optics",
+  "pages": [
+    "Craft this t7 apparatus with three sealed steel plates, a Faceted Prism Seal, a Coated Interference Filter, two glass panes, a hopper and a Prism Separator. The seal comes only from the Prism Lapidary. Make the filter by crafting a Filter Window Blank from two glass panes around quartz, then coating it with one hafnium ingot in the Silvering Bath; plain quartz or the uncoated blank no longer completes the craft. The film's band selection is abstracted. This is a plain FE machine. Material update: crafting slot 4 (row-major 3x3) now requires a rhodium ingot via forge:ingots/rhodium; all existing progression gates remain required.",
+    "Twenty datapack filtration recipes refine light-adjacent minerals: quartz, amethyst, redstone, lapis and prismarine components convert back and forth, and their blocks break down into the loose form. JEI shows the ingredient, FE per tick, output space and priority. Recipe type: arcana_industry:filtration; fields ingredient, count, result, duration, energy_per_tick and optional priority.",
+    "The very first recipe filters a Prism Core into a Filtered Prism, a part with no other source. The Lens Collimator now needs one Filtered Prism in place of its first sealed steel plate corner: a bare plate there no longer completes that craft, so the Spectral Filter must be built before the Lens Collimator.",
+    "Top and horizontal faces import; bottom exports. Each side is configurable in the GUI. Supply 16 FE/t or use the manual crank. Inventory, FE, progress and port modes persist; breaking drops inventory."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Phase Conflux",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 9",
+  "group": "Phase works",
+  "pages": [
+    "The tenth and final t9 apparatus. Craft it with one each of Modulated Phase, Stabilized Phase, Preserved Phase and Effused Phase, two glass panes, a hopper, a sealed steel plate and a Phase Effuser -- a four-way convergence that finally consumes all four leaf materials the Modulator, Stabilizer, Preserver and Effuser reserved for this recipe.",
+    "Feed one item into the left slot. The conflux spends 20 FE/t for 150 ticks and yields a single sealed result in the right slot; like the other t9 units there is no second byproduct channel. Confluxing two Effused Phase yields the Converged Phase, the capstone t9 material.",
+    "Twenty datapack recipes. Fifteen converge two concrete powders of one color into that color's glazed terracotta, a clay-free sand-and-gravel glaze route no furnace offers (white powder carries no pigment, so it has no row). Four recover two dye from yellow, lime, pink or brown glazed terracotta; brown otherwise needs jungle cocoa. Confluence obeys the material-trait rule with no field: a product may only carry the traits of count x its input. Two concrete powders (rigid 1, pigment 1 each) cover glazed terracotta's rigid 2 and pigment 2, a glaze sheds its pigment as dye, and two Effused Phase (luminous 1, resonant 1 each) cover the Converged Phase's luminous 2 and resonant 2. A datapack row whose product needs other traits, such as glazing terracotta into amethyst, pauses on status \"unexplained_traits\" without spending FE. JEI displays the result and FE. Recipe type arcana_industry:confluence accepts ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; equal priority uses recipe ID.",
+    "Top and horizontal sides import; bottom exports the result. Side mode buttons configure each face. Supply FE by capability or manual crank. The machine pauses if the output slot is full; inventory, FE, work progress and side modes persist. Breaking it drops both slots. Two Converged Phase feed the Phase Heart rite at an Astral Font, the last step before the Phase Scepter capstone."
+  ]
+}

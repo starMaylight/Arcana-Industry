@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "arcana_industry:block/boiler_turbine_front",
+    "side": "arcana_industry:block/boiler_turbine_side",
+    "top": "arcana_industry:block/boiler_turbine_top",
+    "particle": "arcana_industry:block/boiler_turbine_side"
+  }
+}

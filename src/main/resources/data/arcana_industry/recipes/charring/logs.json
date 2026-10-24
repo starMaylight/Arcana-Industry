@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 2
+  },
+  "duration": 100,
+  "energy_per_tick": 8,
+  "priority": 0
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:diamond_block",
+    "count": 1
+  }
+}

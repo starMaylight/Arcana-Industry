@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PIP",
+    "ISI",
+    "PIP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:sticky_piston"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "item": "arcana_industry:tempered_steel"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:clamping_press"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "minecraft:magma_block"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:mineral_fibre_lagging",
+    "count": 1
+  },
+  "duration": 220,
+  "energy_per_tick": 14
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collapse",
+  "ingredient": {
+    "item": "minecraft:echo_shard"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:sculk",
+    "count": 4
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

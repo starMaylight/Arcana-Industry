@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "tag": "minecraft:logs_that_burn"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 5
+  },
+  "duration": 480,
+  "temperature": 500
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/palladium"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:golden_apple",
+    "count": 1
+  }
+}

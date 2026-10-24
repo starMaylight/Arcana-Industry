@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZMG",
+    "CRC",
+    "GMG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "M": {
+      "item": "arcana_industry:purified_salts"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "arcana_industry:purified_salts"
+    },
+    "Z": {
+      "tag": "forge:ingots/platinum"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:flux_rectifier"
+  }
+}

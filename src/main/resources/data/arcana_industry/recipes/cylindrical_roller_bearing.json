@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" H ", "RNR", "RHR"],
+  "key": {
+    "H": {"item": "arcana_industry:hardened_bearing_race"},
+    "R": {"item": "arcana_industry:cylindrical_roller"},
+    "N": {"item": "minecraft:iron_nugget"}
+  },
+  "result": {"item": "arcana_industry:cylindrical_roller_bearing"}
+}

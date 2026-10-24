@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:soaking",
+  "ingredient": {
+    "item": "minecraft:magma_cream"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 2
+  }
+}

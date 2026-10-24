@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:carding",
+  "ingredient": {
+    "item": "minecraft:white_wool"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:string",
+    "count": 3
+  },
+  "duration": 80,
+  "energy_per_tick": 4,
+  "priority": 0
+}

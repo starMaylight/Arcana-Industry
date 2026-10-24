@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "item": "minecraft:glow_ink_sac"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:ink_sac",
+    "count": 1
+  },
+  "duration": 60,
+  "energy_per_tick": 8,
+  "priority": 0
+}

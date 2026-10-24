@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:compaction",
+  "ingredient": {
+    "item": "minecraft:prismarine_crystals"
+  },
+  "count": 5,
+  "result": {
+    "item": "minecraft:sea_lantern",
+    "count": 1
+  }
+}

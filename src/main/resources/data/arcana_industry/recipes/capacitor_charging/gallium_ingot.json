@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:capacitor_charging",
+  "ingredient": {
+    "tag": "forge:ingots/gallium"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:redstone_lamp",
+    "count": 1
+  }
+}

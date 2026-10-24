@@ -1,0 +1,11 @@
+{
+  "title": "Bismuth Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 3",
+  "group": "Semimetals and electronic metals",
+  "pages": [
+    "Bismuth Ore and Deepslate Bismuth Ore generate in the Overworld between Y -8 and 100 (veins of size 6, up to five veins per chunk column). A stone pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Bismuth and Fortune can increase the yield. Required industrial use: degauss coil. Its craft consumes this ingot; compatible forge:ingots/bismuth inputs are accepted.",
+    "Smelt or blast Raw Bismuth into Bismuth Ingots. The Crusher processes one Raw Bismuth into two Bismuth Grit, each of which can be smelted or blasted into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability; furnace or blast furnace automation handles the grit.",
+    "Bismuth uses forge:ores/bismuth, forge:raw_materials/bismuth and forge:ingots/bismuth tags. Datapacks can add matching recipes. Bismuth Ingots are stored for later apparatus and material progression. A Lattice Composer combines 2 tagged bismuth ingots with one paper to make a cartography table for map copying and scaling. Feed both slots from the upper or side item ports, provide 24 FE/t for 160 ticks, and extract below. The binder is consumed."
+  ]
+}

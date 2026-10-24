@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "tag": "minecraft:wool"
+  },
+  "count": 8,
+  "residue": {
+    "item": "minecraft:gray_dye",
+    "count": 2
+  },
+  "burn_time": 800,
+  "steam_per_tick": 4,
+  "priority": 0
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "arcana_industry:leaching_vat",
+    "arcana_industry:press",
+    "arcana_industry:strata_excavator"
+  ]
+}

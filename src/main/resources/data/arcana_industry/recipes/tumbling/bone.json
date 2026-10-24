@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:tumbling",
+  "ingredient": {
+    "item": "minecraft:bone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 4
+  },
+  "duration": 100,
+  "energy_per_tick": 20
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:resonating",
+  "ingredient": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "count": 5,
+  "result": {
+    "item": "minecraft:amethyst_cluster",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 16
+}

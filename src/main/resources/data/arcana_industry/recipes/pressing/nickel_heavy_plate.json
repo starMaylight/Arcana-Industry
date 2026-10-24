@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"tag": "forge:ingots/nickel"},
+  "count": 2,
+  "result": {"item": "minecraft:heavy_weighted_pressure_plate"},
+  "duration": 120,
+  "energy_per_tick": 8
+}

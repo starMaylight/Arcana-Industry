@@ -1,0 +1,9 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": { "tag": "forge:ingots/osmium" },
+  "binder": [{ "item": "minecraft:chipped_anvil" }, { "item": "minecraft:damaged_anvil" }],
+  "count": 4,
+  "result": { "item": "minecraft:anvil" },
+  "duration": 160,
+  "energy_per_tick": 24
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:sawing",
+  "ingredient": {
+    "item": "minecraft:armor_stand"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:smooth_stone_slab",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

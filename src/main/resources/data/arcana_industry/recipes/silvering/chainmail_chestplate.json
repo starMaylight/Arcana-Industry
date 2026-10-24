@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:leather_chestplate"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/cobalt"
+  },
+  "result": {
+    "item": "minecraft:chainmail_chestplate"
+  }
+}

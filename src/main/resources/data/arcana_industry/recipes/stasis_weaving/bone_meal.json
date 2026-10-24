@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:stasis_weaving",
+  "ingredient": {
+    "item": "minecraft:bone_meal"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:bone_block"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

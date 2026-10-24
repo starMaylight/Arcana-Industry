@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:crimping",
+  "ingredient": {
+    "tag": "forge:ingots/gallium"
+  },
+  "count": 7,
+  "result": {
+    "item": "minecraft:chainmail_leggings",
+    "count": 1
+  }
+}

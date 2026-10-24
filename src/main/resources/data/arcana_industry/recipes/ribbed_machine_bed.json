@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SPS", "LWL", "SPS"],
+  "key": {
+    "S": {"item": "arcana_industry:tool_steel_stock"},
+    "P": {"item": "arcana_industry:sealed_steel_plate"},
+    "L": {"item": "arcana_industry:tab_lock_washer"},
+    "W": {"item": "arcana_industry:lubricating_oil"}
+  },
+  "result": {"item": "arcana_industry:ribbed_machine_bed"}
+}

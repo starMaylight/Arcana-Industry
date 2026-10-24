@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:rack_smoking",
+  "ingredient": {
+    "item": "minecraft:soul_sand"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:soul_soil",
+    "count": 1
+  }
+}

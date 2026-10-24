@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:revivification",
+  "ingredient": {
+    "item": "arcana_industry:stabilized_phase"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:revived_phase",
+    "count": 1
+  },
+  "duration": 200,
+  "energy_per_tick": 32
+}

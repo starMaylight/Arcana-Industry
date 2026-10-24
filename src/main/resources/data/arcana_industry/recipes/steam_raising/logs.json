@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "tag": "minecraft:logs_that_burn"
+  },
+  "count": 8,
+  "residue": {
+    "item": "minecraft:charcoal",
+    "count": 4
+  },
+  "burn_time": 2400,
+  "steam_per_tick": 6,
+  "priority": 0
+}

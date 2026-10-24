@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:ashing",
+  "ingredient": {
+    "item": "minecraft:sea_pickle"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:lime_dye",
+    "count": 5
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "GAG",
+    " G "
+  ],
+  "key": {
+    "N": { "item": "arcana_industry:night_sigil" },
+    "A": { "item": "minecraft:amethyst_shard" },
+    "G": { "tag": "forge:glass" }
+  },
+  "result": { "item": "arcana_industry:lumen_phial", "count": 1 }
+}

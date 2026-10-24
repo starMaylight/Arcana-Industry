@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:hearth_smoking",
+  "ingredient": {
+    "item": "minecraft:spider_eye"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:fermented_spider_eye",
+    "count": 1
+  }
+}

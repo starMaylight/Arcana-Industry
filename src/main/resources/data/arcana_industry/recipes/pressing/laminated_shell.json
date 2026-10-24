@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"item": "arcana_industry:laminated_shell"},
+  "count": 2,
+  "result": {"item": "arcana_industry:transformer_core"},
+  "duration": 160,
+  "energy_per_tick": 10
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Lead Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 2",
+  "group": "Common and base metals",
+  "pages": [
+    "Lead Ore and Deepslate Lead Ore generate in the Overworld between Y -48 and 32, in smaller veins than Tin. An iron pickaxe or better is required. Silk Touch keeps the ore block; ordinary mining drops Raw Lead and Fortune can increase the yield. Required industrial use: capacitor array. Its craft consumes this ingot; compatible forge:ingots/lead inputs are accepted.",
+    "Smelt or blast Raw Lead into Lead Ingots. The Crusher processes one Raw Lead into two Lead Grit, each of which can be smelted or blasted into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability; furnace or blast furnace automation handles the grit.",
+    "Lead uses forge:ores/lead, forge:raw_materials/lead and forge:ingots/lead tags. Datapacks can add matching recipes. Lead Ingots are stored for later apparatus and material progression. The Pressure Press also consumes 7 forge:ingots/lead ingots to make one cauldron; feed the input slot, supply 960 FE, and extract the finished utility block or item from an output face. The recipe takes 120 ticks."
+  ]
+}

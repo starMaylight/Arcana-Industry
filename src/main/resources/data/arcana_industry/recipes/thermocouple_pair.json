@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"tag": "forge:ingots/nickel"},
+    {"tag": "forge:ingots/nickel"},
+    {"tag": "forge:ingots/nickel"},
+    {"tag": "forge:ingots/nickel"},
+    {"tag": "forge:ingots/chromium"},
+    {"tag": "forge:ingots/aluminum"},
+    {"item": "arcana_industry:sealed_steel_plate"}
+  ],
+  "result": {"item": "arcana_industry:thermocouple_pair", "count": 2}
+}

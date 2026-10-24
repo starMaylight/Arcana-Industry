@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:woven_sigil"
+  ],
+  "traits": {
+    "arcana_industry:woven": 2,
+    "arcana_industry:binding": 2
+  }
+}

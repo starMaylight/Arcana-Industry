@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:sluicing",
+  "ingredient": {"item": "minecraft:cobbled_deepslate"},
+  "count": 4,
+  "result": {"item": "arcana_industry:graded_filter_media"}
+}

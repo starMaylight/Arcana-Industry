@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:swaging",
+  "ingredient": {
+    "tag": "forge:ingots/rhodium"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:rail",
+    "count": 16
+  }
+}

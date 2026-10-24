@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:prismarine_shard"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 1,
+    "arcana_industry:crystalline": 1,
+    "arcana_industry:luminous": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Rhenium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 3",
+  "group": "Alloying and refractory metals",
+  "pages": [
+    "Rhenium Ore and Deepslate Rhenium Ore generate deep in the Overworld between Y -64 and 8 (veins of size 5, at most one vein per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Rhenium and Fortune can increase the yield. Required industrial use: phase annealer. Its craft consumes this ingot; compatible forge:ingots/rhenium inputs are accepted.",
+    "Smelt or blast Raw Rhenium into Rhenium Ingots. The Crusher processes one Raw Rhenium into two Rhenium Grit in 200 ticks at 6 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Rhenium uses forge:ores/rhenium, forge:raw_materials/rhenium and forge:ingots/rhenium tags. Datapacks can add matching recipes. Under open daylight, the Heliostat Etcher turns two tagged Rhenium Ingots into a comparator in 120 ticks at 16 FE/t; feed from above or a configured side and extract below. Rhenium forms smaller, deeper veins than Ruthenium and is limited to one vein per chunk, so the two-grit Crusher route is worth the extra 1,200 energy per raw ore to avoid wasting a scarce find."
+  ]
+}

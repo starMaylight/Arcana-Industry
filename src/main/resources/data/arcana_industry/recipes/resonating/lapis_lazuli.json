@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:resonating",
+  "ingredient": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:blue_dye",
+    "count": 5
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

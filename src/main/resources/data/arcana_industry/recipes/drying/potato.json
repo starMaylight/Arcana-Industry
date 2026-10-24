@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:drying",
+  "ingredient": {
+    "item": "minecraft:potato"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:baked_potato",
+    "count": 1
+  },
+  "duration": 80,
+  "energy_per_tick": 8
+}

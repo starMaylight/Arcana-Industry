@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:ender_chest"
+  ],
+  "traits": {
+    "arcana_industry:umbral": 3,
+    "arcana_industry:resonant": 1
+  }
+}

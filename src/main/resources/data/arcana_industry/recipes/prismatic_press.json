@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["IGI", "PQP", "IAI"],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "G": {"item": "arcana_industry:prismatic_glaze"},
+    "P": {"item": "minecraft:piston"},
+    "Q": {"item": "minecraft:quartz_block"},
+    "A": {"item": "minecraft:amethyst_block"}
+  },
+  "result": {"item": "arcana_industry:prismatic_press"}
+}

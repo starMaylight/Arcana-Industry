@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "minecraft:basalt"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gravel",
+    "count": 1
+  },
+  "duration": 110,
+  "energy_per_tick": 14
+}

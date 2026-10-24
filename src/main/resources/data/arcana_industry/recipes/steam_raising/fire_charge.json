@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:fire_charge"
+  },
+  "count": 4,
+  "residue": {
+    "item": "minecraft:gunpowder",
+    "count": 2
+  },
+  "burn_time": 800,
+  "steam_per_tick": 12,
+  "priority": 0
+}

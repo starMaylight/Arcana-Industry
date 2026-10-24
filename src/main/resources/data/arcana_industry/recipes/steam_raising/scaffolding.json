@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:scaffolding"
+  },
+  "count": 16,
+  "residue": {
+    "item": "minecraft:string",
+    "count": 2
+  },
+  "burn_time": 800,
+  "steam_per_tick": 3,
+  "priority": 0
+}

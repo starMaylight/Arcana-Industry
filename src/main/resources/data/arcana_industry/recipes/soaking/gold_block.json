@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:soaking",
+  "ingredient": {
+    "item": "minecraft:gold_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gilded_blackstone",
+    "count": 2
+  }
+}

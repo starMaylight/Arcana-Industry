@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "forge:ingots/aluminum",
+    "forge:ingots/titanium"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 2
+  }
+}

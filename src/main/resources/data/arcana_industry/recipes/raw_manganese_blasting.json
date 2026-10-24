@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:raw_materials/manganese"
+  },
+  "result": "arcana_industry:manganese_ingot",
+  "experience": 0.3,
+  "cookingtime": 100
+}

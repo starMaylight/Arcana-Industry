@@ -1,0 +1,9 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": { "tag": "forge:ingots/iridium" },
+  "binder": { "item": "minecraft:flint" },
+  "count": 2,
+  "result": { "item": "minecraft:flint_and_steel", "count": 1 },
+  "duration": 160,
+  "energy_per_tick": 24
+}

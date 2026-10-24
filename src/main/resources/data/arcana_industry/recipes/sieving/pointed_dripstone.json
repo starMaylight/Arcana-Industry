@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:sieving",
+  "ingredient": { "item": "minecraft:pointed_dripstone" },
+  "count": 4,
+  "result": { "item": "arcana_industry:screened_flux", "count": 1 },
+  "duration": 100,
+  "energy_per_tick": 3
+}

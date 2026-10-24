@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:armor_delamination",
+  "ingredient": {
+    "item": "minecraft:leather_leggings"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:leather",
+    "count": 3
+  }
+}

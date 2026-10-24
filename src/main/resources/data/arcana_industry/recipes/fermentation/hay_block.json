@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:fermentation",
+  "ingredient": {
+    "item": "minecraft:hay_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:paper",
+    "count": 6
+  },
+  "duration": 200,
+  "energy_per_tick": 24
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flanging",
+  "ingredient": {
+    "tag": "forge:ingots/titanium"
+  },
+  "count": 5,
+  "result": {
+    "item": "minecraft:minecart",
+    "count": 1
+  }
+}

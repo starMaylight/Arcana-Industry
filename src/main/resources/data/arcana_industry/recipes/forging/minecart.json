@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/lead"
+  },
+  "count": 6,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 3,
+  "result": {
+    "item": "minecraft:minecart"
+  }
+}

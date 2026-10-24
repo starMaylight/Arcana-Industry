@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:degaussing",
+  "ingredient": {
+    "item": "minecraft:loom"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:string",
+    "count": 1
+  }
+}

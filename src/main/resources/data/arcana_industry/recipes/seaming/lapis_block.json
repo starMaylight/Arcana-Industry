@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:seaming",
+  "ingredient": {
+    "item": "minecraft:lapis_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:lapis_lazuli",
+    "count": 9
+  }
+}

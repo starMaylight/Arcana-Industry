@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:scribing",
+  "ingredient": {
+    "item": "minecraft:blackstone"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:polished_blackstone",
+    "count": 5
+  },
+  "duration": 160,
+  "energy_per_tick": 22
+}

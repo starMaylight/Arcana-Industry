@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:concordance",
+  "base": {
+    "item": "minecraft:calibrated_sculk_sensor"
+  },
+  "base_count": 1,
+  "reagent": {
+    "item": "minecraft:ender_pearl"
+  },
+  "reagent_count": 4,
+  "result": {
+    "item": "minecraft:echo_shard"
+  },
+  "stability": 6
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:dawn_emblem"
+  ],
+  "traits": {
+    "arcana_industry:crystalline": 2,
+    "arcana_industry:luminous": 2
+  }
+}

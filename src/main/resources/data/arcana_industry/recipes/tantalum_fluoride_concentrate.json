@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "arcana_industry:tantalum_grit"
+    },
+    {
+      "item": "arcana_industry:tantalum_grit"
+    },
+    {
+      "item": "arcana_industry:purified_salts"
+    },
+    {
+      "item": "arcana_industry:aluminum_grit"
+    }
+  ],
+  "result": {
+    "item": "arcana_industry:tantalum_fluoride_concentrate",
+    "count": 2
+  }
+}

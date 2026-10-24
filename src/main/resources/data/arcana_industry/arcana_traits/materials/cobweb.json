@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:cobweb"
+  ],
+  "traits": {
+    "arcana_industry:woven": 3,
+    "arcana_industry:flexible": 3
+  }
+}

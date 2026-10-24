@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:signal_imprinting",
+  "ingredient": {
+    "item": "minecraft:oak_planks"
+  },
+  "count": 16,
+  "result": {
+    "item": "minecraft:note_block",
+    "count": 2
+  }
+}

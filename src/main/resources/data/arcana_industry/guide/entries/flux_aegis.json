@@ -1,0 +1,12 @@
+{
+  "title": "Flux Aegis",
+  "category": "arcana_industry:arcana",
+  "chapter": "Tier 9",
+  "group": "Endgame",
+  "pages": [
+    "Craft the Flux Aegis from four Phase Lattices, a Phase Coil, two Phase Vessels, Converged Phase and Stabilized Phase. All of them come from the tier-nine phase processing chain, so the aegis is a late reward that starts empty.",
+    "Sneak-use the aegis on the output face of an FE machine to draw up to 16,000 FE per click. It stores up to 400,000 FE in the item stack, shown by its violet bar and tooltip. The clicked face must permit extraction.",
+    "Carry a charged aegis anywhere in your inventory. After armor and enchantments reduce a hit, the aegis pays 2,000 FE per health point (one half-heart) instead of your health. When the charge runs short it absorbs what it can, and the rest reaches you. Only the first charged aegis is used. Void damage and /kill are never absorbed.",
+    "Pair it with a Flux Totem: the aegis spends FE on every hit, and the totem in hand catches the fatal blow once the aegis runs dry. Automation: keep an FE generator and cable network charging a machine buffer, then top up the aegis from its output face between fights."
+  ]
+}

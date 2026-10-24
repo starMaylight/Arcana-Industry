@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:degaussing",
+  "ingredient": {
+    "item": "minecraft:lectern"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:paper",
+    "count": 2
+  }
+}

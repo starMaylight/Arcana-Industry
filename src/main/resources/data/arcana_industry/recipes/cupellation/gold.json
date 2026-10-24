@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/gold"
+  },
+  "count": 2,
+  "levels": 3,
+  "result": {
+    "item": "arcana_industry:assay_bead"
+  },
+  "byproduct": {
+    "item": "arcana_industry:silver_ingot"
+  }
+}

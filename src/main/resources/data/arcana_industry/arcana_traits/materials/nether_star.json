@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:nether_star"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 4,
+    "arcana_industry:crystalline": 2
+  }
+}

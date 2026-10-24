@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:gilded_blackstone"
+  ],
+  "traits": {
+    "arcana_industry:heavy": 2,
+    "arcana_industry:fiery": 1,
+    "arcana_industry:flexible": 1
+  }
+}

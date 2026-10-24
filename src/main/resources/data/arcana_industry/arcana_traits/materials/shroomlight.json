@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:shroomlight"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 3,
+    "arcana_industry:fiery": 1
+  }
+}

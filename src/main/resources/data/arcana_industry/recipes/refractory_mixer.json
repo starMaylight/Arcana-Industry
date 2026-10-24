@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZCI",
+    "CWC",
+    "ICI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "arcana_industry:copper_grit"
+    },
+    "W": {
+      "item": "minecraft:cauldron"
+    },
+    "Z": {
+      "tag": "forge:ingots/manganese"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:refractory_mixer"
+  }
+}

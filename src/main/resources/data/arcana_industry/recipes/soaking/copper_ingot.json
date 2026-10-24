@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:soaking",
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:soaked_billet",
+    "count": 1
+  }
+}

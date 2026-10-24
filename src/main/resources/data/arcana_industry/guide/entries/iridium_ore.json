@@ -1,0 +1,11 @@
+{
+  "title": "Iridium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 4",
+  "group": "Precious and platinum-group metals",
+  "pages": [
+    "Iridium Ore and Deepslate Iridium Ore generate in the Overworld between the world floor (Y -64) and -40, deeper and rarer than every other vein (one vein of size 2 per chunk column). A diamond pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Iridium and Fortune can increase the yield. Required industrial use: arc press. Its craft consumes this ingot; compatible forge:ingots/iridium inputs are accepted.",
+    "Smelt or blast Raw Iridium into Iridium Ingots. The Crusher processes one Raw Iridium into two Iridium Grit, each of which can be smelted or blasted into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability; furnace or blast furnace automation handles the grit.",
+    "Iridium uses forge:ores/iridium, forge:raw_materials/iridium and forge:ingots/iridium tags. Datapacks can add matching recipes. Iridium Ingots are stored for later apparatus and material progression. A Lattice Welder fuses 4 tagged iridium ingots into a blast furnace with an iridium-lined crucible in 160 ticks at 22 FE/t; feed the top or side ports and extract below."
+  ]
+}

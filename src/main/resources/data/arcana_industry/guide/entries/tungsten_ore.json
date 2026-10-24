@@ -1,0 +1,11 @@
+{
+  "title": "Tungsten Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 1",
+  "group": "Alloying and refractory metals",
+  "pages": [
+    "Tungsten Ore and Deepslate Tungsten Ore generate in the Overworld between the world floor (Y -64) and -24 (veins of size 3, up to two veins per chunk column). A diamond pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Tungsten and Fortune can increase the yield. Required industrial use: clinker oven. Its craft consumes this ingot; compatible forge:ingots/tungsten inputs are accepted.",
+    "Tungsten needs carbon reduction at high heat. The Crusher turns one Raw Tungsten into two Tungsten Grit. Craft two grit with one charcoal into two Tungsten Carbon Charges; the Kiln fires each charge at 1000 heat for 180 ticks into an ingot. Raw ore and grit cannot be smelted or blasted directly. Feed the Crusher and Kiln through their configured input faces, extract outputs by hopper or item capability, and supply the Kiln with fuel to reach full heat.",
+    "Tungsten uses forge:ores/tungsten, forge:raw_materials/tungsten and forge:ingots/tungsten tags. Datapacks can add matching recipes. Tungsten Ingots are stored for later apparatus and material progression. The Copper Hot Press also consumes 2 forge:ingots/tungsten ingots to make one iron door; insert from the top or sides, supply 1,680 FE, and extract the result below. The recipe takes 140 ticks."
+  ]
+}

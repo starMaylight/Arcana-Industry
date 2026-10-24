@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:containment",
+  "ingredient": {
+    "item": "minecraft:dried_kelp"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:dried_kelp_block",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

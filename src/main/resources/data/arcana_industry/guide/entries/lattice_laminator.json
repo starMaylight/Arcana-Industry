@@ -1,0 +1,12 @@
+{
+  "title": "Lattice Laminator",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 7",
+  "group": "Lattice works",
+  "pages": [
+    "Craft from sealed steel plates, screened silica, glass panes, furnace and a Prism Separator. The Prism Separator is made before t8; no other Lattice output is required. The bottom-right corner now requires a Welded Plate from the Lattice Welder instead of a fourth plain sealed steel plate. Material update: crafting slot 4 (row-major 3x3) now requires a tantalum ingot via forge:ingots/tantalum; all existing progression gates remain required.",
+    "Feed one Sealed Steel Plate to make a Laminated Lattice in 120 ticks at 24 FE/t. It replaces the upper-right plate of the Lattice Composer craft; this is the only producer.",
+    "Nineteen recipes turn construction stone into two matching stairs per block. Three tagged metal recipes laminate 2 gallium ingots into a daylight detector, 2 germanium ingots into a spyglass and 3 hafnium ingots into a shield (160 ticks, 24 FE/t each). JEI shows input, output, time, FE and priority. Datapacks use arcana_industry:lattice_lamination; highest priority wins, then recipe ID.",
+    "Top and horizontal faces import; bottom exports. Set sides in the menu. FE capability or crank powers work. Full output pauses processing; inventory, FE, progress and sides persist. Breaking drops stored items."
+  ]
+}

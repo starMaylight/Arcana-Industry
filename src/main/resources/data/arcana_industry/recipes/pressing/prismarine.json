@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:prismarine"
+  },
+  "duration": 80,
+  "energy_per_tick": 8
+}

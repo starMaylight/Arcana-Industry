@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:chipped_anvil"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/vanadium"
+  },
+  "result": {
+    "item": "minecraft:anvil"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "arcana_industry:silvering_bath",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/SilveringBathBlock.java",
+  "orientation": "fixed_world_axis",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:water_cauldron"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 2,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:iron_bars"
+    }
+  ],
+  "layers": [
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:iron_bars",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:iron_bars",
+          "[controller]",
+          "minecraft:iron_bars"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:iron_bars",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:water_cauldron",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ],
+  "axis": "north_south_only"
+}

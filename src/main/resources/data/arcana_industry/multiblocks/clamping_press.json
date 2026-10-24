@@ -1,0 +1,118 @@
+{
+  "id": "arcana_industry:clamping_press",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/ClampingPressBlock.java",
+  "orientation": "fixed_world_axis",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:smithing_table"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:sticky_piston[facing=west]"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:sticky_piston[facing=east]"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:smithing_table",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:sticky_piston[facing=east]",
+          "[controller]",
+          "minecraft:sticky_piston[facing=west]"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          "minecraft:iron_bars",
+          ".",
+          "minecraft:iron_bars"
+        ],
+        [
+          ".",
+          "minecraft:iron_block",
+          "."
+        ],
+        [
+          "minecraft:iron_bars",
+          ".",
+          "minecraft:iron_bars"
+        ]
+      ]
+    }
+  ],
+  "axis": "east_west_only"
+}

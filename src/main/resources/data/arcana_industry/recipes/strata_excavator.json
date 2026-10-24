@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PDP",
+    "ACA",
+    "PHP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "D": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "A": {
+      "item": "minecraft:piston"
+    },
+    "C": {
+      "item": "arcana_industry:crusher"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:strata_excavator"
+  }
+}

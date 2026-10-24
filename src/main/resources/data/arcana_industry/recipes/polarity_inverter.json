@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZFI",
+    "CRC",
+    "IDI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "F": {
+      "item": "arcana_industry:rectified_filament"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "arcana_industry:purified_salts"
+    },
+    "Z": {
+      "tag": "forge:ingots/cobalt"
+    },
+    "D": {
+      "item": "arcana_industry:germanium_rectifier"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:polarity_inverter"
+  }
+}

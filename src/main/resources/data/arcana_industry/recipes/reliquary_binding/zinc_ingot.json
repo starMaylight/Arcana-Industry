@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:reliquary_binding",
+  "ingredient": {
+    "item": "arcana_industry:zinc_grit"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:zinc_ingot",
+    "count": 3
+  }
+}

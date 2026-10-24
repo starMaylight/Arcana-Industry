@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "count": 4,
+  "lumen_cost": 60,
+  "result": {
+    "item": "minecraft:leather",
+    "count": 1
+  }
+}

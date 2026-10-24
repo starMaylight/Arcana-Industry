@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:grinding",
+  "ingredient": {
+    "item": "minecraft:glowstone"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:glowstone_dust",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

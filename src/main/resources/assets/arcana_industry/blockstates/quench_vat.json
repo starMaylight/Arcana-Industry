@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "arcana_industry:block/quench_vat"
+    },
+    "active=true": {
+      "model": "arcana_industry:block/quench_vat_active"
+    }
+  }
+}

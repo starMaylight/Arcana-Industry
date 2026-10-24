@@ -1,0 +1,17 @@
+{
+  "type": "arcana_industry:separation",
+  "ingredient": {
+    "item": "minecraft:deepslate_gold_ore"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:raw_gold",
+    "count": 1
+  },
+  "byproduct": {
+    "item": "minecraft:cobbled_deepslate",
+    "count": 2
+  },
+  "duration": 140,
+  "energy_per_tick": 20
+}

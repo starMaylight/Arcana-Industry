@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"tag": "forge:ingots/tin"},
+  "count": 3,
+  "result": {"item": "minecraft:bucket"},
+  "duration": 120,
+  "energy_per_tick": 8
+}

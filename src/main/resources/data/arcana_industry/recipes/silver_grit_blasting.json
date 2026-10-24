@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": { "item": "arcana_industry:silver_grit" },
+  "result": "arcana_industry:silver_ingot",
+  "experience": 0.4,
+  "cookingtime": 100
+}

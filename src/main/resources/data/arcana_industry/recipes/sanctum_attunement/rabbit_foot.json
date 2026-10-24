@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:sanctum_attunement",
+  "ingredient": {
+    "item": "minecraft:rabbit_foot"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:leather"
+  }
+}

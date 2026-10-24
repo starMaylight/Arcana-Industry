@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:etching",
+  "ingredient": {"item": "arcana_industry:stainless_vessel_stock"},
+  "count": 1,
+  "result": {"item": "arcana_industry:graduated_linear_scale", "count": 1},
+  "duration": 220,
+  "energy_per_tick": 20
+}

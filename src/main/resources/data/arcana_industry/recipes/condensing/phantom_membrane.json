@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:lunar_essence",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

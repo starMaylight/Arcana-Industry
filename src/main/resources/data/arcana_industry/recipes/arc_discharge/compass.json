@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:arc_discharge",
+  "ingredient": { "item": "minecraft:compass" },
+  "count": 1,
+  "result": { "item": "minecraft:iron_ingot", "count": 2 }
+}

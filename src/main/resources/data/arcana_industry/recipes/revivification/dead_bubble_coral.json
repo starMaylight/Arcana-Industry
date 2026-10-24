@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:revivification",
+  "ingredient": {
+    "item": "minecraft:dead_bubble_coral"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:bubble_coral",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 24
+}

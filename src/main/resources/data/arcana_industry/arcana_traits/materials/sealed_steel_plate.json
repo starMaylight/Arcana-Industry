@@ -1,0 +1,10 @@
+{
+  "items": [
+    "arcana_industry:sealed_steel_plate"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 3,
+    "arcana_industry:heavy": 2,
+    "arcana_industry:aqueous": 1
+  }
+}

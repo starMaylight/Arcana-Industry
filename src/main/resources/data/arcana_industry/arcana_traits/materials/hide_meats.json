@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:beef",
+    "minecraft:cooked_beef",
+    "minecraft:porkchop",
+    "minecraft:cooked_porkchop"
+  ],
+  "traits": {
+    "arcana_industry:flexible": 2
+  }
+}

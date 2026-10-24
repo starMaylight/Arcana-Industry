@@ -1,0 +1,12 @@
+{
+  "title": "Flux Totem",
+  "category": "arcana_industry:arcana",
+  "chapter": "Tier 9",
+  "group": "Endgame",
+  "pages": [
+    "Craft the Flux Totem from a Phase Heart, four Phase Coils, two Phase Vessels, a Phase Sigil and Ripened Phase. This expensive capstone consumes the vessels and starts empty. The heart requires the 480-lumen Astral Font rite; phase materials require the tier-nine processing chain.",
+    "Sneak-use the totem on the output face of an FE machine to draw up to 8,000 FE per click. Its bar and tooltip show the charge, up to 200,000 FE. The machine must permit extraction from the clicked face. Charge is saved on the item stack.",
+    "Hold a charged totem in either hand. When you would die after ordinary totem protection fails, it spends 100,000 FE and restores one health, regeneration, absorption and fire resistance. It remains in hand and can be recharged. An empty or partly charged totem cannot rescue you. There is no passive effect in inventory.",
+    "Automation: FE generation and cable networks feed the source machine, and a player charges the held totem from its output face. The phase processing line can be stocked with configured item and fluid IO; the Astral Font rite for the heart stays hand-performed."
+  ]
+}

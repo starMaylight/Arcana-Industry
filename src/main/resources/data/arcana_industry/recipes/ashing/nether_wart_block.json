@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:ashing",
+  "ingredient": {
+    "item": "minecraft:nether_wart_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:nether_wart",
+    "count": 4
+  },
+  "duration": 90,
+  "energy_per_tick": 3,
+  "priority": 0
+}

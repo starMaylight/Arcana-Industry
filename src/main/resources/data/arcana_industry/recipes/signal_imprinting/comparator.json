@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:signal_imprinting",
+  "ingredient": {
+    "item": "minecraft:quartz"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:comparator",
+    "count": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:soaking",
+  "ingredient": {
+    "item": "minecraft:quartz"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:smooth_quartz",
+    "count": 1
+  }
+}

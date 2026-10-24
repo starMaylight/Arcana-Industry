@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:polarity_inversion",
+  "ingredient": {
+    "item": "minecraft:bow"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:stick",
+    "count": 2
+  }
+}

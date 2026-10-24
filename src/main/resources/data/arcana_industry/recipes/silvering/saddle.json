@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:leather"
+  },
+  "count": 3,
+  "reagent": {
+    "tag": "forge:ingots/manganese"
+  },
+  "result": {
+    "item": "minecraft:saddle"
+  }
+}

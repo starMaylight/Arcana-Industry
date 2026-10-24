@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:capacitor_charging",
+  "ingredient": {
+    "tag": "forge:ingots/platinum"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:note_block",
+    "count": 1
+  }
+}

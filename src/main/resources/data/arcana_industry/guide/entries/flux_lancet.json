@@ -1,0 +1,12 @@
+{
+  "title": "Flux Lancet",
+  "category": "arcana_industry:arcana",
+  "chapter": "Tier 9",
+  "group": "Endgame",
+  "pages": [
+    "Craft a Flux Lancet from a Phase Heart, Phase Lattice, Phase Coil, Phase Vessel and Converged Phase. These tier-nine components gate the weapon behind the full phase line. It starts uncharged.",
+    "Sneak-use it on an FE machine's extractable output face to draw up to 12,000 FE per click. It holds 300,000 FE in the stack. The amber bar and tooltip show the remaining charge; the charge persists when the item is saved.",
+    "Hold it in the main hand and land a direct melee hit. A valid hit spends 4,000 FE to add 12 damage after armor and ordinary damage reduction. This pulse is armor penetrating, but cannot strike an immune target or bypass invulnerability. Empty charge and projectile hits get no pulse. The lancet's ordinary swing remains weak without power.",
+    "Automation: route FE from a generator through cables into a machine buffer with an extractable face, then charge between fights. Pair it with a carried Flux Aegis for defense and a held Flux Totem for emergency survival."
+  ]
+}

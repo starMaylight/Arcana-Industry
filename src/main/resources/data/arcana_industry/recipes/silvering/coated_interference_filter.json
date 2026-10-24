@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "arcana_industry:filter_window_blank"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/hafnium"
+  },
+  "result": {
+    "item": "arcana_industry:coated_interference_filter",
+    "count": 1
+  }
+}

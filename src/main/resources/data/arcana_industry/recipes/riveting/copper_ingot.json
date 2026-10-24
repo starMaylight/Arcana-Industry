@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:copper_block",
+    "count": 1
+  }
+}

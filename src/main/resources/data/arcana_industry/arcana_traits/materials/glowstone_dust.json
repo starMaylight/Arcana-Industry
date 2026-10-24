@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:glowstone_dust"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 2
+  }
+}

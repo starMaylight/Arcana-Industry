@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:sea_pickle"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 1,
+    "arcana_industry:luminous": 1
+  }
+}

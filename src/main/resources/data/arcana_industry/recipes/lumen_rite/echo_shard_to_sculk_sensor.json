@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:echo_shard"
+  },
+  "count": 2,
+  "lumen_cost": 240,
+  "result": {
+    "item": "minecraft:sculk_sensor",
+    "count": 1
+  }
+}

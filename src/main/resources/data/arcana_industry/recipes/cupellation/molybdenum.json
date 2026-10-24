@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/molybdenum"
+  },
+  "count": 4,
+  "levels": 2,
+  "result": {
+    "item": "arcana_industry:molybdenum_ingot",
+    "count": 3
+  },
+  "byproduct": {
+    "item": "arcana_industry:rhenium_ingot"
+  }
+}

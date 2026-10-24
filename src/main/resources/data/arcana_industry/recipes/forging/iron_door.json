@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/aluminum"
+  },
+  "count": 6,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 2,
+  "result": {
+    "item": "minecraft:iron_door",
+    "count": 2
+  }
+}

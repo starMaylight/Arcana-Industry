@@ -1,0 +1,37 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "pattern":  [
+                    "DTP",
+                    "FBF",
+                    "MRC"
+                ],
+    "key":  {
+                "P":  {
+                          "item":  "arcana_industry:clutch_brake_pack"
+                      },
+                "D":  {
+                          "item":  "arcana_industry:roller_chain_drive"
+                      },
+                "T":  {
+                          "item":  "minecraft:tinted_glass"
+                      },
+                "F":  {
+                          "item":  "arcana_industry:plummer_block_housing"
+                      },
+                "B":  {
+                          "item":  "minecraft:barrel"
+                      },
+                "R":  {
+                          "item":  "arcana_industry:prism_separator"
+                      },
+                "C":  {
+                          "item":  "arcana_industry:jaw_shaft_coupling"
+                      },
+                "M":  {
+                          "item":  "arcana_industry:metered_grease_unit"
+                      }
+            },
+    "result":  {
+                   "item":  "arcana_industry:prism_tumbler"
+               }
+}

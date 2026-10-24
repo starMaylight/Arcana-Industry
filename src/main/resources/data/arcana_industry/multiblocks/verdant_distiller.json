@@ -1,0 +1,141 @@
+{
+  "id": "arcana_industry:verdant_distiller",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/VerdantDistillerBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:campfire"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:glass"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 2,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:water"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:water"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 2,
+      "block": "minecraft:waxed_cut_copper"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          "minecraft:waxed_cut_copper",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:glass",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:water",
+          "[controller]",
+          "minecraft:water"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:campfire",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:inversion",
+  "ingredient": {
+    "item": "minecraft:waxed_copper_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:oxidized_copper",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

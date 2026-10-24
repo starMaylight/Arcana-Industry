@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "arcana_industry:steel_billet"},
+    {"item": "arcana_industry:steel_billet"},
+    {"item": "arcana_industry:steel_billet"},
+    {"item": "arcana_industry:steel_billet"},
+    {"tag": "forge:ingots/chromium"},
+    {"tag": "forge:ingots/vanadium"}
+  ],
+  "result": {"item": "arcana_industry:tool_steel_charge", "count": 4}
+}

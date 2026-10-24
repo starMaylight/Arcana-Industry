@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XCS",
+    "GAG",
+    "SRY"
+  ],
+  "key": {
+    "X": {
+      "item": "arcana_industry:collapsed_phase"
+    },
+    "S": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "C": {
+      "item": "arcana_industry:phase_coil"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "A": {
+      "item": "arcana_industry:phase_annealer"
+    },
+    "R": {
+      "item": "minecraft:blast_furnace"
+    },
+    "Y": {
+      "item": "arcana_industry:sublimated_phase"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_reclaimer"
+  }
+}

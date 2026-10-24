@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:stasis_weaving",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:iron_block"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

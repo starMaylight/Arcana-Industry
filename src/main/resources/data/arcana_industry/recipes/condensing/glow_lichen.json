@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:glow_lichen"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:sea_pickle",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

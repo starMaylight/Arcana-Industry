@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:prismatic_reclamation",
+  "ingredient": {
+    "item": "minecraft:quartz_slab"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:quartz_block",
+    "count": 4
+  }
+}

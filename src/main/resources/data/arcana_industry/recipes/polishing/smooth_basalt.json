@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:smooth_basalt"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:polished_basalt"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

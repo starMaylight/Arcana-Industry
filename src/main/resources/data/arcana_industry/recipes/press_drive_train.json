@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BF",
+    "S ",
+    "B "
+  ],
+  "key": {
+    "B": {
+      "item": "arcana_industry:sintered_bronze_bushing"
+    },
+    "S": {
+      "item": "arcana_industry:drive_shaft"
+    },
+    "F": {
+      "item": "arcana_industry:shrink_fit_flywheel"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:press_drive_train"
+  }
+}

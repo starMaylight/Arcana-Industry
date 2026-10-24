@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:sawing",
+  "ingredient": {
+    "item": "minecraft:fletching_table"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:flint",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 4,
+  "priority": 0
+}

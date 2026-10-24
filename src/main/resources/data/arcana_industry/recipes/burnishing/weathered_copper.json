@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:burnishing",
+  "ingredient": {
+    "item": "minecraft:weathered_copper"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:exposed_copper"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

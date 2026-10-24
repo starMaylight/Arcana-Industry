@@ -1,0 +1,12 @@
+{
+  "title": "Phase Collapser",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 8",
+  "group": "Phase works",
+  "pages": [
+    "A second t9 apparatus. Craft it with a Bound Singularity, four sealed steel plates, two glass panes, a hopper and a Containment Forge. Material update: crafting slot 4 (row-major 3x3) now requires a osmium ingot via forge:ingots/osmium; all existing progression gates remain required.",
+    "Feed one item into the left slot. The collapser spends 20 FE/t for 150 ticks and yields a single sealed result in the right slot; like the Containment Forge there is no second byproduct channel. Collapsing one Bound Singularity (from the Containment Forge) yields the Collapsed Phase, the next t10 progression material.",
+    "Twenty datapack recipes cover compaction of gems, raw ores and rare drops into dense blocks, ingots or alternate forms. Collapse obeys the material-trait rule with no field: a product may only carry the traits of count x its input, so packing never invents a property. A Bound Singularity (luminous 1, resonant 2) explains the Collapsed Phase; four glow ink sacs (luminous 2 each) pack into four glowstone dust, while ghast tears carry no glow and cannot; two shulker shells (rigid 3 each) pack into a shulker box, but shells hold no umbral pull for an ender chest; two wither skeleton skulls (umbral 3) darken eight soul sand. A datapack row whose product needs other traits pauses on status \"unexplained_traits\" without spending FE. JEI displays the result and FE. Recipe type arcana_industry:collapse accepts ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; equal priority uses recipe ID. Six prismarine crystals collapse into one block of prismarine bricks; crushing the bricks returns nine shards, less than the twelve shards needed to filter those crystals. Nine amethyst shards collapse into one budding amethyst; diffusing it yields two clusters that tumble back into only eight shards, so the loop cannot multiply amethyst.",
+    "Top and horizontal sides import; bottom exports the result. Side mode buttons configure each face. Supply FE by capability or manual crank. The machine pauses if the output slot is full; inventory, FE, work progress and side modes persist. Breaking it drops both slots. The Phase Reclaimer now requires one Collapsed Phase in place of one of its four sealed steel plate corners."
+  ]
+}

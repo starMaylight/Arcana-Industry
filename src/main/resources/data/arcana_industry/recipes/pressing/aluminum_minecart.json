@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"tag": "forge:ingots/aluminum"},
+  "count": 5,
+  "result": {"item": "minecraft:minecart"},
+  "duration": 120,
+  "energy_per_tick": 8
+}

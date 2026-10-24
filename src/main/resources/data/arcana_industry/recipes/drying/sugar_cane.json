@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:drying",
+  "ingredient": {
+    "item": "minecraft:sugar_cane"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 5
+  },
+  "duration": 80,
+  "energy_per_tick": 8
+}

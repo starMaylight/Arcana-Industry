@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:smithing_table"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 2,
+    "arcana_industry:heavy": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:rail"
+  },
+  "count": 6,
+  "reagent": {
+    "tag": "forge:ingots/ruthenium"
+  },
+  "result": {
+    "item": "minecraft:detector_rail",
+    "count": 6
+  }
+}

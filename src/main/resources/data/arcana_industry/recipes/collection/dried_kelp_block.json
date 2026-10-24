@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collection",
+  "ingredient": {
+    "item": "minecraft:dried_kelp_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 3
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

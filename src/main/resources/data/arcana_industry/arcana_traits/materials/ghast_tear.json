@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:ghast_tear"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 3,
+    "arcana_industry:buoyant": 1
+  }
+}

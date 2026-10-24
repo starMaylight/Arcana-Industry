@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:welding",
+  "ingredient": {
+    "item": "arcana_industry:pressure_shell_blank"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:rated_pressure_shell",
+    "count": 1
+  },
+  "duration": 240,
+  "energy_per_tick": 26
+}

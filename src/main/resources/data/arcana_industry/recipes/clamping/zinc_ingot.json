@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/zinc"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:spyglass",
+    "count": 1
+  }
+}

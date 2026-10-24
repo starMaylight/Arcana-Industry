@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {
+    "item": "minecraft:raw_gold"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:raw_gold_block"
+  },
+  "duration": 120,
+  "energy_per_tick": 8
+}

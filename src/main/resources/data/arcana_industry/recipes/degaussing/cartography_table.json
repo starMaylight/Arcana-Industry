@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:degaussing",
+  "ingredient": {
+    "item": "minecraft:cartography_table"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:paper",
+    "count": 1
+  }
+}

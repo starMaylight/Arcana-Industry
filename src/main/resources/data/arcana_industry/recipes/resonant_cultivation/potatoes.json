@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:resonant_cultivation",
+  "ingredient": {
+    "item": "minecraft:potato"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:carrot",
+    "count": 8
+  }
+}

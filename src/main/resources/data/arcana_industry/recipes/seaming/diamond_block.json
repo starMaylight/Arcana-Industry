@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:seaming",
+  "ingredient": {
+    "item": "minecraft:diamond_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 9
+  }
+}

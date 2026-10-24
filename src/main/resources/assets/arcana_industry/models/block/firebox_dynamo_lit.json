@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "arcana_industry:block/firebox_dynamo_front_lit",
+    "side": "arcana_industry:block/firebox_dynamo_side",
+    "top": "arcana_industry:block/firebox_dynamo_top",
+    "particle": "arcana_industry:block/firebox_dynamo_side"
+  }
+}

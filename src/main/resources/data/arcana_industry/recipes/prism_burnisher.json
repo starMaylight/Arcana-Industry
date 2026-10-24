@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PQP",
+    "XCG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "Q": {
+      "item": "arcana_industry:attuned_quartz"
+    },
+    "G": {
+      "item": "minecraft:quartz"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:prism_separator"
+    },
+    "X": {
+      "item": "arcana_industry:tumbled_prism_bead"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:prism_burnisher"
+  }
+}

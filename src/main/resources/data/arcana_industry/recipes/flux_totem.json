@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CHC", "VSV", "CRC"],
+  "key": {
+    "C": {"item": "arcana_industry:phase_coil"},
+    "H": {"item": "arcana_industry:phase_heart"},
+    "V": {"item": "arcana_industry:phase_vessel"},
+    "S": {"item": "arcana_industry:phase_sigil"},
+    "R": {"item": "arcana_industry:ripened_phase"}
+  },
+  "result": {"item": "arcana_industry:flux_totem"}
+}

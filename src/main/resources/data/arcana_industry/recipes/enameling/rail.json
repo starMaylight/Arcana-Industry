@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:stick"
+  },
+  "count": 4,
+  "reagent": {
+    "tag": "forge:ingots/thallium"
+  },
+  "result": {
+    "item": "minecraft:rail",
+    "count": 16
+  }
+}

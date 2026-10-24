@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:stabilization",
+  "ingredient": {
+    "item": "minecraft:cartography_table"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:paper",
+    "count": 2
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

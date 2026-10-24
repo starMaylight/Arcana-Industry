@@ -1,0 +1,13 @@
+{
+  "title": "Seam Press",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 2",
+  "group": "Pressing and forming",
+  "pages": [
+    "Craft the controller with sticky pistons, copper blocks and tempered steel from the Quench Vat. Put a copper block directly beneath it, with one copper foot to its east and west on the same lower level. Put a cauldron directly above and iron-bar rails east and west of the cauldron. Face sticky pistons inward on the controller's north and south sides; east and west at controller height stay open.",
+    "Right-click the controller with feedstock from a loaded seaming recipe. The press loads one recipe batch into its stock buffer, processes it over 40 ticks, and holds the output for empty-hand collection or bottom-face extraction. A missing saddle foot or upper rail, copper base, cauldron lid, or outward/missing side piston stops operation.",
+    "It runs 20 exclusive datapack seaming recipes, each shown in JEI with its required batch size. Four leather seam into a clamped liner for the Leaching Vat. Storage blocks (iron, gold, diamond, emerald, lapis, coal, redstone, raw iron, raw copper, raw gold, netherite) unseam back into nine of their ingots, gems or dust-form materials, giving each a hopper-automatable way to reclaim resources without a crafting table. Hay, bamboo and dried kelp blocks loosen back into their nine-unit bundles; honeycomb and snow blocks split into smaller batches; packed ice unseams into ice, and blue ice unseams into packed ice. Hand-feeding: right-click a formed controller with the input to load it into the stock buffer; each batch then takes 40 ticks, and an empty-hand right-click collects the product. It has no FE port; formed controllers also hold buffered stock and output for sided item automation.",
+    "Seam four leather into a clamped liner for the top-left slot of the Leaching Vat craft, alongside a bucket, an Attuned Starshard, a Fired Foundry Liner, Ore Sluice-made graded filter media, Screened Silica, a Compacted Electrode, a Brine Ward and Cured Lashing. The Seam Press is a required aqueous-tier apparatus; a plain sealed steel plate does not substitute for the liner.",
+    "Automation: place a hopper or item pipe against any input face (all faces except the bottom by default) and feed a loaded recipe input. A formed controller processes one batch every 40 ticks without FE; its bottom face outputs to a hopper or pipe. Empty-hand right-click collects buffered products. Sneak-right-click a face with an empty hand cycles it through input, output and off. Full output pauses processing; broken or unloaded structures do not process. Buffered items and side settings survive saving; breaking the controller drops its buffers."
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "arcana_industry:block/kiln",
+  "textures": {
+    "dark": "arcana_industry:block/kiln_vent_lit"
+  }
+}

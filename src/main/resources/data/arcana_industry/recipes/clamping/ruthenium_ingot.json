@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/ruthenium"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:glistering_melon_slice",
+    "count": 1
+  }
+}

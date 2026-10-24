@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "minecraft:wither_rose"
+  },
+  "result": {
+    "item": "minecraft:black_dye",
+    "count": 2
+  },
+  "duration": 40,
+  "energy_per_tick": 4
+}

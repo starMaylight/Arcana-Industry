@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": { "item": "arcana_industry:annealed_copper" },
+  "count": 2,
+  "lumen_cost": 80,
+  "result": { "item": "arcana_industry:temper_glyph", "count": 1 }
+}

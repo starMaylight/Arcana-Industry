@@ -1,0 +1,12 @@
+{
+  "title": "Boiler Turbine",
+  "category": "arcana_industry:industry",
+  "chapter": "All tiers",
+  "group": "Electrical works",
+  "pages": [
+    "The Boiler Turbine is the Low-class (64 V) generator, the step after the Firebox Dynamo. Craft it on a crafting table: iron ingot (forge:ingots/iron), Copper Cable, iron ingot on top; bucket, Firebox Dynamo, bucket in the middle; iron ingot, piston, iron ingot on the bottom. Mine it with a stone pickaxe or better; it drops its fuel and residue when broken.",
+    "Use: fill the 16,000 mB tank by right-clicking with a water bucket, and load fuel by right-clicking with it. Each steam_raising batch boils 3-16 mB of water per tick, and every mB gives 16 FE (48-256 FE/t). Examples: 8 coal boil 8 mB/t for 6,400 ticks (819,200 FE, 51,200 mB) and leave 2 Temper Ash. 2 blaze rods give 256 FE/t. A lava bucket returns its bucket. A jukebox gives back its diamond. Dense fuels give more FE per item than in the dynamo, but each batch needs water.",
+    "Condition: a tick only burns when the tank holds that tick's water and the 128,000 FE buffer has room. Otherwise the fire stays banked, and no fuel, water or energy is lost. A batch lights only when its residue fits the residue slot. Right-click with an empty hand to read the buffer, water, burn time and FE/t, and to take out the residue. Everything is saved with the world. Water cannot be drained back out, and nothing can charge the buffer.",
+    "Automation: pipes using the Forge fluid capability fill the tank from any face (water only). Hoppers insert fuel from any face, and extraction only removes residue. Each tick it pushes up to 256 FE into adjacent Low-class (Tier 2-3) or untagged machines. A Copper Cable touching it pulls from the buffer. Tin Wire and higher-class cables need a transformer; a wrong-class run is refused like any source. Recipes: data/<namespace>/recipes/steam_raising, type arcana_industry:steam_raising, with fields ingredient, count, residue, burn_time (1-72000), steam_per_tick (1-16) and priority (highest wins, then recipe ID). JEI shows a Steam Raising category with the turbine as its catalyst."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "items": [
+    "arcana_industry:phase_coil"
+  ],
+  "traits": {
+    "arcana_industry:flexible": 1,
+    "arcana_industry:heavy": 1,
+    "arcana_industry:resonant": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:stick"
+  },
+  "count": 2,
+  "reagent": {
+    "tag": "forge:ingots/indium"
+  },
+  "result": {
+    "item": "minecraft:tripwire_hook",
+    "count": 2
+  }
+}

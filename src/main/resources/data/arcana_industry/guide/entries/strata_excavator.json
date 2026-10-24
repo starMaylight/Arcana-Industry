@@ -1,0 +1,13 @@
+{
+  "title": "Strata Excavator",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 3",
+  "group": "Mining",
+  "pages": [
+    "Craft the Strata Excavator from four sealed steel plates around a diamond pickaxe (top centre), a Crusher (centre) between two pistons, and a hopper (bottom centre). It is a Tier 3 utility, not a processing machine: it has no recipes of its own. It needs FE from a cable or generator; sneak-use with an empty hand only toggles its mode.",
+    "Placed on the surface, it digs the 9x9 area directly below itself, one block every 4 ticks, west to east and north to south, a whole layer at a time, down to the bottom of the world. Each block costs 120 FE plus 30 FE per point of hardness (stone 165 FE, deepslate 210 FE). The 64,000 FE buffer accepts power on every face.",
+    "Drops are rolled as if mined with a diamond pickaxe without enchantments, so ores give raw ore and stone gives cobblestone. It leaves air, water, lava, bedrock and anything with a block entity (chests, hoppers, spawners, machines) untouched. Protection mods can veto each break through the normal Forge break event.",
+    "Ore mode (sneak-use with an empty hand) only takes blocks in the forge:ores tag, including every Arcana ore, and skips the rest for free, so a shaft through a whole column costs only the ores' FE. Use the block with an empty hand to read FE, current layer, blocks mined, mode and status, and to take the buffered drops.",
+    "Automation: the 18-slot buffer pushes one stack per tick into any container or machine on its top or side faces; hoppers and item pipes can also pull from every face, while inserts are refused. A full buffer pauses the dig instead of dropping items. A redstone signal pauses it, unloaded chunks make it wait, and the layer, position, mode, FE and buffer survive saving. Breaking the excavator drops its buffer."
+  ]
+}

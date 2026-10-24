@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:amethyst_block"
+  },
+  "count": 2,
+  "lumen_cost": 400,
+  "result": {
+    "item": "minecraft:budding_amethyst",
+    "count": 1
+  }
+}

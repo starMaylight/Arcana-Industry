@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:fermentation",
+  "ingredient": {
+    "item": "minecraft:stone_bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:mossy_stone_bricks",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

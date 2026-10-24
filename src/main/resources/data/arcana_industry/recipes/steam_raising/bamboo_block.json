@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:bamboo_block"
+  },
+  "count": 4,
+  "residue": {
+    "item": "minecraft:bone_meal",
+    "count": 2
+  },
+  "burn_time": 1200,
+  "steam_per_tick": 4,
+  "priority": 0
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:rack_smoking",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 5
+  }
+}

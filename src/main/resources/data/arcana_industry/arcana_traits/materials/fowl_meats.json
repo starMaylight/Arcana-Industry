@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:chicken",
+    "minecraft:cooked_chicken"
+  ],
+  "traits": {
+    "arcana_industry:buoyant": 2,
+    "arcana_industry:flexible": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:capacitor_charging",
+  "ingredient": {
+    "tag": "forge:ingots/rhenium"
+  },
+  "count": 12,
+  "result": {
+    "item": "minecraft:lodestone",
+    "count": 1
+  }
+}

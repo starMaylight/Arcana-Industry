@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/zirconium"
+  },
+  "count": 5,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 3,
+  "result": {
+    "item": "minecraft:iron_boots"
+  }
+}

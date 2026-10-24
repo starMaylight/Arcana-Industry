@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XFP",
+    "ZCG",
+    "PRD"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "F": {
+      "item": "arcana_industry:filtered_prism"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:spectral_filter"
+    },
+    "X": {
+      "item": "arcana_industry:scored_prism_blank"
+    },
+    "Z": {
+      "tag": "forge:ingots/gallium"
+    },
+    "D": {
+      "item": "arcana_industry:ruled_diffraction_grating"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:diffraction_grate"
+  }
+}

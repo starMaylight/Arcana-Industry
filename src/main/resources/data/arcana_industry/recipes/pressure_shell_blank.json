@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "V",
+    "F"
+  ],
+  "key": {
+    "F": {
+      "item": "arcana_industry:flanged_ring"
+    },
+    "V": {
+      "item": "arcana_industry:stainless_vessel_stock"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:pressure_shell_blank"
+  }
+}

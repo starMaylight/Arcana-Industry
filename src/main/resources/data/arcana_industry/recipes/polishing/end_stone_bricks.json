@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:end_stone_bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:end_stone"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

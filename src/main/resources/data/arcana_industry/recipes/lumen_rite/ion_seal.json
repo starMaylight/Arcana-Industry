@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": { "item": "arcana_industry:purified_salts" },
+  "count": 2,
+  "lumen_cost": 160,
+  "result": { "item": "arcana_industry:ion_seal", "count": 1 }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flanging",
+  "ingredient": {
+    "item": "minecraft:gold_nugget"
+  },
+  "count": 18,
+  "result": {
+    "item": "minecraft:light_weighted_pressure_plate",
+    "count": 1
+  }
+}

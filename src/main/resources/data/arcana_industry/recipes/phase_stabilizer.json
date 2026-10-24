@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PKP",
+    "ZCG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "K": {
+      "item": "arcana_industry:modulated_phase"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:phase_modulator"
+    },
+    "Z": {
+      "tag": "forge:ingots/hafnium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_stabilizer"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collimation",
+  "ingredient": {
+    "item": "minecraft:blaze_powder"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:fire_charge",
+    "count": 4
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

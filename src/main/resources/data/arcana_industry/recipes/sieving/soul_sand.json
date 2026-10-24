@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:sieving",
+  "ingredient": {
+    "item": "minecraft:soul_sand"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:raw_lead",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 3
+}

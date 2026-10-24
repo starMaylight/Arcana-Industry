@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:soul_soil",
+    "minecraft:soul_sand"
+  ],
+  "traits": {
+    "arcana_industry:umbral": 1
+  }
+}

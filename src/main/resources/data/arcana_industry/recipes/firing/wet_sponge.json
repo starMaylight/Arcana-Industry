@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "minecraft:wet_sponge"
+  },
+  "result": {
+    "item": "minecraft:sponge",
+    "count": 1
+  },
+  "duration": 100,
+  "temperature": 300
+}

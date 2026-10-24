@@ -1,0 +1,9 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": { "tag": "forge:ingots/tungsten" },
+  "binder": { "item": "minecraft:blaze_powder" },
+  "count": 3,
+  "result": { "item": "minecraft:brewing_stand" },
+  "duration": 160,
+  "energy_per_tick": 24
+}

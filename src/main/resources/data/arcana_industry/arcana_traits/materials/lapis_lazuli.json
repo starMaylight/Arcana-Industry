@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:lapis_lazuli"
+  ],
+  "traits": {
+    "arcana_industry:pigment": 2,
+    "arcana_industry:crystalline": 1
+  }
+}

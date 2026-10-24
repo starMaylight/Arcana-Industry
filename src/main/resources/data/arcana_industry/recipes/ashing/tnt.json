@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:ashing",
+  "ingredient": {
+    "item": "minecraft:tnt"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 5
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

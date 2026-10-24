@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:hearth_smoking",
+  "ingredient": {
+    "item": "minecraft:potato"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:baked_potato",
+    "count": 1
+  }
+}

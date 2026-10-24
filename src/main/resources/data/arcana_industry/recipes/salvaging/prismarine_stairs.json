@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:salvaging",
+  "ingredient": {
+    "item": "minecraft:prismarine_stairs"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:prismarine",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 18
+}

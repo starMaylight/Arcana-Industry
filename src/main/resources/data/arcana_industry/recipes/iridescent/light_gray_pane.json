@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:iridescent",
+  "base": {
+    "item": "minecraft:white_stained_glass_pane"
+  },
+  "base_count": 8,
+  "reagent": {
+    "item": "minecraft:light_gray_dye"
+  },
+  "reagent_count": 1,
+  "result": {
+    "item": "minecraft:light_gray_stained_glass_pane",
+    "count": 8
+  }
+}

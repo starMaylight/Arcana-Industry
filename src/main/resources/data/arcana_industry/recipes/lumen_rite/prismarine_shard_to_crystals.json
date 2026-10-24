@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "count": 8,
+  "lumen_cost": 120,
+  "result": {
+    "item": "minecraft:prismarine_crystals",
+    "count": 4
+  }
+}

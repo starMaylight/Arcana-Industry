@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:broaching",
+  "ingredient": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:lapis_block",
+    "count": 1
+  }
+}

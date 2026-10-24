@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "arcana_industry:block/transformer_high_surge_terminal",
+    "south": "arcana_industry:block/transformer_high_surge_side_step_down",
+    "east": "arcana_industry:block/transformer_high_surge_side_step_down",
+    "west": "arcana_industry:block/transformer_high_surge_side_step_down",
+    "up": "arcana_industry:block/transformer_high_surge_side_step_down",
+    "down": "arcana_industry:block/transformer_high_surge_side_step_down",
+    "particle": "arcana_industry:block/transformer_high_surge_side_step_down"
+  }
+}

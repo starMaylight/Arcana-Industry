@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:lattice_engraving",
+  "ingredient": {
+    "item": "minecraft:weathered_copper"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:weathered_cut_copper",
+    "count": 5
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

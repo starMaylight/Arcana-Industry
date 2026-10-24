@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PEP",
+    "CMC",
+    "PBP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "E": {
+      "item": "arcana_industry:rotary_encoder"
+    },
+    "C": {
+      "item": "arcana_industry:stator_coil"
+    },
+    "M": {
+      "item": "arcana_industry:magnetized_core"
+    },
+    "B": {
+      "item": "arcana_industry:deep_groove_ball_bearing"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:servo_motor"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:refraction",
+  "ingredient": {
+    "item": "minecraft:prismarine"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:prismarine_shard",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 24
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:containment",
+  "ingredient": {
+    "item": "minecraft:snowball"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:snow_block",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

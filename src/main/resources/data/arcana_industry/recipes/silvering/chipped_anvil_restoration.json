@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:damaged_anvil"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/molybdenum"
+  },
+  "result": {
+    "item": "minecraft:chipped_anvil"
+  }
+}

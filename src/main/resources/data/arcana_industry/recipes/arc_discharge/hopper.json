@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:arc_discharge",
+  "ingredient": {
+    "item": "minecraft:hopper"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:chest",
+    "count": 1
+  }
+}

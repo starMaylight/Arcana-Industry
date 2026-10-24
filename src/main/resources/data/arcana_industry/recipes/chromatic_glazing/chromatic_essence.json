@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:chromatic_glazing",
+  "ingredient": {
+    "item": "arcana_industry:chromatic_essence"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:prismatic_glaze"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"tag": "forge:ingots/zinc"},
+  "count": 3,
+  "result": {"item": "minecraft:lightning_rod"},
+  "duration": 120,
+  "energy_per_tick": 8
+}

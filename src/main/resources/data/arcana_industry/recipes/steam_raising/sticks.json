@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:stick"
+  },
+  "count": 64,
+  "residue": {
+    "item": "minecraft:light_gray_dye",
+    "count": 1
+  },
+  "burn_time": 1600,
+  "steam_per_tick": 4,
+  "priority": 0
+}

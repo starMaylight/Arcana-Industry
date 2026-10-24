@@ -1,0 +1,12 @@
+{
+  "title": "Solar Smelter",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 5",
+  "group": "Solar and optics",
+  "pages": [
+    "Craft from sealed steel plates, Solar Foil from the Solar Photolyzer, glass panes, a blast furnace and a Resonance Infuser. The t6 Solar Smelter uses FE to fire metal grit without furnace fuel. Material update: crafting slot 4 (row-major 3x3) now requires a zirconium ingot via forge:ingots/zirconium; all existing progression gates remain required.",
+    "Seventeen metal-grit recipes turn four grit into five ingots in 160 ticks, beating the furnace, Firing Kiln and Leaching Vat at one ingot per grit; no recipe turns ingots back into grit, so the bonus cannot be looped; chromium instead needs a Chromium Thermite Charge (two chromium grit and one aluminum grit), which the focused beam ignites into one Chromium Ingot in the same time, and niobium needs a Niobium Oxide Cake leached in the Leaching Vat. A twentieth recipe tempers a Sealed Steel Plate into a Solar Tempered Plate, required at the Heliostat Etcher upper-left corner.",
+    "Import from top and horizontal faces; export below. Set side Off/In/Out modes in the menu. Supply 20 FE/t or crank manually. Work pauses when output is full. Inventory, energy, progress and modes persist.",
+    "Datapacks add arcana_industry:solar_smelting recipes with ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; ID breaks ties. JEI shows recipes and the Smelter catalyst."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collection",
+  "ingredient": {
+    "item": "minecraft:jack_o_lantern"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:pumpkin_seeds",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

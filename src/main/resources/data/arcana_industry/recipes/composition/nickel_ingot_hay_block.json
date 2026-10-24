@@ -1,0 +1,9 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": { "tag": "forge:ingots/nickel" },
+  "binder": { "item": "minecraft:hay_block" },
+  "count": 2,
+  "result": { "item": "minecraft:target", "count": 2 },
+  "duration": 160,
+  "energy_per_tick": 24
+}

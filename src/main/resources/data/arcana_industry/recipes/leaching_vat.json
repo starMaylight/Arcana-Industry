@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LGA",
+    "RFS",
+    "ECH"
+  ],
+  "key": {
+    "L": {
+      "item": "arcana_industry:embossed_wear_liner"
+    },
+    "G": {
+      "item": "arcana_industry:copper_flow_valve"
+    },
+    "A": {
+      "item": "arcana_industry:attuned_starshard"
+    },
+    "R": {
+      "item": "arcana_industry:foundry_liner"
+    },
+    "F": {
+      "item": "arcana_industry:framed_filter_strainer"
+    },
+    "S": {
+      "item": "arcana_industry:screened_silica"
+    },
+    "E": {
+      "item": "arcana_industry:compacted_electrode"
+    },
+    "C": {
+      "item": "arcana_industry:brine_ward"
+    },
+    "H": {
+      "item": "arcana_industry:cured_lashing"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:leaching_vat"
+  }
+}

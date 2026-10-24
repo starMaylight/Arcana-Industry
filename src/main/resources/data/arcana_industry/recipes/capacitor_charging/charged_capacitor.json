@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:capacitor_charging",
+  "ingredient": {
+    "item": "arcana_industry:compacted_electrode"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:charged_capacitor",
+    "count": 1
+  }
+}

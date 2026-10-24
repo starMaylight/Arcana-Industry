@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:verdant_distillation",
+  "ingredient": {
+    "item": "arcana_industry:verdant_resonator"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:chromatic_essence"
+  }
+}

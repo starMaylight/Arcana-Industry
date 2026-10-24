@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "binder": {
+    "item": "minecraft:glowstone"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:sea_lantern",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

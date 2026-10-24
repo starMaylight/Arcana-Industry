@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LZL",
+    "CRJ",
+    "KWK"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "J": {
+      "item": "arcana_industry:brazed_joint"
+    },
+    "R": {
+      "item": "arcana_industry:pulse_contact_assembly"
+    },
+    "Z": {
+      "tag": "forge:ingots/silver"
+    },
+    "K": {
+      "item": "arcana_industry:crimped_collar"
+    },
+    "W": {
+      "item": "arcana_industry:creosote_lagging"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:induction_coiler"
+  }
+}

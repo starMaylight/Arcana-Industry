@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:scribing",
+  "ingredient": {
+    "item": "minecraft:mud_bricks"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:mud_brick_slab",
+    "count": 5
+  },
+  "duration": 160,
+  "energy_per_tick": 22
+}

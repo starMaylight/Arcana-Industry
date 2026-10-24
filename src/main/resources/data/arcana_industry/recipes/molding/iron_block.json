@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:molding",
+  "ingredient": {"item": "minecraft:iron_block"},
+  "count": 1,
+  "result": {"item": "arcana_industry:cast_fitting", "count": 9},
+  "duration": 100,
+  "energy_per_tick": 4
+}

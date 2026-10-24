@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "item": "minecraft:iron_nugget"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

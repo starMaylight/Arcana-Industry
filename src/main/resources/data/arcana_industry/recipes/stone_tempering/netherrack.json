@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:stone_tempering",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:nether_brick",
+    "count": 5
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

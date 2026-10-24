@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:charcoal"
+  },
+  "count": 8,
+  "residue": {
+    "item": "arcana_industry:temper_ash",
+    "count": 2
+  },
+  "burn_time": 6000,
+  "steam_per_tick": 8,
+  "priority": 0
+}

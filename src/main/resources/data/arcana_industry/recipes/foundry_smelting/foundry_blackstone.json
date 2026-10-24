@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:foundry_smelting",
+  "ingredient": {
+    "item": "minecraft:blackstone"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:polished_blackstone",
+    "count": 5
+  }
+}

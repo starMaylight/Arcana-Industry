@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "arcana_industry:iron_grit"
+  },
+  "result": "minecraft:iron_ingot",
+  "experience": 0.35,
+  "cookingtime": 200
+}

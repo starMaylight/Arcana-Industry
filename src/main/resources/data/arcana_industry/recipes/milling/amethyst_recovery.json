@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:milling",
+  "ingredient": {
+    "item": "minecraft:amethyst_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:amethyst_shard",
+    "count": 4
+  }
+}

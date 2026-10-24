@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PSP", "KXK", "PSP"],
+  "key": {
+    "P": {"item": "arcana_industry:sealed_steel_plate"},
+    "S": {"item": "arcana_industry:drive_shaft"},
+    "K": {"item": "arcana_industry:shaft_key"},
+    "X": {"item": "minecraft:slime_ball"}
+  },
+  "result": {"item": "arcana_industry:jaw_shaft_coupling"}
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["IRI", "PBP", "ILI"],
+  "key": {
+    "I": {"tag": "forge:ingots/iron"},
+    "R": {"item": "arcana_industry:riveted_brace"},
+    "P": {"item": "arcana_industry:sealed_steel_plate"},
+    "B": {"item": "arcana_industry:deep_groove_ball_bearing"},
+    "L": {"item": "arcana_industry:labyrinth_seal"}
+  },
+  "result": {"item": "arcana_industry:plummer_block_housing"}
+}

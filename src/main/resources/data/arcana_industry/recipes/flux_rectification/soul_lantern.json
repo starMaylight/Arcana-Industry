@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": {
+    "item": "minecraft:soul_lantern"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:soul_torch",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "arcana_industry:screened_silica"
+    },
+    {
+      "item": "minecraft:diorite"
+    }
+  ],
+  "result": {
+    "item": "arcana_industry:green_porcelain_insulator",
+    "count": 2
+  }
+}

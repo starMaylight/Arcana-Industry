@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {
+    "item": "minecraft:gold_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:powered_rail",
+    "count": 8
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:chromatic_glazing",
+  "ingredient": {
+    "item": "minecraft:lime_stained_glass"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:lime_stained_glass_pane",
+    "count": 3
+  }
+}

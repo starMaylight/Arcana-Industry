@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["PMP","BFB","PTP"],"key":{"P":{"item":"arcana_industry:sealed_steel_plate"},"M":{"item":"minecraft:magma_block"},"B":{"item":"minecraft:brick"},"F":{"item":"minecraft:blast_furnace"},"T":{"item":"arcana_industry:ceramic_tuyere"}},"result":{"item":"arcana_industry:blast_column"}}

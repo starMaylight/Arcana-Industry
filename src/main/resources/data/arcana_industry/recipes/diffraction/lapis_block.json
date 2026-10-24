@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:diffraction",
+  "ingredient": {
+    "item": "minecraft:lapis_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:lapis_lazuli",
+    "count": 9
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

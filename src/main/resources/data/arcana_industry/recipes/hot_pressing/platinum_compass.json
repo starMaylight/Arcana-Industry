@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {
+    "tag": "forge:ingots/platinum"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:compass",
+    "count": 1
+  },
+  "duration": 140,
+  "energy_per_tick": 12
+}

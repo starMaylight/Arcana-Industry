@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PZP",
+    "IGI",
+    "PIP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "G": {
+      "item": "arcana_industry:forming_die"
+    },
+    "Z": {
+      "tag": "forge:ingots/vanadium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:swage_press"
+  }
+}

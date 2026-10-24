@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "item": "minecraft:bamboo_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 1
+  },
+  "duration": 80,
+  "energy_per_tick": 8,
+  "priority": 0
+}

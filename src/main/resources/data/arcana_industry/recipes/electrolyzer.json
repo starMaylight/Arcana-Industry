@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LSP",
+    "RGR",
+    "ICP"
+  ],
+  "key": {
+    "L": {
+      "item": "arcana_industry:cured_lashing"
+    },
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "S": {
+      "item": "arcana_industry:refracted_matrix"
+    },
+    "I": {
+      "item": "arcana_industry:ion_seal"
+    },
+    "R": {
+      "item": "arcana_industry:compacted_electrode"
+    },
+    "G": {
+      "item": "arcana_industry:screened_silica"
+    },
+    "C": {
+      "item": "arcana_industry:foundry_liner"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:electrolyzer"
+  }
+}

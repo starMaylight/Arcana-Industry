@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:concordance",
+  "base": {
+    "item": "arcana_industry:reliquary_core"
+  },
+  "base_count": 2,
+  "reagent": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "reagent_count": 4,
+  "result": {
+    "item": "arcana_industry:concordance_seal"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:glowstone",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

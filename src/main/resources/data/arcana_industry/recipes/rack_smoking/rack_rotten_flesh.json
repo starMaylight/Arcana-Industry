@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:rack_smoking",
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:leather",
+    "count": 1
+  }
+}

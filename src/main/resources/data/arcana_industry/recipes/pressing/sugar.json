@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {
+    "item": "minecraft:sugar_cane"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 4
+  },
+  "duration": 80,
+  "energy_per_tick": 6
+}

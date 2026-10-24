@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:soaking",
+  "ingredient": {
+    "item": "minecraft:raw_copper"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:copper_grit",
+    "count": 3
+  }
+}

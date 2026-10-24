@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "tag": "minecraft:wooden_doors"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/lead"
+  },
+  "result": {
+    "item": "minecraft:iron_door"
+  }
+}

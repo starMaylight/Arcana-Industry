@@ -1,0 +1,14 @@
+{
+  "title": "Refractory Mixer",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 0",
+  "group": "Mechanical processing",
+  "pages": [
+    "Craft the mixer as ICI / CWC / ICI (I iron ingot, C crusher-made copper grit, W vanilla cauldron). It needs Crusher grit but no Sieve flux. Its refractory binder is required alongside two Sieve-made screened flux to craft the Kiln; all three t0 apparatus are needed for the thermal workshop. Material update: crafting slot 1 (row-major 3x3) now requires a manganese ingot via forge:ingots/manganese (a wear-resistant paddle). Manganese is furnace-smeltable, so the mixer stays buildable before the Kiln; all existing progression gates remain required.",
+    "Right-click to open. The left slot holds the base material, the middle slot holds an optional binder item, and the tank fills from a held water bucket or any Forge fluid handler aimed at the block. Both solids and the measured water are consumed together; the right slot holds the result. Crank supplies 80 FE like other t0 machines.",
+    "Twenty datapack recipes cover different wet-processing paths: four sand, two clay balls and 500 mB water make two refractory binder, one of which goes into the Kiln craft. Dirt soaks into mud, sponges saturate into wet sponges, nine slime balls and 250 mB water bind into a slime block, and all sixteen concrete powders cure into solid concrete. No two recipes share an input or output pair.",
+    "Recipes are datapack JSON under data/<namespace>/recipes/mixing. Type: arcana_industry:mixing. Fields: ingredient, count (default 1), optional binder and binder_count (default 1 when binder is present), fluid, fluid_amount (1-8000 mB), result, duration (1-72000 ticks), energy_per_tick (1-1000) and optional priority (default 0, ties break by ascending recipe ID).",
+    "Automation matches the leaching vat: top and horizontal item ports import into either solid slot, the bottom exports results, and the fluid capability accepts water from any side. Six buttons cycle each face through Off, In and Out. Inventory, tank, FE, work and ports persist through saves and chunk unloads.",
+    "With Just Enough Items installed, click the progress strip to browse Refractory Mixing recipes, or look up an ingredient or product in JEI. The mixer is the category catalyst. JEI is optional; all processing and this guide work without it."
+  ]
+}

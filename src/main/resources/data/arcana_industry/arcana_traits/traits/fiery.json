@@ -1,0 +1,6 @@
+{
+  "description": "Holds and releases heat.",
+  "opposes": [
+    "arcana_industry:aqueous"
+  ]
+}

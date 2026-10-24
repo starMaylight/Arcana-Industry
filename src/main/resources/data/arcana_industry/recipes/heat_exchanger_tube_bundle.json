@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TPT",
+    "TTT",
+    "TPT"
+  ],
+  "key": {
+    "T": {
+      "item": "arcana_industry:drawn_copper_tube"
+    },
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:heat_exchanger_tube_bundle"
+  }
+}

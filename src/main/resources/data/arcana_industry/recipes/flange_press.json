@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DZD",
+    "ITI",
+    "DID"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "T": {
+      "item": "arcana_industry:tempered_steel"
+    },
+    "Z": {
+      "tag": "forge:ingots/titanium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:flange_press"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "GKX",
+    "BRB"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "S": {
+      "item": "arcana_industry:solar_prism"
+    },
+    "G": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "K": {
+      "item": "arcana_industry:iridescent_key"
+    },
+    "R": {
+      "item": "arcana_industry:resonance_infuser"
+    },
+    "B": {
+      "item": "arcana_industry:hex_bolt_set"
+    },
+    "X": {
+      "item": "arcana_industry:heat_exchanger"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:noctilucent_condenser"
+  }
+}

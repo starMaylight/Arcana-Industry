@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:polarity_inversion",
+  "ingredient": {
+    "item": "minecraft:name_tag"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:paper",
+    "count": 1
+  }
+}

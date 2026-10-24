@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:concordance",
+  "base": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "base_count": 1,
+  "reagent": {
+    "item": "minecraft:sea_lantern"
+  },
+  "reagent_count": 1,
+  "result": {
+    "item": "minecraft:ochre_froglight",
+    "count": 3
+  },
+  "stability": 4
+}

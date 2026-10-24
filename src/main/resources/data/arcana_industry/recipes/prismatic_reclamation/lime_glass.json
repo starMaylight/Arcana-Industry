@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:prismatic_reclamation",
+  "ingredient": {
+    "item": "minecraft:lime_stained_glass_pane"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:lime_stained_glass",
+    "count": 2
+  }
+}

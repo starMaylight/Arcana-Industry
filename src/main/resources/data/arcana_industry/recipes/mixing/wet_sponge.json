@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:mixing",
+  "ingredient": {
+    "item": "minecraft:sponge"
+  },
+  "count": 1,
+  "fluid": "minecraft:water",
+  "fluid_amount": 1000,
+  "result": {
+    "item": "minecraft:wet_sponge",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 10
+}

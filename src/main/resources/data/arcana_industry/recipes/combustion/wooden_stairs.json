@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "tag": "minecraft:wooden_stairs"
+  },
+  "count": 2,
+  "residue": {
+    "item": "minecraft:charcoal",
+    "count": 1
+  },
+  "burn_time": 600,
+  "energy_per_tick": 14,
+  "priority": 0
+}

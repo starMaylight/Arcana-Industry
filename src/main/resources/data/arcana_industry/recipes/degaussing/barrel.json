@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:degaussing",
+  "ingredient": {
+    "item": "minecraft:barrel"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:oak_planks",
+    "count": 8
+  }
+}

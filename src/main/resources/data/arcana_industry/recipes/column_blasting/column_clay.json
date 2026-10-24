@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:column_blasting",
+  "ingredient": {
+    "item": "minecraft:clay_ball"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:brick",
+    "count": 4
+  }
+}

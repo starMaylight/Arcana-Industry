@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PAB",
+    "GCG",
+    "TRT"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:bevel_gear_pair"
+    },
+    "B": {
+      "item": "arcana_industry:cylindrical_roller_bearing"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "item": "minecraft:glowstone"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:prism_lapidary"
+    },
+    "T": {
+      "item": "arcana_industry:tapered_roller_bearing"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:prism_polisher"
+  }
+}

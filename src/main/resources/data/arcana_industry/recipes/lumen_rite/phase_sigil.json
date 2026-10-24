@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": { "item": "arcana_industry:phase_lattice" },
+  "count": 2,
+  "lumen_cost": 360,
+  "result": { "item": "arcana_industry:phase_sigil", "count": 1 }
+}

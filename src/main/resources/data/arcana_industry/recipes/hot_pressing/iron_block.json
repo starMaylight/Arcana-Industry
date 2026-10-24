@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {
+    "item": "minecraft:iron_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:heavy_weighted_pressure_plate",
+    "count": 2
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

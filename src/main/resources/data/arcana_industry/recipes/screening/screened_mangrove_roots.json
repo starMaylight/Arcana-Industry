@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:screening",
+  "ingredient": {
+    "item": "minecraft:muddy_mangrove_roots"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:mangrove_roots",
+    "count": 1
+  }
+}

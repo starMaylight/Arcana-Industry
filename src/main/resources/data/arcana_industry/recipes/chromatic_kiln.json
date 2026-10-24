@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TET", "GFG", "TET"],
+  "key": {
+    "T": {"item": "minecraft:terracotta"},
+    "E": {"item": "arcana_industry:chromatic_essence"},
+    "G": {"item": "minecraft:glass"},
+    "F": {"item": "minecraft:furnace"}
+  },
+  "result": {"item": "arcana_industry:chromatic_kiln"}
+}

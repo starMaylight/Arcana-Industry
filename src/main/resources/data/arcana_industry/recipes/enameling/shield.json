@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "count": 6,
+  "reagent": {
+    "tag": "forge:ingots/molybdenum"
+  },
+  "result": {
+    "item": "minecraft:shield"
+  }
+}

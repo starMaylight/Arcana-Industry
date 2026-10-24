@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:glow_item_frame"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 2,
+    "arcana_industry:aqueous": 1,
+    "arcana_industry:pigment": 1
+  }
+}

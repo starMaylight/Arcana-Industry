@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:honey_bottle"
+  ],
+  "traits": {
+    "arcana_industry:binding": 2
+  }
+}

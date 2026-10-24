@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:saddle"
+  ],
+  "traits": {
+    "arcana_industry:flexible": 3
+  }
+}

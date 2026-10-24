@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:extruding",
+  "ingredient": {
+    "item": "minecraft:clay"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:formed_firebrick",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

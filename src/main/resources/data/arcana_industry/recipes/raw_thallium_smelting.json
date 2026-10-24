@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:raw_materials/thallium"
+  },
+  "result": "arcana_industry:thallium_ingot",
+  "experience": 0.3,
+  "cookingtime": 200
+}

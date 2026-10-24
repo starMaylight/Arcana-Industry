@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:containment",
+  "ingredient": {
+    "item": "minecraft:nautilus_shell"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:heart_of_the_sea",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

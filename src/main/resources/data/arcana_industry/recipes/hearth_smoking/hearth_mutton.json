@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:hearth_smoking",
+  "ingredient": {
+    "item": "minecraft:mutton"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:cooked_mutton",
+    "count": 5
+  }
+}

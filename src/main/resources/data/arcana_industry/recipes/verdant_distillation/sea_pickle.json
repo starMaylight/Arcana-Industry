@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:verdant_distillation",
+  "ingredient": {
+    "item": "minecraft:sea_pickle"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:lime_dye",
+    "count": 12
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Phase Revivifier",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 9",
+  "group": "Phase works",
+  "pages": [
+    "A t9 apparatus built after the Phase Conflux. Craft it from one Converged Phase, a water bucket, a phase coil, two glass panes and four sealed steel plates. The converged phase seeds the tank; the bucket is returned.",
+    "Feed one item into the left slot; the result appears in the right slot. Reviving one Stabilized Phase (200 ticks, 32 FE/t) yields Revived Phase. The Phase Scepter needs two Revived Phase, so the scepter cannot be made without this device.",
+    "The other nineteen datapack recipes restore dead tube, brain, bubble, fire and horn coral blocks, coral and coral fans to their living forms (120 ticks, 24 FE/t), and revive dead bush to fern, podzol to grass block, coarse dirt to two dirt and cobblestone to mossy cobblestone. JEI lists every recipe with time and FE. Recipe type arcana_industry:revivification accepts ingredient, count, result, duration, energy_per_tick and optional priority; higher priority wins, then recipe ID.",
+    "Revivification obeys the material-trait rule with no field: a product may only carry the traits of count x its input. Dead coral, dead bush and crusted soil carry no signature, so their living forms carry none either; a Revived Phase keeps exactly the luminous 1 and resonant 1 of its Stabilized Phase. A datapack row whose product holds a trait its input lacks stalls with the status 'Product traits not in input or field' and spends no FE.",
+    "Automation: top and horizontal sides import, the bottom exports. Change each face with the side buttons. Supply FE through Forge energy or crank manually. A full output slot pauses work. Inventory, FE, progress and side modes persist; breaking it drops both slots."
+  ]
+}

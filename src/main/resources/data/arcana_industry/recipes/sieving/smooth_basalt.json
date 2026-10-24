@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:sieving",
+  "ingredient": {
+    "item": "minecraft:smooth_basalt"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:raw_aluminum",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 4
+}

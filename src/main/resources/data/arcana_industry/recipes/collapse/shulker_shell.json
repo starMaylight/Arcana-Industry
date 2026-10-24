@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collapse",
+  "ingredient": {
+    "item": "minecraft:shulker_shell"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:shulker_box",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

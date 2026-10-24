@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:swaging",
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:coal_block",
+    "count": 1
+  }
+}

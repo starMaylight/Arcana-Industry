@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:signal_imprinting",
+  "ingredient": {
+    "item": "arcana_industry:laminated_shell"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:signal_matrix",
+    "count": 1
+  }
+}

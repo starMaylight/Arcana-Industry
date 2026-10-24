@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flanging",
+  "ingredient": {
+    "item": "arcana_industry:bearing_steel_stock"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:thrust_washer_blank",
+    "count": 2
+  }
+}

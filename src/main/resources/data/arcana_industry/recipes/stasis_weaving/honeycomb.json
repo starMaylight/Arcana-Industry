@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:stasis_weaving",
+  "ingredient": {
+    "item": "minecraft:honeycomb"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:honeycomb_block"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

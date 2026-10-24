@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:ashing",
+  "ingredient": {
+    "item": "minecraft:cherry_log"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 2
+  },
+  "duration": 100,
+  "energy_per_tick": 3,
+  "priority": 0
+}

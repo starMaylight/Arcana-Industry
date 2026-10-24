@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lattice_engraving",
+  "ingredient": {
+    "item": "minecraft:prismarine"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:prismarine_bricks"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

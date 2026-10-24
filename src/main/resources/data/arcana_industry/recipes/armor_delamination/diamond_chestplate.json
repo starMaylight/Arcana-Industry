@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:armor_delamination",
+  "ingredient": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 2
+  }
+}

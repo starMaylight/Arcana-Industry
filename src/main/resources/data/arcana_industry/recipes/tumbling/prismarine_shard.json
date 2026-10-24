@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:tumbling",
+  "ingredient": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:prismarine_crystals",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 28
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:ion_seal"
+  ],
+  "traits": {
+    "arcana_industry:crystalline": 2,
+    "arcana_industry:aqueous": 1
+  }
+}

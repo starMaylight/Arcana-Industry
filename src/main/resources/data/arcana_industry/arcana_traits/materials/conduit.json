@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:conduit"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 5,
+    "arcana_industry:rigid": 3,
+    "arcana_industry:resonant": 1
+  }
+}

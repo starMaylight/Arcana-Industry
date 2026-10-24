@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:column_blasting",
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:polished_diorite",
+    "count": 5
+  }
+}

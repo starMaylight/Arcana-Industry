@@ -1,0 +1,17 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:chain",
+    "count": 2
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}
+

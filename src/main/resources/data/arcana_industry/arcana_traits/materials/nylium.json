@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:crimson_nylium",
+    "minecraft:warped_nylium"
+  ],
+  "traits": {
+    "arcana_industry:fiery": 1
+  }
+}

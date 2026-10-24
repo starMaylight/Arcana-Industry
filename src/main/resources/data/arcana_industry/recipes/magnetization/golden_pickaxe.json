@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:magnetization",
+  "ingredient": {
+    "item": "minecraft:golden_pickaxe"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 2
+  }
+}

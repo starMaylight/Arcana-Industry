@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "arcana_industry:rhodium_grit" },
+  "result": "arcana_industry:rhodium_ingot",
+  "experience": 0.3,
+  "cookingtime": 200
+}

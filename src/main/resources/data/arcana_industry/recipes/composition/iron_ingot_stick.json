@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "binder": {
+    "item": "minecraft:stick"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:rail",
+    "count": 4
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" C ", "ILI", " C "],
+  "key": {
+    "C": {"tag": "forge:ingots/copper"},
+    "I": {"item": "minecraft:iron_nugget"},
+    "L": {"item": "minecraft:leather"}
+  },
+  "result": {"item": "arcana_industry:valve_blank"}
+}

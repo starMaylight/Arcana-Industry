@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "arcana_industry:hafnium_grit" },
+  "result": "arcana_industry:hafnium_ingot",
+  "experience": 0.3,
+  "cookingtime": 200
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "item": "minecraft:polished_blackstone_bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:cracked_polished_blackstone_bricks",
+    "count": 1
+  },
+  "duration": 140,
+  "energy_per_tick": 8,
+  "priority": 0
+}

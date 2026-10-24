@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:soaking",
+  "ingredient": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:shroomlight",
+    "count": 1
+  }
+}

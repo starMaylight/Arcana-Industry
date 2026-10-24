@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "count": 4,
+  "residue": {
+    "item": "minecraft:light_gray_dye",
+    "count": 1
+  },
+  "burn_time": 1200,
+  "energy_per_tick": 12,
+  "priority": 0
+}

@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "base": "arcana_industry:block/quern_base",
+    "pillar": "arcana_industry:block/quern_pillar",
+    "wheel": "arcana_industry:block/quern_wheel",
+    "particle": "arcana_industry:block/quern_base"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 3, 16],
+      "faces": {
+        "up": {"texture": "#base"}, "down": {"texture": "#base"},
+        "north": {"texture": "#base"}, "south": {"texture": "#base"},
+        "east": {"texture": "#base"}, "west": {"texture": "#base"}
+      }
+    },
+    {
+      "from": [0, 3, 0],
+      "to": [3, 13, 16],
+      "faces": {
+        "up": {"texture": "#pillar"}, "down": {"texture": "#pillar"},
+        "north": {"texture": "#pillar"}, "south": {"texture": "#pillar"},
+        "east": {"texture": "#pillar"}, "west": {"texture": "#pillar"}
+      }
+    },
+    {
+      "from": [13, 3, 0],
+      "to": [16, 13, 16],
+      "faces": {
+        "up": {"texture": "#pillar"}, "down": {"texture": "#pillar"},
+        "north": {"texture": "#pillar"}, "south": {"texture": "#pillar"},
+        "east": {"texture": "#pillar"}, "west": {"texture": "#pillar"}
+      }
+    },
+    {
+      "from": [3, 3, 4],
+      "to": [13, 10, 12],
+      "faces": {
+        "up": {"texture": "#wheel"}, "down": {"texture": "#wheel"},
+        "north": {"texture": "#wheel"}, "south": {"texture": "#wheel"},
+        "east": {"texture": "#wheel"}, "west": {"texture": "#wheel"}
+      }
+    },
+    {
+      "from": [0, 13, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "up": {"texture": "#wheel"}, "down": {"texture": "#wheel"},
+        "north": {"texture": "#wheel"}, "south": {"texture": "#wheel"},
+        "east": {"texture": "#wheel"}, "west": {"texture": "#wheel"}
+      }
+    }
+  ]
+}

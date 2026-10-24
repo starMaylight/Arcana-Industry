@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:welding",
+  "ingredient": {
+    "tag": "forge:ingots/molybdenum"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:flint_and_steel",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 22
+}

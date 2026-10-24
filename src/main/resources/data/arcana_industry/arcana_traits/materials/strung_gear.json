@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:bow",
+    "minecraft:crossbow",
+    "minecraft:fishing_rod"
+  ],
+  "traits": {
+    "arcana_industry:woven": 1,
+    "arcana_industry:flexible": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:leather"
+  },
+  "count": 5,
+  "lumen_cost": 120,
+  "result": {
+    "item": "minecraft:saddle",
+    "count": 1
+  }
+}

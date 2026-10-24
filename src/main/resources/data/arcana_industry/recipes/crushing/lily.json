@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "minecraft:lily_of_the_valley"
+  },
+  "result": {
+    "item": "minecraft:white_dye",
+    "count": 2
+  },
+  "duration": 40,
+  "energy_per_tick": 4
+}

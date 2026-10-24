@@ -1,0 +1,11 @@
+{
+  "title": "Palladium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 4",
+  "group": "Precious and platinum-group metals",
+  "pages": [
+    "Palladium Ore and Deepslate Palladium Ore generate deep in the Overworld between Y -64 and 32 (veins of size 7, at most one vein per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Palladium and Fortune can increase the yield. Required industrial use: solar photolyzer. Its craft consumes this ingot; compatible forge:ingots/palladium inputs are accepted.",
+    "Smelt or blast Raw Palladium into Palladium Ingots. The Crusher processes one Raw Palladium into two Palladium Grit in 200 ticks at 6 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Palladium uses forge:ores/palladium, forge:raw_materials/palladium and forge:ingots/palladium tags. Datapacks can add matching recipes. Because Palladium is limited to one vein per chunk, the two-grit Crusher route is worth the extra 1,200 energy per raw ore to avoid wasting a scarce find. The powered Lattice Engraver also engraves 5 forge:ingots/palladium into a cauldron in 160 ticks at 24 FE/t; cauldron recyclers return only iron or cast fittings, never palladium."
+  ]
+}

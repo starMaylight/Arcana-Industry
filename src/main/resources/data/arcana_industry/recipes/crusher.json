@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "IPI",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:crusher"
+  }
+}

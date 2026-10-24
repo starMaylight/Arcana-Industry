@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"item": "minecraft:leather"},
+  "count": 2,
+  "result": {"item": "arcana_industry:pressed_friction_lining", "count": 1},
+  "duration": 120,
+  "energy_per_tick": 8
+}

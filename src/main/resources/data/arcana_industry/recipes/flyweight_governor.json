@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" S ", "FRF", " G "],
+  "key": {
+    "S": {"item": "arcana_industry:coil_spring"},
+    "F": {"item": "arcana_industry:governor_flyweight"},
+    "R": {"item": "arcana_industry:drawn_iron_rod"},
+    "G": {"item": "arcana_industry:bevel_gear_pair"}
+  },
+  "result": {"item": "arcana_industry:flyweight_governor"}
+}

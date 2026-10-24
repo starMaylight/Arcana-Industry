@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XQP",
+    "AGA",
+    "PRC"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "Q": {
+      "item": "arcana_industry:attuned_quartz"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "R": {
+      "item": "arcana_industry:spectral_filter"
+    },
+    "X": {
+      "item": "arcana_industry:polished_prism_facet"
+    },
+    "C": {
+      "item": "arcana_industry:cam_follower_assembly"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:prism_scorer"
+  }
+}

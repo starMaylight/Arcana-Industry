@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "GCG",
+    "PHP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "S": {
+      "item": "arcana_industry:prism_core"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "H": {
+      "item": "arcana_industry:stasis_core"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:lattice_reclaimer"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:rabbit",
+    "minecraft:cooked_rabbit"
+  ],
+  "traits": {
+    "arcana_industry:flexible": 1,
+    "arcana_industry:buoyant": 1
+  }
+}

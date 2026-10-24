@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZSG",
+    "CRC",
+    "GSG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "arcana_industry:stator_coil"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "arcana_industry:purified_salts"
+    },
+    "Z": {
+      "tag": "forge:ingots/bismuth"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:degauss_coil"
+  }
+}

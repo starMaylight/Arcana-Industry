@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:glow_ink_sac"
+  },
+  "count": 1,
+  "lumen_cost": 40,
+  "result": {
+    "item": "minecraft:glowstone_dust",
+    "count": 2
+  }
+}

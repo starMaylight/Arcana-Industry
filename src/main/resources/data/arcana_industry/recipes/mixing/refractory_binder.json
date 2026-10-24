@@ -1,0 +1,19 @@
+{
+  "type": "arcana_industry:mixing",
+  "ingredient": {
+    "item": "minecraft:sand"
+  },
+  "count": 4,
+  "fluid": "minecraft:water",
+  "fluid_amount": 500,
+  "result": {
+    "item": "arcana_industry:refractory_binder",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 20,
+  "binder": {
+    "item": "minecraft:clay_ball"
+  },
+  "binder_count": 2
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:signal_imprinting",
+  "ingredient": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:redstone_lamp",
+    "count": 1
+  }
+}

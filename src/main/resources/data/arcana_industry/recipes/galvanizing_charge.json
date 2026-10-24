@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "arcana_industry:steel_billet"},
+    {"item": "arcana_industry:steel_billet"},
+    {"item": "arcana_industry:steel_billet"},
+    {"item": "arcana_industry:steel_billet"},
+    {"tag": "forge:ingots/zinc"}
+  ],
+  "result": {"item": "arcana_industry:galvanizing_charge", "count": 4}
+}

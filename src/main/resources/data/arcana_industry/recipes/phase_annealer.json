@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ILD",
+    "ZCG",
+    "XRH"
+  ],
+  "key": {
+    "I": {
+      "item": "arcana_industry:inverted_phase"
+    },
+    "H": {
+      "item": "arcana_industry:phase_sigil"
+    },
+    "L": {
+      "item": "arcana_industry:phase_lattice"
+    },
+    "D": {
+      "item": "arcana_industry:diffused_phase"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "arcana_industry:nichrome_heating_element"
+    },
+    "R": {
+      "item": "arcana_industry:lattice_composer"
+    },
+    "X": {
+      "item": "arcana_industry:bound_singularity"
+    },
+    "Z": {
+      "tag": "forge:ingots/rhenium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_annealer"
+  }
+}

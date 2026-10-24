@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:polarity_inversion",
+  "ingredient": {
+    "item": "minecraft:turtle_helmet"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:scute",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "minecraft:chorus_fruit"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:popped_chorus_fruit",
+    "count": 5
+  },
+  "duration": 420,
+  "temperature": 500
+}

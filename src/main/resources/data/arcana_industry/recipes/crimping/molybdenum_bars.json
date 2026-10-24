@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:crimping",
+  "ingredient": {
+    "tag": "forge:ingots/molybdenum"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:iron_bars",
+    "count": 16
+  }
+}

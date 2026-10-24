@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FSP",
+    "ZCD",
+    "XRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "F": {
+      "item": "arcana_industry:filtered_prism"
+    },
+    "S": {
+      "item": "arcana_industry:solar_prism"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:prism_separator"
+    },
+    "X": {
+      "item": "arcana_industry:diffraction_core"
+    },
+    "Z": {
+      "tag": "forge:ingots/indium"
+    },
+    "D": {
+      "item": "arcana_industry:photodetector_cell"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:lens_collimator"
+  }
+}

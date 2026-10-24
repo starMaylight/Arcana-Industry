@@ -1,0 +1,11 @@
+{
+  "title": "Tantalum Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 1",
+  "group": "Alloying and refractory metals",
+  "pages": [
+    "Tantalum Ore and Deepslate Tantalum Ore generate in the Overworld between Y -40 and 40 (veins of size 4, up to two veins per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Tantalum and Fortune can increase the yield. Required industrial use: lattice laminator. Its craft consumes this ingot; compatible forge:ingots/tantalum inputs are accepted.",
+    "Furnaces cannot reduce tantalum. Crush one Raw Tantalum into two Tantalum Grit (200 ticks, 6 FE/t). Mix two grit with Purified Salts and Aluminum Grit to make two Tantalum Fluoride Concentrates. Fire each concentrate in the Kiln at 1000 heat for 300 ticks to obtain one ingot. The Cupellation Hearth alternatively separates three Raw Tantalum into two concentrates and a Niobium Ingot; both concentrates still require Kiln reduction. Automate the Crusher input/output with sided item ports, supply the Kiln through its input port, and extract finished ingots from its output port.",
+    "Tantalum uses forge:ores/tantalum, forge:raw_materials/tantalum and forge:ingots/tantalum tags. Datapacks can add matching recipes. Tantalum Ingots are a high-strength material for later apparatus and material progression."
+  ]
+}

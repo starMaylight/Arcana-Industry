@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:rabbit_hide"
+  },
+  "count": 6,
+  "lumen_cost": 180,
+  "result": {
+    "item": "minecraft:rabbit_foot",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:resonant_cultivation",
+  "ingredient": {
+    "item": "arcana_industry:signal_matrix"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:verdant_resonator"
+  }
+}

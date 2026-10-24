@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NSP",
+    "GLG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "S": {
+      "item": "arcana_industry:solar_prism"
+    },
+    "G": {
+      "item": "minecraft:redstone_block"
+    },
+    "L": {
+      "item": "arcana_industry:lunar_essence"
+    },
+    "R": {
+      "item": "arcana_industry:resonance_infuser"
+    },
+    "N": {
+      "item": "arcana_industry:ground_lens"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:astral_relay"
+  }
+}

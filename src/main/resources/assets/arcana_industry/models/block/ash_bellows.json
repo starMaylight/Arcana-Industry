@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "base": "arcana_industry:block/ash_bellows_base",
+    "bag": "arcana_industry:block/ash_bellows_bag",
+    "nozzle": "arcana_industry:block/ash_bellows_nozzle",
+    "particle": "arcana_industry:block/ash_bellows_base"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 4, 16],
+      "faces": {
+        "up": {"texture": "#base"}, "down": {"texture": "#base"},
+        "north": {"texture": "#base"}, "south": {"texture": "#base"},
+        "east": {"texture": "#base"}, "west": {"texture": "#base"}
+      }
+    },
+    {
+      "from": [2, 4, 2],
+      "to": [14, 12, 14],
+      "faces": {
+        "up": {"texture": "#bag"}, "down": {"texture": "#bag"},
+        "north": {"texture": "#bag"}, "south": {"texture": "#bag"},
+        "east": {"texture": "#bag"}, "west": {"texture": "#bag"}
+      }
+    },
+    {
+      "from": [6, 12, 6],
+      "to": [10, 16, 10],
+      "faces": {
+        "up": {"texture": "#nozzle"}, "down": {"texture": "#nozzle"},
+        "north": {"texture": "#nozzle"}, "south": {"texture": "#nozzle"},
+        "east": {"texture": "#nozzle"}, "west": {"texture": "#nozzle"}
+      }
+    }
+  ]
+}

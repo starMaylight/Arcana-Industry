@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:soul_campfire"
+  },
+  "count": 1,
+  "residue": {
+    "item": "minecraft:soul_soil",
+    "count": 1
+  },
+  "burn_time": 1600,
+  "steam_per_tick": 4,
+  "priority": 0
+}

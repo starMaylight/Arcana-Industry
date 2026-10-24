@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:scute"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 1,
+    "arcana_industry:rigid": 1
+  }
+}

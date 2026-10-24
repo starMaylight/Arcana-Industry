@@ -1,0 +1,12 @@
+{
+  "title": "Ore Sluice",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 2",
+  "group": "Washing and chemistry",
+  "pages": [
+    "Craft an Ore Sluice controller from four sealed steel plates, four copper ingots and glass; crafting slot 2 (row-major 3x3) requires zinc via forge:ingots/zinc. Build the fixed north-south wash channel with the controller at its center. Place copper blocks on its four horizontal sides and extend the copper bed two blocks north and south. Put source water one block above the controller and each of the four copper bed blocks, making a five-source run. Add stone-brick banks one block east and west of the water at the north/south offsets 1 and 2. All 19 parts must stay in place; cracked bricks and flowing water do not qualify.",
+    "Right-click the controller while holding at least four gravel, sand, red sand or cobbled deepslate. One complete batch loads four blocks into the controller; after 40 ticks, right-click with an empty hand to collect the result. A busy controller refuses another batch without consuming it. Gravel yields iron grit, sand yields copper grit, red sand yields gold grit, and cobbled deepslate yields graded filter media. The filter media is required for the Leaching Vat. Smelt or blast grit into ingots, or run it through the vat. Removing a copper bed block, stone-brick bank or water source stops processing without consuming input.",
+    "Datapack recipes use arcana_industry:sluicing with ingredient, count and result. The surrounding blocks and source water are its operating gate. JEI's Sluicing category lists all 21 loaded input counts and outputs, including calcite, clay, coarse dirt, dirt, dripstone block, end stone, magma block and moss block; click the Ore Sluice catalyst to browse them.",
+    "For automation, insert valid sluicing stock into the controller from any face except the bottom and extract products from the bottom. Hand-fed and automated batches each take 40 ticks; a missing copper bed block, stone-brick bank or water source pauses processing without consuming stock. The controller buffers one input stack and one output stack, saves both and its face modes, and exposes Forge item handlers to hoppers or pipes; stock with no matching recipe is refused. Sneak-right-click with an empty hand to cycle the clicked face through input, output and disabled; right-click with an empty hand to collect buffered output. It has no FE or fluid port. Matching ties resolve by resource ID."
+  ]
+}

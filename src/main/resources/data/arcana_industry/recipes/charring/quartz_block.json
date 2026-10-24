@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "item": "minecraft:quartz_block"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:smooth_quartz",
+    "count": 5
+  },
+  "duration": 160,
+  "energy_per_tick": 8,
+  "priority": 0
+}

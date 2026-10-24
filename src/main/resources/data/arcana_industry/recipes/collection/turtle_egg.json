@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collection",
+  "ingredient": {
+    "item": "minecraft:turtle_egg"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:scute",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

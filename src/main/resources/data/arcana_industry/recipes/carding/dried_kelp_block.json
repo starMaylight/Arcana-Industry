@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:carding",
+  "ingredient": {
+    "item": "minecraft:dried_kelp_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:carded_fiber",
+    "count": 10
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

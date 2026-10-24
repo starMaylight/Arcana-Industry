@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:comparator"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 3,
+    "arcana_industry:luminous": 1
+  }
+}

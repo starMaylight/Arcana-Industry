@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:ender_eye"
+  ],
+  "traits": {
+    "arcana_industry:umbral": 3,
+    "arcana_industry:resonant": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:relaying",
+  "ingredient": {
+    "item": "minecraft:detector_rail"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:activator_rail",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

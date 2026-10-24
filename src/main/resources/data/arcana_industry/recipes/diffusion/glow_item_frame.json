@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:diffusion",
+  "ingredient": {
+    "item": "minecraft:glow_item_frame"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:glow_ink_sac",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

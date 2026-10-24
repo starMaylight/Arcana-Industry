@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WLW",
+    "RXR",
+    "KQK"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "L": {
+      "item": "minecraft:loom"
+    },
+    "R": {
+      "item": "arcana_industry:refracted_matrix"
+    },
+    "X": {
+      "item": "arcana_industry:solenoid"
+    },
+    "Q": {
+      "item": "arcana_industry:solar_prism"
+    },
+    "K": {
+      "item": "arcana_industry:coil_spring"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:spectral_loom"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:electrolysis",
+  "ingredient": {
+    "item": "arcana_industry:purified_salts"
+  },
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "arcana_industry:conductive_crystal",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 12
+}

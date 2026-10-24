@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "tag": "forge:ingots/lead"
+  },
+  "binder": {
+    "item": "minecraft:string"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:fishing_rod",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

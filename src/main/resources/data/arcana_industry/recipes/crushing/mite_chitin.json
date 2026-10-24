@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "arcana_industry:mite_chitin"
+  },
+  "result": {
+    "item": "minecraft:amethyst_shard",
+    "count": 3
+  },
+  "duration": 80,
+  "energy_per_tick": 4
+}

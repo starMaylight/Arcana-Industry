@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CSD",
+    "MAM",
+    "PNP"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:coal_block"
+    },
+    "S": {
+      "item": "arcana_industry:solar_tempered_plate"
+    },
+    "M": {
+      "item": "minecraft:magma_block"
+    },
+    "A": {
+      "item": "minecraft:anvil"
+    },
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "N": {
+      "tag": "forge:ingots/nickel"
+    },
+    "D": {
+      "item": "arcana_industry:dry_lube_bearing"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:coal_forge"
+  }
+}

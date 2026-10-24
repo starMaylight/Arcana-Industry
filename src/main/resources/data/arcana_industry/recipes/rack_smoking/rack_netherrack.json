@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:rack_smoking",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:nether_brick",
+    "count": 5
+  }
+}

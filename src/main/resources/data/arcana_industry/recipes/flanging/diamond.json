@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flanging",
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:diamond_horse_armor",
+    "count": 1
+  }
+}

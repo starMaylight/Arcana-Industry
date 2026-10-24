@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:effusion",
+  "ingredient": {
+    "item": "minecraft:peony"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:pink_dye",
+    "count": 4
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

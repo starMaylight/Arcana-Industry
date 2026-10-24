@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:wire_drawing",
+  "ingredient": {
+    "tag": "forge:ingots/germanium"
+  },
+  "count": 2,
+  "exhaustion": 1.2,
+  "result": {
+    "item": "minecraft:fishing_rod"
+  }
+}

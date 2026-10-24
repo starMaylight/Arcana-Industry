@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:magnetization",
+  "ingredient": {
+    "item": "minecraft:iron_leggings"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:cauldron",
+    "count": 1
+  }
+}

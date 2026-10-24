@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": { "item": "minecraft:observer" },
+  "count": 2,
+  "result": { "item": "minecraft:redstone", "count": 3 }
+}

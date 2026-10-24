@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {
+    "item": "minecraft:copper_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:lightning_rod",
+    "count": 3
+  },
+  "duration": 160,
+  "energy_per_tick": 10
+}

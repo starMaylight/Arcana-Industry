@@ -1,0 +1,11 @@
+{
+  "title": "Zirconium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 1",
+  "group": "Alloying and refractory metals",
+  "pages": [
+    "Zirconium Ore and Deepslate Zirconium Ore generate in the Overworld between Y -24 and 56 (veins of size 5, up to two veins per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Zirconium and Fortune can increase the yield. Required industrial use: solar smelter. Its craft consumes this ingot; compatible forge:ingots/zirconium inputs are accepted.",
+    "The Crusher processes one Raw Zirconium into two Zirconium Grit in 200 ticks at 6 energy per tick. Combine two grit, one Aluminum Grit and Purified Salts from the Leaching Vat into two Zirconium Flux Charges. Fire each charge in the Kiln at the full 1000 heat for 280 ticks to release one Zirconium Ingot. Raw ore and grit cannot be smelted or blasted directly. Aluminum acts as reductant within the salt flux; this charge is distinct from the titanium charcoal chloride ampoule.",
+    "Zirconium uses forge:ores/zirconium, forge:raw_materials/zirconium and forge:ingots/zirconium tags. Datapacks can add matching recipes. Feed the Crusher through an input face and extract its output with a hopper or item capability. Craft charges in a 2x2 grid, then feed them from above into a fueled Kiln and extract ingots below; side modes can be configured. One raw ore produces two ingots through this route. The powered Lattice Scriber also scribes 3 forge:ingots/zirconium into a stonecutter in 160 ticks at 22 FE/t; stonecutter recyclers return only iron, never zirconium."
+  ]
+}

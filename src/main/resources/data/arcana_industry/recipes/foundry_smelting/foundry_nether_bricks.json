@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:foundry_smelting",
+  "ingredient": {
+    "item": "minecraft:nether_bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:cracked_nether_bricks"
+  }
+}

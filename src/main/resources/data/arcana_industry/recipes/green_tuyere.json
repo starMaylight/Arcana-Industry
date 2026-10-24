@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" C ", "CIC", " C "],
+  "key": {
+    "C": {"item": "minecraft:clay_ball"},
+    "I": {"item": "minecraft:iron_bars"}
+  },
+  "result": {"item": "arcana_industry:green_tuyere"}
+}

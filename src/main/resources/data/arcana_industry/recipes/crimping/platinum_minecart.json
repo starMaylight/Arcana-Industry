@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:crimping",
+  "ingredient": {
+    "tag": "forge:ingots/platinum"
+  },
+  "count": 5,
+  "result": {
+    "item": "minecraft:minecart",
+    "count": 1
+  }
+}

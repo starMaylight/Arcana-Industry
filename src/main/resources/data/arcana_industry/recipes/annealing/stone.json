@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:stone_bricks",
+    "count": 2
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

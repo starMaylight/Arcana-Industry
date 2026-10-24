@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "minecraft:mossy_cobblestone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gravel",
+    "count": 1
+  },
+  "duration": 130,
+  "energy_per_tick": 18
+}

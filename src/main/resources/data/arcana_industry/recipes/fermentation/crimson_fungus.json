@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:fermentation",
+  "ingredient": {
+    "item": "minecraft:crimson_fungus"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:nether_wart_block",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 28
+}

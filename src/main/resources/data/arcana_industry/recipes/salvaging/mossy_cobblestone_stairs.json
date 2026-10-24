@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:salvaging",
+  "ingredient": {
+    "item": "minecraft:mossy_cobblestone_stairs"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:mossy_cobblestone",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 18
+}

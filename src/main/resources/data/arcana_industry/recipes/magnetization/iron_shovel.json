@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:magnetization",
+  "ingredient": {
+    "item": "minecraft:iron_shovel"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

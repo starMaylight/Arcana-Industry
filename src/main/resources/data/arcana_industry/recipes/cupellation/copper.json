@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/copper"
+  },
+  "count": 4,
+  "levels": 1,
+  "result": {
+    "item": "minecraft:copper_ingot",
+    "count": 3
+  },
+  "byproduct": {
+    "item": "arcana_industry:germanium_ingot"
+  }
+}

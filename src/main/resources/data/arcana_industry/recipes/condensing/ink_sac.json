@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:ink_sac"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:black_dye",
+    "count": 5
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

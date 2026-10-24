@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "arcana_industry:tantalum_fluoride_concentrate"
+  },
+  "result": {
+    "item": "arcana_industry:tantalum_ingot",
+    "count": 1
+  },
+  "duration": 300,
+  "temperature": 1000
+}

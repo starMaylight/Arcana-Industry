@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collection",
+  "ingredient": {
+    "item": "minecraft:sunflower"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:yellow_dye",
+    "count": 3
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

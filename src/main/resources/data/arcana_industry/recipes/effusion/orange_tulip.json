@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:effusion",
+  "ingredient": {
+    "item": "minecraft:orange_tulip"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:orange_dye",
+    "count": 2
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": { "tag": "forge:raw_materials/zinc" },
+  "result": { "item": "arcana_industry:zinc_grit", "count": 2 },
+  "duration": 160,
+  "energy_per_tick": 4
+}

@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": { "item": "minecraft:iron_bars" },
+  "count": 6,
+  "result": { "item": "minecraft:iron_ingot", "count": 2 }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "conditions": [{ "condition": "minecraft:survives_explosion" }],
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      { "enchantment": "minecraft:silk_touch", "levels": { "min": 1 } }
+                    ]
+                  }
+                }
+              ],
+              "name": "arcana_industry:thallium_ore"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "arcana_industry:raw_thallium",
+              "functions": [
+                { "function": "minecraft:apply_bonus", "enchantment": "minecraft:fortune", "formula": "minecraft:ore_drops" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

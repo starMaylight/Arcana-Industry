@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:verdant_distillation",
+  "ingredient": {
+    "item": "minecraft:blue_orchid"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:light_blue_dye",
+    "count": 12
+  }
+}

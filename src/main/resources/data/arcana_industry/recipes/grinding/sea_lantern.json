@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:grinding",
+  "ingredient": {
+    "item": "minecraft:sea_lantern"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:prismarine_crystals",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Rhodium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 4",
+  "group": "Precious and platinum-group metals",
+  "pages": [
+    "Rhodium Ore and Deepslate Rhodium Ore generate deep in the Overworld between Y -64 and 16 (veins of size 6, at most one vein per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Rhodium and Fortune can increase the yield. Required industrial use: spectral filter. Its craft consumes this ingot; compatible forge:ingots/rhodium inputs are accepted.",
+    "Smelt or blast Raw Rhodium into Rhodium Ingots. The Crusher processes one Raw Rhodium into two Rhodium Grit in 200 ticks at 6 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Rhodium uses forge:ores/rhodium, forge:raw_materials/rhodium and forge:ingots/rhodium tags. Datapacks can add matching recipes. Under open daylight, the Heliostat Etcher turns two tagged Rhodium Ingots into a target in 120 ticks at 16 FE/t; feed from above or a configured side and extract below. Rhodium forms slightly larger, shallower veins than Ruthenium and Rhenium, making the two-grit Crusher route a worthwhile trade of 1,200 energy per raw ore when fortune is unavailable."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PDP",
+    "PDP"
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "D": {
+      "item": "arcana_industry:milled_dowel"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:pattern_stock"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:gold_ingot"
+  ],
+  "traits": {
+    "arcana_industry:heavy": 2,
+    "arcana_industry:flexible": 1
+  }
+}

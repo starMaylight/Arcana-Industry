@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:hearth_smoking",
+  "ingredient": {
+    "item": "minecraft:leather"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:cured_lashing",
+    "count": 1
+  }
+}

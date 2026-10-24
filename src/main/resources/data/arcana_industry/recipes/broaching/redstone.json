@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:broaching",
+  "ingredient": {
+    "item": "minecraft:redstone"
+  },
+  "count": 6,
+  "result": {
+    "item": "arcana_industry:broached_pin",
+    "count": 1
+  }
+}

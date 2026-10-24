@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:recovery_compass"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 3
+  }
+}

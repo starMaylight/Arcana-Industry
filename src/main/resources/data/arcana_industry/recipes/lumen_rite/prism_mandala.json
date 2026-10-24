@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": { "item": "arcana_industry:solar_prism" },
+  "count": 2,
+  "lumen_cost": 280,
+  "result": { "item": "arcana_industry:prism_mandala", "count": 1 }
+}

@@ -1,0 +1,6 @@
+{
+  "description": "Gives off light.",
+  "opposes": [
+    "arcana_industry:umbral"
+  ]
+}

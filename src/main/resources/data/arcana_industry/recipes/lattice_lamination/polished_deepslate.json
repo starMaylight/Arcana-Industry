@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:lattice_lamination",
+  "ingredient": {
+    "item": "minecraft:polished_deepslate"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:polished_deepslate_stairs",
+    "count": 2
+  },
+  "duration": 80,
+  "energy_per_tick": 24
+}

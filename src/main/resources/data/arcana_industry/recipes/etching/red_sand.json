@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:etching",
+  "ingredient": {
+    "item": "minecraft:red_sand"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:orange_stained_glass",
+    "count": 8
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

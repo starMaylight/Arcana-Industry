@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "item": "minecraft:kelp"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:dried_kelp",
+    "count": 5
+  },
+  "duration": 40,
+  "energy_per_tick": 8,
+  "priority": 0
+}

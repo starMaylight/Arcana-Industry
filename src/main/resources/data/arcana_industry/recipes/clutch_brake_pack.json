@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" S ", "PLP", " C "],
+  "key": {
+    "S": {"item": "arcana_industry:coil_spring"},
+    "P": {"item": "arcana_industry:sealed_steel_plate"},
+    "L": {"item": "arcana_industry:pressed_friction_lining"},
+    "C": {"item": "arcana_industry:jaw_shaft_coupling"}
+  },
+  "result": {"item": "arcana_industry:clutch_brake_pack"}
+}

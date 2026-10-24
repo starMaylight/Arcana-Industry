@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYZ",
+    "AWA",
+    "IAI"
+  ],
+  "key": {
+    "X": {
+      "item": "arcana_industry:soaked_billet"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "arcana_industry:annealed_copper"
+    },
+    "W": {
+      "item": "minecraft:cauldron"
+    },
+    "Y": {
+      "item": "arcana_industry:tempered_copper_sheet"
+    },
+    "Z": {
+      "tag": "forge:ingots/chromium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:quench_vat"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LCL",
+    "VZV",
+    "LSL"
+  ],
+  "key": {
+    "L": {
+      "item": "arcana_industry:phase_lattice"
+    },
+    "C": {
+      "item": "arcana_industry:phase_coil"
+    },
+    "V": {
+      "item": "arcana_industry:phase_vessel"
+    },
+    "Z": {
+      "item": "arcana_industry:converged_phase"
+    },
+    "S": {
+      "item": "arcana_industry:stabilized_phase"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:flux_aegis"
+  }
+}

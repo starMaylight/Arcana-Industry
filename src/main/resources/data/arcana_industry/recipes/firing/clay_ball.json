@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "minecraft:clay_ball"
+  },
+  "result": {
+    "item": "minecraft:brick",
+    "count": 1
+  },
+  "duration": 100,
+  "temperature": 500
+}

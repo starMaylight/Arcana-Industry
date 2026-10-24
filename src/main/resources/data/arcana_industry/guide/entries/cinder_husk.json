@@ -1,0 +1,11 @@
+{
+  "title": "Cinder Husk",
+  "category": "arcana_industry:bestiary",
+  "chapter": "All tiers",
+  "group": "Industrial hazards",
+  "pages": [
+    "Cinder Husks hunt in dark deserts and badlands. Unlike the wall-climbing Rust Crawler, they advance on foot and ignite a target for four seconds on a successful hit. Their hardened shell resists fire, so lava and flames do not clear them from a workshop perimeter.",
+    "A defeated Cinder Husk always drops raw copper. Smelt it into a copper ingot, or crush it into copper grit to build a kiln and fire annealed copper. Its renewable drop gives a useful copper route when surface ore is scarce. Keep water and an escape path near desert machinery.",
+    "Rare trophy: when a player lands the killing blow, a Cinder Husk sometimes also drops a Cinder Carapace (35% base, +10% per Looting level). The carapace is found only on this mob. Crush it in the Crusher for three copper grit (three copper ingots once smelted), so hunting husks near a desert workshop supplies kiln and cable copper."
+  ]
+}

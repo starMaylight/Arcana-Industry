@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:glowstone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:sea_lantern"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

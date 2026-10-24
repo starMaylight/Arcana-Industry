@@ -1,0 +1,12 @@
+{
+  "title": "Clay Extruder",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 0",
+  "group": "Mechanical processing",
+  "pages": [
+    "Craft the fifth t0 machine from iron ingots, Crusher-made copper grit, two pistons and a hopper. No Kiln output is needed.",
+    "Load one clay block to form one firebrick. This is the only source of Formed Firebrick; it replaces the upper-left plain brick in the Kiln craft. Stone and brick batches give 5 slabs per 2 blocks and 4 planks give 9 slabs, beating the stonecutter. Sandstone and cobbled deepslate stay at 2 slabs per block because reclamation would loop them.",
+    "Twenty datapack recipes use arcana_industry:extruding with ingredient, count, result, duration, energy_per_tick and optional priority. JEI lists the loaded recipes and the Extruder catalyst.",
+    "Supply FE, insert materials from top or sides, and extract below. Configure each face in the menu; inventory, FE, progress and ports save across reloads."
+  ]
+}

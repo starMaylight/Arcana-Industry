@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "GTG",
+    " L "
+  ],
+  "key": {
+    "C": {
+      "item": "arcana_industry:carbon_seal_face"
+    },
+    "G": {
+      "item": "arcana_industry:pressure_gasket"
+    },
+    "T": {
+      "item": "arcana_industry:tempered_steel"
+    },
+    "L": {
+      "item": "arcana_industry:lapped_carbide_seat"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:mechanical_face_seal"
+  }
+}

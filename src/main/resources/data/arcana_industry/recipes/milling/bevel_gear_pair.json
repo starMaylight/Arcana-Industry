@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:milling",
+  "ingredient": {"item": "arcana_industry:sintered_bronze_gear"},
+  "count": 2,
+  "result": {"item": "arcana_industry:bevel_gear_pair"}
+}

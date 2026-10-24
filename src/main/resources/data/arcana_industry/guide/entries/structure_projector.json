@@ -1,0 +1,12 @@
+{
+  "title": "Structure Projector",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 0",
+  "group": "Building aids",
+  "pages": [
+    "Craft it from two amethyst shards and a glass pane over two copper ingots and redstone dust, with a third copper ingot below (ingots by forge:ingots/copper, the pane by forge:glass_panes). The amethyst lens and copper body make it usable from the start, before your first multiblock.",
+    "Place a multiblock controller first, then right-click it with the projector. Clicking a block without a blueprint clears the previous projection, so rebind it to a controller at your new site. Breaking the bound controller hides its hologram; right-click in the air to clear that stale binding. While you hold the projector, each missing part is drawn in place as a faint, shrunken copy of the block it needs, inside a cyan frame. A red frame marks a position that holds the wrong block. Parts that are already correct disappear from the projection, and the action bar shows how many are still missing.",
+    "Right-click in the air to step through the layers. It shows all layers, then each layer from the bottom up, then all layers again, so you can build one level at a time without the upper layers hiding the lower ones. Sneak and right-click in the air to turn the projection off. The projector never places or removes blocks itself.",
+    "The shapes come from datapack blueprints at data/<namespace>/multiblocks/<controller>.json, a list of parts with right, up and forward offsets (right is east and forward is north of the controller) and a block state such as minecraft:piston[facing=west]. Adding [source] to a fluid block requires a still source. A datapack can add a blueprint for a new controller or override one of ours. Invalid files are skipped with a log warning. The controller's own check decides formation; the projection is only a building guide."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:glass"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:tinted_glass",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

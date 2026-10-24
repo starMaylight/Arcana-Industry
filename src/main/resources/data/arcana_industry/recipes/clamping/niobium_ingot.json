@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/niobium"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:bell",
+    "count": 1
+  }
+}

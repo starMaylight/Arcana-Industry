@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "minecraft:quartz_block"
+  },
+  "result": {
+    "item": "minecraft:quartz",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 4
+}

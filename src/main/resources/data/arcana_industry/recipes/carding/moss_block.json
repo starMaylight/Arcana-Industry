@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:carding",
+  "ingredient": {
+    "item": "minecraft:moss_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:carded_fiber",
+    "count": 3
+  },
+  "duration": 100,
+  "energy_per_tick": 3,
+  "priority": 0
+}

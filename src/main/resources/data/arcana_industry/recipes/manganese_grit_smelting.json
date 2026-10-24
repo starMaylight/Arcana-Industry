@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "arcana_industry:manganese_grit" },
+  "result": "arcana_industry:manganese_ingot",
+  "experience": 0.3,
+  "cookingtime": 200
+}

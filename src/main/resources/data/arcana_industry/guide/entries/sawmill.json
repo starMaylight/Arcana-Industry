@@ -1,0 +1,19 @@
+{
+  "title": "Sawmill",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 0",
+  "group": "Mechanical processing",
+  "pages": [
+    "Build a sawmill from four iron ingots, two shears, two oak planks and a hopper. Crafting rows: iron/shears/iron; planks/hopper/planks; iron/shears/iron. Mine it with a stone pickaxe or better. This is a seventh t0 apparatus alongside the crusher, sieve, refractory mixer, quern, clay extruder and ash bellows, and like the ash bellows its output is a required ash bellows ingredient.",
+    "Right-click to open the sawmill. It reuses the ash bellows' menu layout: place timber in the left slot, collect Milled Dowel from the right slot, Crank supplies 80 FE, and six buttons cycle each world face through Off, In and Out exactly like the other mechanical apparatus.",
+    "The sawmill mills raw timber into Milled Dowel, a handle-grade lumber: every vanilla log, stripped log and nether stem yields ten dowels; a bamboo block yields five; a plain stick yields one. Direct log sawing yields more dowels than crafting that log into eight sticks first, rewarding the powered route. Thirty-seven recipes in total, each with a specific input item or tag.",
+    "Salvage sawing cuts the wooden body away and keeps the one non-wood part: jukebox to a diamond, note block to redstone dust, shield to an iron ingot, smithing table to two iron ingots, beehive to three honeycomb, item frame to leather, bow and loom to two string, fletching table to two flint, cartography table to two paper, lectern to three books, armor stand to a smooth stone slab, grindstone to a stone slab and campfire to one charcoal. Raw bamboo gives one stick and a dead bush two sticks. Every recovery is at or below its crafting cost.",
+    "Milled dowel replaces one of the ash bellows' two duplicate stick slots: the bellows now needs leather, iron, a brick, a milled dowel and a plain stick together, so the sawmill is progression-required from t0 onward, feeding directly into kiln construction through the ash bellows.",
+    "Wafer sawing: one germanium ingot (forge:ingots/germanium) saws into two thin Germanium Wafers in 160 ticks at 6 FE/t. A wafer between a copper contact whisker and a Porcelain Insulator crafts a Rectifier Diode Blank, which the Flux Rectifier forms into the Germanium Point-Contact Rectifier the Polarity Inverter requires.",
+    "Pattern making: one Pattern Stock (four planks laminated on two Milled Dowels) saws into one Casting Pattern in 160 ticks at 6 FE/t. The pattern is the tooling that defines the Mold Caster's cavity, so the Mold Caster craft needs one in its top-centre slot. Dimensional accuracy and draft angle are abstracted; one pattern builds one caster.",
+    "Automation: side ports, energy handling, NBT persistence and hopper behavior are identical to the crusher, sieve, quern and ash bellows. Log farms gain a mechanized destination that feeds ash bellows construction directly.",
+    "Recipes are datapack JSON under data/<namespace>/recipes/sawing. Type: arcana_industry:sawing. Fields: ingredient (item or tag), count (default 1), result (item/count), duration (1-72000 ticks), energy_per_tick (1-1000), priority (default 0). Highest priority wins; equal priorities use ascending recipe ID.",
+    "With Just Enough Items installed, click the progress strip to browse Sawing recipes, or look up an ingredient or product in JEI. The sawmill is the category catalyst. JEI is optional; all processing and this guide work without it.",
+    "Input families now use minecraft:logs, planks and wooden-component tags instead of one duplicate recipe per species. Logs yield 10 dowels; bamboo blocks yield 5. Furniture can be reclaimed at or below its crafting material cost. Bookshelves recover 3 books; ladders recover 2 sticks. Datapacks may extend the tags."
+  ]
+}

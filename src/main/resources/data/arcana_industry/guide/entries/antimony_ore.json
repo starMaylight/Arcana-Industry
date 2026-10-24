@@ -1,0 +1,11 @@
+{
+  "title": "Antimony Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 3",
+  "group": "Semimetals and electronic metals",
+  "pages": [
+    "Antimony Ore and Deepslate Antimony Ore generate in the Overworld between Y -16 and 80 (veins of size 6, up to five veins per chunk column). A stone pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Antimony and Fortune can increase the yield. Required industrial use: signal imprinter. Its craft consumes this ingot; compatible forge:ingots/antimony inputs are accepted.",
+    "Smelt or blast Raw Antimony into Antimony Ingots. The Crusher processes one Raw Antimony into two Antimony Grit in 180 ticks at 5 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Antimony uses forge:ores/antimony, forge:raw_materials/antimony and forge:ingots/antimony tags. Datapacks can add matching recipes. Antimony Ingots are stored for later apparatus and material progression. A Lattice Composer combines 2 tagged antimony ingots with one stone to make a stonecutter for precise block shaping. Feed both slots from the upper or side item ports, provide 24 FE/t for 160 ticks, and extract below. The binder is consumed."
+  ]
+}

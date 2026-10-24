@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PFP",
+    "ZSG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "F": {
+      "item": "arcana_industry:solar_foil"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "S": {
+      "item": "minecraft:blast_furnace"
+    },
+    "R": {
+      "item": "arcana_industry:resonance_infuser"
+    },
+    "Z": {
+      "tag": "forge:ingots/zirconium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:solar_smelter"
+  }
+}

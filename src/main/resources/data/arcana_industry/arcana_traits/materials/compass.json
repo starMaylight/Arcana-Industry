@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:compass"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 1,
+    "arcana_industry:heavy": 1,
+    "arcana_industry:resonant": 2
+  }
+}

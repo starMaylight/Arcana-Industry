@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "item": "arcana_industry:sealed_steel_plate"
+  },
+  "count": 3,
+  "result": {
+    "item": "arcana_industry:riveted_brace",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {"item": "arcana_industry:carburized_iron_charge"},
+  "result": {"item": "arcana_industry:steel_billet", "count": 8},
+  "duration": 200,
+  "temperature": 900
+}

@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp_block"
+  ],
+  "traits": {
+    "arcana_industry:flexible": 1,
+    "arcana_industry:binding": 1
+  }
+}

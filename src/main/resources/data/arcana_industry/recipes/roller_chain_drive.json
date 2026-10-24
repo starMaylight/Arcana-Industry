@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" R ", "ACA", " R "],
+  "key": {
+    "R": {"item": "arcana_industry:flanged_ring"},
+    "A": {"item": "arcana_industry:aluminum_rivet"},
+    "C": {"item": "minecraft:chain"}
+  },
+  "result": {"item": "arcana_industry:roller_chain_drive"}
+}

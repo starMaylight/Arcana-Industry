@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": { "item": "minecraft:rail" },
+  "count": 16,
+  "result": { "item": "minecraft:iron_ingot", "count": 4 }
+}

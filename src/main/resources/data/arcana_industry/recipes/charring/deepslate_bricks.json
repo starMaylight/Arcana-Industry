@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "item": "minecraft:deepslate_bricks"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:cracked_deepslate_bricks",
+    "count": 5
+  },
+  "duration": 140,
+  "energy_per_tick": 8,
+  "priority": 0
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PCP",
+    "ZSG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "C": {
+      "item": "arcana_industry:attuned_quartz"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "S": {
+      "item": "minecraft:smithing_table"
+    },
+    "R": {
+      "item": "arcana_industry:resonance_infuser"
+    },
+    "Z": {
+      "tag": "forge:ingots/palladium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:solar_photolyzer"
+  }
+}

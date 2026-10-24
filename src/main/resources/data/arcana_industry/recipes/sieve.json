@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "SFS",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "F": {
+      "item": "arcana_industry:carded_fiber"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:sieve"
+  }
+}

@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["CIC","ISI","COC"],"key":{"C":{"item":"minecraft:copper_block"},"I":{"item":"minecraft:iron_block"},"S":{"item":"arcana_industry:sealed_steel_plate"},"O":{"item":"minecraft:obsidian"}},"result":{"item":"arcana_industry:compaction_spire"}}

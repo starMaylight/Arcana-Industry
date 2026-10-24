@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "facing=north,mode=step_up": {
+      "model": "arcana_industry:block/transformer_medium_high_step_up"
+    },
+    "facing=north,mode=step_down": {
+      "model": "arcana_industry:block/transformer_medium_high_step_down"
+    },
+    "facing=east,mode=step_up": {
+      "model": "arcana_industry:block/transformer_medium_high_step_up",
+      "y": 90
+    },
+    "facing=east,mode=step_down": {
+      "model": "arcana_industry:block/transformer_medium_high_step_down",
+      "y": 90
+    },
+    "facing=south,mode=step_up": {
+      "model": "arcana_industry:block/transformer_medium_high_step_up",
+      "y": 180
+    },
+    "facing=south,mode=step_down": {
+      "model": "arcana_industry:block/transformer_medium_high_step_down",
+      "y": 180
+    },
+    "facing=west,mode=step_up": {
+      "model": "arcana_industry:block/transformer_medium_high_step_up",
+      "y": 270
+    },
+    "facing=west,mode=step_down": {
+      "model": "arcana_industry:block/transformer_medium_high_step_down",
+      "y": 270
+    },
+    "facing=up,mode=step_up": {
+      "model": "arcana_industry:block/transformer_medium_high_step_up",
+      "x": 270
+    },
+    "facing=up,mode=step_down": {
+      "model": "arcana_industry:block/transformer_medium_high_step_down",
+      "x": 270
+    },
+    "facing=down,mode=step_up": {
+      "model": "arcana_industry:block/transformer_medium_high_step_up",
+      "x": 90
+    },
+    "facing=down,mode=step_down": {
+      "model": "arcana_industry:block/transformer_medium_high_step_down",
+      "x": 90
+    }
+  }
+}

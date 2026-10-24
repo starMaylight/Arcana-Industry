@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:verdant_distillation",
+  "ingredient": {
+    "item": "minecraft:orange_tulip"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:orange_dye",
+    "count": 12
+  }
+}

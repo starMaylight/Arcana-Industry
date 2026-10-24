@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/hafnium"
+  },
+  "count": 8,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 4,
+  "result": {
+    "item": "minecraft:iron_leggings"
+  }
+}

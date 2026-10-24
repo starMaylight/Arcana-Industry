@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:soaking",
+  "ingredient": {
+    "item": "minecraft:copper_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:exposed_copper",
+    "count": 1
+  }
+}

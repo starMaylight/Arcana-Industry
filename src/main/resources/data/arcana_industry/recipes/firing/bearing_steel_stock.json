@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {"item": "arcana_industry:bearing_steel_charge"},
+  "result": {"item": "arcana_industry:bearing_steel_stock", "count": 1},
+  "duration": 160,
+  "temperature": 900
+}

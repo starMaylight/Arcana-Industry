@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": { "item": "minecraft:daylight_detector" },
+  "count": 2,
+  "result": { "item": "minecraft:quartz", "count": 2 }
+}

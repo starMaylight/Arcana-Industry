@@ -1,0 +1,13 @@
+{
+  "title": "Phase Reclaimer",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 9",
+  "group": "Phase works",
+  "pages": [
+    "Anneal copper with phase lattice in the t9 Phase Annealer to make a phase coil. Craft this t10 Phase Reclaimer from that coil, one Collapsed Phase (from the Phase Collapser), one Sublimated Phase (from the Phase Sublimator), two plain sealed steel plates, two glass panes, a Phase Annealer and a blast furnace.",
+    "Insert gear in the first slot and redstone or an amethyst shard in the reagent slot. Both are consumed. Thirty-two datapack recipes each take 160 ticks and 40 FE/t. Iron, gold and diamond gear return part of their metals. Netherite sword, pickaxe or axe returns one scrap, below the four scraps used by its upgrade ingot. Leather armor returns part of its leather; bow, crossbow and fishing rod return part of their string; chainmail yields iron nuggets. Route each recovered material into later crafting or refining, and keep the reagent supplied for automation.",
+    "JEI shows the gear, consumed reagent, output, time and FE. The arcana_industry:reclaiming recipe accepts ingredient, reagent, count, result, duration, energy_per_tick and optional priority. Highest priority wins, then recipe ID.",
+    "Material traits: reclaiming returns only the stock the gear was made from. The product's arcane traits must be covered by count x the gear's traits plus the consumed reagent, which adds no metal or fibre. Iron gear keeps iron's rigid, heavy signature, golden gear gold's heavy and flexible one, leather armor its flexible hide, and bow, crossbow and fishing rod the woven, flexible signature of string. A datapack row whose product needs traits the inputs lack (for example a stick and redstone into string, or a leather cap into a gold ingot) pauses with the status 'Product traits not in input or field' and spends no FE.",
+    "Top and horizontal item ports import both inputs; the bottom exports. Change any side in the menu. Supply FE through Forge energy or crank manually. Full output pauses work. Inventory, FE, work and side modes persist; breaking returns all slots."
+  ]
+}

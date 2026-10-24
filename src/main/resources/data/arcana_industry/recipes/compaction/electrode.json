@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:compaction",
+  "ingredient": {
+    "item": "minecraft:redstone"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:compacted_electrode",
+    "count": 1
+  }
+}

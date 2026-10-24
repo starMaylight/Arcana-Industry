@@ -1,0 +1,12 @@
+{
+  "title": "Electrolyzer",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 4",
+  "group": "Electrical works",
+  "pages": [
+    "Craft the Electrolyzer using Cured Lashing, two Sealed Steel Plates, a Refracted Matrix, two Compacted Electrodes, Screened Silica, a Fired Foundry Liner and an Ion Seal. Cure the lashing in the Provision Hearth before assembling the electrode cell; the Coal Forge and its Hex Bolt Sets belong to the later tier and cannot unlock this machine. The Leaching Vat yields Purified Salts for the Ion Seal and for the Capacitor Array and Flux Rectifier. Run the resulting chain through Polarity Inverter, Degauss Coil, Armor Delaminator, Signal Imprinter, Resonant Cultivator, Verdant Distiller, Chromatic Kiln and Prismatic Press to obtain the Refracted Matrix. Form the Compaction Spire, Rotary Screen, Foundry Ring and Provision Hearth for the other ingredients. The Ion Seal requires two Purified Salts and 160 lumen in an Astral Font. The complete t3 workshop chain is required before this unlock.",
+    "Insert one solid on the left, fill the 8000 mB water tank with a bucket or Forge fluid pipe, and supply 12 FE/t for 120 ticks. A batch consumes 250 mB water and produces the result on the right. Purified salts become conductive crystals for the next tier. While a batch is advancing the cell glows faintly (light 5), its front lens turns bright cyan with an amber-hot conductor cross, the top electrodes fill with rising bubbles, and it hums with fizzing bubbles. A contactor clack and a rising drone mean current has started flowing. One second after work stops (no input, water, FE or output room), a winding-down drone and a relay click mean the cell has switched off. Pass by and listen to check a whole row of electrolyzers.",
+    "Raw ore blocks separate into ten ingots, a small refining bonus paid for with FE and water. Crafted storage blocks such as iron, coal, quartz or glowstone only return the items they were built from (nine or four), so splitting and re-crafting never multiplies material. JEI shows each exact ingredient, fluid, duration, FE and output. Datapacks use arcana_industry:electrolysis with ingredient, optional count, fluid, fluid_amount, result, duration, energy_per_tick and optional priority.",
+    "Top and horizontal item faces import; bottom exports. Configure each face in the menu. FE and fluid accept from any face. Inventory, progress, energy, fluid and ports survive saves. Break the machine to recover solid contents."
+  ]
+}

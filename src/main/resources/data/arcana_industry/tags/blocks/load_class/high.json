@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "arcana_industry:astral_relay",
+    "arcana_industry:diffraction_grate",
+    "arcana_industry:heliostat_etcher",
+    "arcana_industry:lattice_laminator",
+    "arcana_industry:lattice_welder",
+    "arcana_industry:lens_collimator",
+    "arcana_industry:lens_grinder",
+    "arcana_industry:noctilucent_condenser",
+    "arcana_industry:prism_burnisher",
+    "arcana_industry:prism_lapidary",
+    "arcana_industry:prism_polisher",
+    "arcana_industry:prism_scorer",
+    "arcana_industry:prism_separator",
+    "arcana_industry:prism_tumbler",
+    "arcana_industry:spectral_filter",
+    "arcana_industry:stellar_crucible"
+  ]
+}

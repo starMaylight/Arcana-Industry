@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:dragon_breath"
+  ],
+  "traits": {
+    "arcana_industry:umbral": 2,
+    "arcana_industry:resonant": 1,
+    "arcana_industry:buoyant": 1
+  }
+}

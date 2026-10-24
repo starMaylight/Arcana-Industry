@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:dried_kelp_block"
+  },
+  "count": 4,
+  "residue": {
+    "item": "minecraft:bone_meal",
+    "count": 3
+  },
+  "burn_time": 4000,
+  "steam_per_tick": 6,
+  "priority": 0
+}

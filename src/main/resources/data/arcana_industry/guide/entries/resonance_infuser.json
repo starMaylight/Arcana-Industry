@@ -1,0 +1,14 @@
+{
+  "title": "Resonance Infuser",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 5",
+  "group": "Resonance",
+  "pages": [
+    "Electrolyze purified salts into a conductive crystal. Cut four amethyst shards in a formed Resonance Basin to obtain a harmonic lens; vitrify one more four-shard batch in the formed Blast Column. Wind conductive crystals (three each) in a formed Induction Coiler into four Wound Coils: keep one for the infuser and realign the other three in a formed Magnetizer for a Magnetized Core. Charge four Compacted Electrodes in a formed Capacitor Array for a Charged Capacitor. Feed a worn redstone mechanism (piston, hopper, dropper, trapdoor and more), into a formed Arc Press for scrap ingots, or arc-weld two Sealed Steel Plates in it for a Fused Steel Plate. Craft the infuser with the Wound Coil, the Magnetized Core, the Fused Steel Plate, the crystal, one vitrified amethyst insert, the lens and a Resonant Rune, an electrolyzer and the Charged Capacitor. The rune is made by offering two conductive crystals and 200 lumen to an Astral Font; the separate conductive crystal slot remains mandatory. All six hand-fed structures and the Electrolyzer now gate this t4 apparatus; no plain ingredient remains in the craft.",
+    "Place a normal amethyst block directly against any side of the infuser. It is a permanent resonator, not a consumed ingredient. Without it, work pauses before taking FE. Feed the left slot and supply 16 FE/t for 120 ticks. Quartz becomes attuned quartz for the next stage.",
+    "Twenty datapack resonating recipes convert resources into useful lighting, redstone, dyes, building and end materials. JEI shows exact input counts, results, FE and the amethyst resonator condition. Recipe type: arcana_industry:resonating; fields ingredient, count, result, duration, energy_per_tick and optional priority.",
+    "Trait rule: the product may carry only the traits of count x input plus the resonator field (resonant 2, luminous 1). So quartz gains its faint glow as attuned quartz, five shards grow an amethyst cluster and twelve sculk condense an echo shard, but amethyst cannot become glowstone. A datapack row that breaks the rule pauses with the state Product traits not in input or field.",
+    "Top and horizontal faces import items; bottom exports. Configure each face in the GUI. FE enters from any side, or use the manual crank. Inventory, energy, progress and port modes persist across saves. Breaking the block drops stored items.",
+    "Resonating one sea lantern yields five prismarine crystals. Rebuilding a lantern in the Compaction Spire, Heliostat Etcher or Astral Relay uses at least five crystals per lantern. Six copper ingots resonate into two lightning rods; salvaging them returns at most three ingots each."
+  ]
+}

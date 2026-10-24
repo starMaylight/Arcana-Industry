@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:sieving",
+  "ingredient": {
+    "item": "minecraft:gravel"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:raw_iron",
+    "count": 1
+  },
+  "duration": 90,
+  "energy_per_tick": 3
+}

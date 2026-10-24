@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "arcana_industry:item/deep_groove_ball_bearing"
+  }
+}

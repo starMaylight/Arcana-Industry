@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": { "item": "arcana_industry:rectifier_diode_blank" },
+  "count": 1,
+  "result": { "item": "arcana_industry:germanium_rectifier", "count": 1 }
+}

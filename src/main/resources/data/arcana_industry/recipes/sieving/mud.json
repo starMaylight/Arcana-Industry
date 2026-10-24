@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:sieving",
+  "ingredient": {
+    "item": "minecraft:mud"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:raw_copper",
+    "count": 1
+  },
+  "duration": 60,
+  "energy_per_tick": 2
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:broaching",
+  "ingredient": {
+    "item": "arcana_industry:tool_steel_stock"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:shaft_key",
+    "count": 2
+  }
+}

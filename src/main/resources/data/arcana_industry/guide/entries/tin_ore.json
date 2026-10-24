@@ -1,0 +1,11 @@
+{
+  "title": "Tin Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 2",
+  "group": "Common and base metals",
+  "pages": [
+    "Tin Ore and Deepslate Tin Ore generate in the Overworld between Y -16 and 112, the shallowest and most common band (veins of size 8, up to six veins per chunk column). A stone pickaxe or better is required; silk touch keeps the ore block, otherwise it drops Raw Tin scaled by Fortune. Required industrial use: armor delaminator. Its craft consumes this ingot; compatible forge:ingots/tin inputs are accepted.",
+    "Smelt or blast Raw Tin directly into Tin Ingots, exactly like vanilla raw iron. Alternatively, run Raw Tin through the Crusher for two Tin Grit per batch, then smelt or blast the grit into ingots -- the same two-path pattern used by iron, copper and gold grit.",
+    "Tin Ingots are a new base material for later recipes; this entry documents its acquisition and processing. Datapacks can add new arcana_industry:crushing, minecraft:smelting or minecraft:blasting recipes consuming or producing tin items using the forge:raw_materials/tin, forge:ingots/tin and forge:ores/tin tags. The Pressure Press also consumes 3 forge:ingots/tin ingots to make one bucket; feed the input slot, supply 960 FE, and extract the finished utility block or item from an output face. The recipe takes 120 ticks."
+  ]
+}

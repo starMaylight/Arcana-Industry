@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:resonating",
+  "ingredient": {
+    "item": "minecraft:magma_cream"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:shroomlight",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

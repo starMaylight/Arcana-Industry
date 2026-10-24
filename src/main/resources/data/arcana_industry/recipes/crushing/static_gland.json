@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "arcana_industry:static_gland"
+  },
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 5
+  },
+  "duration": 100,
+  "energy_per_tick": 4
+}

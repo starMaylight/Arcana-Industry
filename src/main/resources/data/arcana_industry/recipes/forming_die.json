@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" F ", " T ", " G "],
+  "key": {
+    "F": {"item": "minecraft:flint"},
+    "T": {"item": "arcana_industry:tempered_steel"},
+    "G": {"item": "minecraft:grindstone"}
+  },
+  "result": {"item": "arcana_industry:forming_die"}
+}

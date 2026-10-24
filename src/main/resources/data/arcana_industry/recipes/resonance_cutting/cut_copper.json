@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:resonance_cutting",
+  "ingredient": {
+    "item": "minecraft:copper_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:cut_copper_slab",
+    "count": 10
+  }
+}

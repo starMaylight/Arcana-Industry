@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lattice_lamination",
+  "ingredient": {
+    "item": "arcana_industry:sealed_steel_plate"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:laminated_lattice"
+  },
+  "duration": 120,
+  "energy_per_tick": 24
+}

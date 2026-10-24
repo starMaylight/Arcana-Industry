@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PAP",
+    "SCS",
+    "PCP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:prismarine_bricks"
+    },
+    "A": {
+      "item": "minecraft:sea_lantern"
+    },
+    "S": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "C": {
+      "item": "arcana_industry:concordance_seal"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:iridescent_basin"
+  }
+}

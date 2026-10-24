@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "minecraft:red_sandstone"
+  },
+  "result": {
+    "item": "minecraft:red_sand",
+    "count": 4
+  },
+  "duration": 100,
+  "energy_per_tick": 4
+}

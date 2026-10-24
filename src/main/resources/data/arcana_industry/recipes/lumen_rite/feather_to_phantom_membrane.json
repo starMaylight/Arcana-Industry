@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:feather"
+  },
+  "count": 8,
+  "lumen_cost": 150,
+  "result": {
+    "item": "minecraft:phantom_membrane",
+    "count": 1
+  }
+}

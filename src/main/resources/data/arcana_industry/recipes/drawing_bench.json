@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GSG",
+    "CDC",
+    "PTP"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:grindstone"
+    },
+    "S": {
+      "item": "arcana_industry:solar_tempered_plate"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "D": {
+      "item": "arcana_industry:wire_draw_die"
+    },
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "T": {
+      "item": "arcana_industry:assay_bead"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:drawing_bench"
+  }
+}

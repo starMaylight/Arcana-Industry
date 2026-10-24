@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "tag": "forge:ingots/ruthenium"
+  },
+  "binder": {
+    "item": "minecraft:redstone_torch"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:repeater",
+    "count": 2
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

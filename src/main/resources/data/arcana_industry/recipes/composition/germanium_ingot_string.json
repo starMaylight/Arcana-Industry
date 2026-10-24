@@ -1,0 +1,9 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": { "tag": "forge:ingots/germanium" },
+  "binder": { "item": "minecraft:string" },
+  "count": 2,
+  "result": { "item": "minecraft:tripwire_hook", "count": 4 },
+  "duration": 160,
+  "energy_per_tick": 24
+}

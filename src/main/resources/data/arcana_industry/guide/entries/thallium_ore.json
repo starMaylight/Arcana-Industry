@@ -1,0 +1,11 @@
+{
+  "title": "Thallium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 4",
+  "group": "Semimetals and electronic metals",
+  "pages": [
+    "Thallium Ore and Deepslate Thallium Ore generate deep in the Overworld between Y -64 and 24 (veins of size 6, at most one vein per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Thallium and Fortune can increase the yield. Required industrial use: phase modulator. Its craft consumes this ingot; compatible forge:ingots/thallium inputs are accepted.",
+    "Smelt or blast Raw Thallium into Thallium Ingots. The Crusher processes one Raw Thallium into two Thallium Grit in 200 ticks at 6 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Thallium uses forge:ores/thallium, forge:raw_materials/thallium and forge:ingots/thallium tags. Datapacks can add matching recipes. Thallium occurs deeper than the more common upper ores. The two-grit Crusher route yields two ingots per raw ore for 1,200 energy when Fortune is unavailable. The powered Lattice Scriber also scribes 2 forge:ingots/thallium into 3 chains in 160 ticks at 22 FE/t; chain recyclers return only iron, never thallium."
+  ]
+}

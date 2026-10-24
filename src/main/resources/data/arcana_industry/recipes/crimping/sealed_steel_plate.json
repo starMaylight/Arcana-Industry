@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:crimping",
+  "ingredient": {
+    "item": "arcana_industry:sealed_steel_plate"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:crimped_collar",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/zinc"
+  },
+  "count": 4,
+  "levels": 1,
+  "result": {
+    "item": "arcana_industry:zinc_ingot",
+    "count": 3
+  },
+  "byproduct": {
+    "item": "arcana_industry:indium_ingot"
+  }
+}

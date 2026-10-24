@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:polarity_inversion",
+  "ingredient": {
+    "item": "minecraft:firework_rocket"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 2
+  }
+}

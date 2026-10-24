@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:soul_soil"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:soul_torch",
+    "count": 12
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

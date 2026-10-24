@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ARA",
+    "GPG",
+    "GBG"
+  ],
+  "key": {
+    "R": { "item": "arcana_industry:resonant_rune" },
+    "P": { "item": "arcana_industry:lumen_phial" },
+    "A": { "item": "minecraft:amethyst_shard" },
+    "B": { "tag": "forge:ingots/gold" },
+    "G": { "tag": "forge:glass" }
+  },
+  "result": { "item": "arcana_industry:starlit_flask", "count": 1 }
+}

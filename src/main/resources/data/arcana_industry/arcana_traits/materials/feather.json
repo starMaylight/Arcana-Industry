@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:feather"
+  ],
+  "traits": {
+    "arcana_industry:buoyant": 2,
+    "arcana_industry:flexible": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "minecraft:blaze_rod"
+  },
+  "result": {
+    "item": "minecraft:blaze_powder",
+    "count": 3
+  },
+  "duration": 120,
+  "energy_per_tick": 4
+}

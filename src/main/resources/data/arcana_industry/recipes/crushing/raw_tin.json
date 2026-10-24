@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": { "tag": "forge:raw_materials/tin" },
+  "result": { "item": "arcana_industry:tin_grit", "count": 2 },
+  "duration": 160,
+  "energy_per_tick": 4
+}

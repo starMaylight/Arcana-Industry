@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:screening",
+  "ingredient": {
+    "item": "minecraft:moss_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:moss_carpet",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:extruding",
+  "ingredient": {
+    "item": "minecraft:nether_bricks"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:nether_brick_slab",
+    "count": 5
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

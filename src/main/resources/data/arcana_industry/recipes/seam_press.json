@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PIP",
+    "ICI",
+    "PIP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:sticky_piston"
+    },
+    "I": {
+      "item": "minecraft:copper_block"
+    },
+    "C": {
+      "item": "arcana_industry:tempered_steel"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:seam_press"
+  }
+}

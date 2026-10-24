@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {"item": "arcana_industry:monel_pump_blank"},
+  "count": 1,
+  "result": {"item": "arcana_industry:bath_circulation_pump", "count": 1},
+  "duration": 240,
+  "energy_per_tick": 14
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:end_rod"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 2,
+    "arcana_industry:fiery": 1
+  }
+}

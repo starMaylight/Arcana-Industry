@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "base": "arcana_industry:block/mold_caster_base",
+    "crucible": "arcana_industry:block/mold_caster_crucible",
+    "stamp": "arcana_industry:block/mold_caster_stamp",
+    "particle": "arcana_industry:block/mold_caster_base"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 4, 16],
+      "faces": {
+        "up": {"texture": "#base"}, "down": {"texture": "#base"},
+        "north": {"texture": "#base"}, "south": {"texture": "#base"},
+        "east": {"texture": "#base"}, "west": {"texture": "#base"}
+      }
+    },
+    {
+      "from": [1, 4, 1],
+      "to": [15, 9, 15],
+      "faces": {
+        "up": {"texture": "#crucible"}, "down": {"texture": "#crucible"},
+        "north": {"texture": "#crucible"}, "south": {"texture": "#crucible"},
+        "east": {"texture": "#crucible"}, "west": {"texture": "#crucible"}
+      }
+    },
+    {
+      "from": [2, 9, 7],
+      "to": [14, 16, 9],
+      "faces": {
+        "up": {"texture": "#stamp"}, "down": {"texture": "#stamp"},
+        "north": {"texture": "#stamp"}, "south": {"texture": "#stamp"},
+        "east": {"texture": "#stamp"}, "west": {"texture": "#stamp"}
+      }
+    }
+  ]
+}

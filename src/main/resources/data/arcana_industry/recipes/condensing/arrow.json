@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:arrow"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:spectral_arrow",
+    "count": 8
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

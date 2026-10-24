@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:sieving",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "count": 5,
+  "result": {
+    "item": "arcana_industry:raw_nickel",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 4
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:modulation",
+  "ingredient": {
+    "item": "minecraft:blackstone"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:basalt",
+    "count": 2
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

@@ -1,0 +1,135 @@
+{
+  "id": "arcana_industry:flux_rectifier",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/FluxRectifierBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:gold_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:dropper"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:iron_trapdoor"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:iron_trapdoor"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:iron_trapdoor"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:iron_trapdoor"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:redstone_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:redstone_block"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          "minecraft:redstone_block",
+          "."
+        ],
+        [
+          "minecraft:copper_block",
+          "minecraft:dropper",
+          "minecraft:copper_block"
+        ],
+        [
+          ".",
+          "minecraft:redstone_block",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:iron_trapdoor",
+          "."
+        ],
+        [
+          "minecraft:iron_trapdoor",
+          "[controller]",
+          "minecraft:iron_trapdoor"
+        ],
+        [
+          ".",
+          "minecraft:iron_trapdoor",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:gold_block",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ],
+  "port_substitute": {
+    "block": "arcana_industry:stock_hatch",
+    "replaces": "any part touching the controller face-to-face",
+    "max": 2,
+    "relays": "the covered controller face's item port (In/Out/Off)"
+  }
+}

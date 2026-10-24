@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flanging",
+  "ingredient": {
+    "tag": "forge:ingots/tantalum"
+  },
+  "count": 7,
+  "result": {
+    "item": "minecraft:cauldron",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["IBI", "CSC", " B "],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "B": {"item": "arcana_industry:deep_groove_ball_bearing"},
+    "C": {"item": "arcana_industry:wound_coil"},
+    "S": {"item": "arcana_industry:drive_shaft"}
+  },
+  "result": {"item": "arcana_industry:wound_motor"}
+}

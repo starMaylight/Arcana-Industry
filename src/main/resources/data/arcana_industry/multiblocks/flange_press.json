@@ -1,0 +1,106 @@
+{
+  "id": "arcana_industry:flange_press",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/FlangePressBlock.java",
+  "orientation": "fixed_world_axis",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:netherite_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:loom"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:dispenser[facing=south]"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:dispenser[facing=north]"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:copper_block"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          "."
+        ],
+        [
+          "minecraft:loom"
+        ],
+        [
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:dispenser[facing=south]"
+        ],
+        [
+          "[controller]"
+        ],
+        [
+          "minecraft:dispenser[facing=north]"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ],
+        [
+          "minecraft:iron_block",
+          "minecraft:netherite_block",
+          "minecraft:iron_block"
+        ],
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ]
+      ]
+    }
+  ],
+  "axis": "north_south_only"
+}

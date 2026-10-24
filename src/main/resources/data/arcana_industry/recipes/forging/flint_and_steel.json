@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/rhenium"
+  },
+  "count": 1,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 1,
+  "result": {
+    "item": "minecraft:flint_and_steel"
+  }
+}

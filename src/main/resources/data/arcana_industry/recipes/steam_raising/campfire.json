@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:campfire"
+  },
+  "count": 1,
+  "residue": {
+    "item": "minecraft:charcoal",
+    "count": 2
+  },
+  "burn_time": 1600,
+  "steam_per_tick": 5,
+  "priority": 0
+}

@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:burnishing",
+  "ingredient": {
+    "item": "minecraft:end_stone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:end_stone_bricks"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

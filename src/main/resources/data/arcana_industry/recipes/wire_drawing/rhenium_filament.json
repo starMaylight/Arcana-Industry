@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:wire_drawing",
+  "ingredient": {
+    "tag": "forge:ingots/rhenium"
+  },
+  "count": 1,
+  "exhaustion": 1.5,
+  "result": {
+    "item": "arcana_industry:rhenium_filament"
+  }
+}

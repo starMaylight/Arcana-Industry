@@ -1,0 +1,117 @@
+{
+  "id": "arcana_industry:spectral_loom",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/SpectralLoomBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:loom"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:scaffolding"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:white_wool"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:white_wool"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:cobweb"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:cobweb"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:stripped_oak_log"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:stripped_oak_log"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:stripped_oak_log",
+          "minecraft:scaffolding",
+          "minecraft:stripped_oak_log"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:white_wool",
+          "."
+        ],
+        [
+          "minecraft:cobweb",
+          "[controller]",
+          "minecraft:cobweb"
+        ],
+        [
+          ".",
+          "minecraft:white_wool",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:loom",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

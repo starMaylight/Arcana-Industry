@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:resonant_cultivation",
+  "ingredient": {
+    "item": "minecraft:red_mushroom"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:red_mushroom_block",
+    "count": 2
+  }
+}

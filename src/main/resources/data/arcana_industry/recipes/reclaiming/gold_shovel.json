@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:reclaiming",
+  "ingredient": {
+    "item": "minecraft:golden_shovel"
+  },
+  "reagent": {
+    "item": "minecraft:redstone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 40
+}

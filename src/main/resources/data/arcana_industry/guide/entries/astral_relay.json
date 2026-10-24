@@ -1,0 +1,14 @@
+{
+  "title": "Astral Relay",
+  "category": "arcana_industry:arcana",
+  "chapter": "Tier 6",
+  "group": "Lumen transfer",
+  "pages": [
+    "Craft this third t6 apparatus from a Ground Lens (from the Lens Grinder) and three sealed steel plates, a Solar Prism from the Heliostat Etcher, two redstone blocks, Lunar Essence from the Noctilucent Condenser and a resonance infuser. A bare fourth plate no longer works: the Lens Grinder's Ground Lens is now required alongside both predecessor outputs.",
+    "Provide a neighboring redstone signal and 20 FE/t, or charge by the manual crank. Removing the signal pauses progress without consuming FE. Two Lunar Essence relay into an Astral Core for the next progression gate.",
+    "Twenty datapack relaying recipes convert signal components, rails, lamps and conductive materials into useful devices. JEI shows input count, output, FE, duration and signal condition. Recipe type: arcana_industry:relaying; fields ingredient, count, result, duration, energy_per_tick and optional priority.",
+    "Top and horizontal faces import only items accepted by a loaded relaying recipe; unmatched hopper items are rejected. Bottom exports. Change sides in the GUI. Inventory, FE, progress and port modes persist; breaking drops inventory.",
+    "Ten prismarine crystals relay into two sea lanterns; the five-crystal-per-lantern cost matches the best crystal recovery route.",
+    "Signal field: a relayed product may only carry the material traits of its inputs plus the live signal, which lends resonant equal to a third of its strength (rounded up, max 5) and luminous 1. A comparator needs strength 7 or more, a sculk sensor 10 or more; a redstone block always suffices. Too weak a signal shows 'Signal too weak' without spending FE. A datapack row whose product traits no signal can explain pauses with 'Product traits not in input or field'. Two tinted glass relay into a daylight detector."
+  ]
+}

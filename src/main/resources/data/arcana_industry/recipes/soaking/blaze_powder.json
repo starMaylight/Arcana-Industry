@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:soaking",
+  "ingredient": {
+    "item": "minecraft:blaze_powder"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:fire_charge",
+    "count": 3
+  }
+}

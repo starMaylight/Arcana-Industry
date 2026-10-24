@@ -1,0 +1,26 @@
+{
+  "items": [
+    "minecraft:allium",
+    "minecraft:azure_bluet",
+    "minecraft:blue_orchid",
+    "minecraft:cornflower",
+    "minecraft:dandelion",
+    "minecraft:flowering_azalea",
+    "minecraft:lilac",
+    "minecraft:lily_of_the_valley",
+    "minecraft:orange_tulip",
+    "minecraft:oxeye_daisy",
+    "minecraft:peony",
+    "minecraft:pink_petals",
+    "minecraft:pink_tulip",
+    "minecraft:poppy",
+    "minecraft:red_tulip",
+    "minecraft:rose_bush",
+    "minecraft:sunflower",
+    "minecraft:torchflower",
+    "minecraft:white_tulip"
+  ],
+  "traits": {
+    "arcana_industry:pigment": 2
+  }
+}

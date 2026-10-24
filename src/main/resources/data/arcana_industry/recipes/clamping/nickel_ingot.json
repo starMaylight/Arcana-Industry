@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/nickel"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:compass",
+    "count": 1
+  }
+}

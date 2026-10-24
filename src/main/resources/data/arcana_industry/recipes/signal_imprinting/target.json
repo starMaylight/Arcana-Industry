@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:signal_imprinting",
+  "ingredient": {
+    "item": "minecraft:hay_block"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:target",
+    "count": 1
+  }
+}

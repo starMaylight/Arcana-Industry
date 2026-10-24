@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:music_disc_13"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 3,
+    "arcana_industry:crystalline": 2
+  }
+}

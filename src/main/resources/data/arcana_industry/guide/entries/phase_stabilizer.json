@@ -1,0 +1,12 @@
+{
+  "title": "Phase Stabilizer",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 9",
+  "group": "Phase works",
+  "pages": [
+    "A seventh t9 apparatus. Craft it with a Modulated Phase, four sealed steel plates, two glass panes, a hopper and a Phase Modulator. Material update: crafting slot 4 (row-major 3x3) now requires a hafnium ingot via forge:ingots/hafnium; all existing progression gates remain required.",
+    "Feed one item into the left slot. The stabilizer spends 20 FE/t for 150 ticks and yields a single sealed result in the right slot; like the other t9 units there is no second byproduct channel. Stabilizing two Modulated Phase yields the Stabilized Phase; two Stabilized Phase feed the Phase Preserver, which returns a Preserved Phase.",
+    "Twenty datapack recipes reclaim redstone, iron and copper from functional contraptions (observer, dispenser, dropper, piston), or recover six oak planks from a note block. Each yield is at or below the crafting cost: an observer returns 2 redstone, a dispenser or dropper 1, and the note block six of eight planks. A smoker is stripped back to its furnace. Other recipes exchange crafting stations and lighting blocks for related forms. Stabilization obeys the material-trait rule with no field: a product may only carry the traits of count x its input. Observer, dispenser and dropper keep their dust's signature (resonant 2, luminous 1) to cover redstone; piston and smithing table carry their iron (rigid 2, heavy 2), the lightning rod its copper (heavy 1), and the loom its string; a sticky piston carries only its piston's traits (an Astral Relay makes one from two pistons without slime), so the stabilizer unsticks it back into a piston rather than yielding slime; two Modulated Phase (luminous 1, resonant 1 each) cover the Stabilized Phase. A datapack row whose product needs other traits, such as a loom returning redstone, pauses on status \"unexplained_traits\" without spending FE. JEI displays the result and FE. Recipe type arcana_industry:stabilization accepts ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; equal priority uses recipe ID.",
+    "Top and horizontal sides import; bottom exports the result. Side mode buttons configure each face. Supply FE by capability or manual crank. The machine pauses if the output slot is full; inventory, FE, work progress and side modes persist. Breaking it drops both slots."
+  ]
+}

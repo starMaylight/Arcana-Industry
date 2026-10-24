@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"item": "arcana_industry:sealed_steel_plate"},
+  "count": 2,
+  "result": {"item": "arcana_industry:stamped_contactor_enclosure"},
+  "duration": 140,
+  "energy_per_tick": 10
+}

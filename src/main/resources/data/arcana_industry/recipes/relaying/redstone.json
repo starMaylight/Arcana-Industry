@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:relaying",
+  "ingredient": {
+    "item": "minecraft:redstone"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:redstone_torch",
+    "count": 8
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

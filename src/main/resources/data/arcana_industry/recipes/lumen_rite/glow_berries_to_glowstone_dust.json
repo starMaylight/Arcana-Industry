@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:glow_berries"
+  },
+  "count": 6,
+  "lumen_cost": 50,
+  "result": {
+    "item": "minecraft:glowstone_dust",
+    "count": 1
+  }
+}

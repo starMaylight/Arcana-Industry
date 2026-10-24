@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:red_nether_bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:cracked_nether_bricks"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

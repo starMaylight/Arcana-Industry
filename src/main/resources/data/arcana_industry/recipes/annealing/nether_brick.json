@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:nether_brick"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:nether_brick_fence",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

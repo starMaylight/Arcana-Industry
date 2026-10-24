@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:resonant_cultivation",
+  "ingredient": {
+    "item": "minecraft:oak_sapling"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:oak_log",
+    "count": 4
+  }
+}

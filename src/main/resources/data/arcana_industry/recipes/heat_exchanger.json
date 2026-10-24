@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BMW",
+    "JEJ",
+    "WVB"
+  ],
+  "key": {
+    "B": {
+      "item": "arcana_industry:hex_bolt_set"
+    },
+    "W": {
+      "item": "arcana_industry:tab_lock_washer"
+    },
+    "V": {
+      "item": "arcana_industry:stainless_vessel_stock"
+    },
+    "J": {
+      "item": "arcana_industry:brazed_joint"
+    },
+    "E": {
+      "item": "arcana_industry:expanded_tube_bundle"
+    },
+    "M": {
+      "item": "arcana_industry:mineral_fibre_lagging"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:heat_exchanger"
+  }
+}

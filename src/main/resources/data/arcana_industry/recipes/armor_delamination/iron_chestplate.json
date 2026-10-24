@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:armor_delamination",
+  "ingredient": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 4
+  }
+}

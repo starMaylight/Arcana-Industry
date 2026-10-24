@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PCP", "WRW", "ESP"],
+  "key": {
+    "P": {"item": "arcana_industry:sealed_steel_plate"},
+    "C": {"item": "arcana_industry:copper_busbar"},
+    "W": {"item": "arcana_industry:wound_coil"},
+    "R": {"item": "minecraft:redstone"},
+    "S": {"item": "arcana_industry:limit_switch"},
+    "E": {"item": "arcana_industry:stamped_contactor_enclosure"}
+  },
+  "result": {"item": "arcana_industry:power_contactor"}
+}

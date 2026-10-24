@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {"item": "arcana_industry:green_tuyere"},
+  "result": {"item": "arcana_industry:ceramic_tuyere", "count": 1},
+  "duration": 180,
+  "temperature": 600
+}

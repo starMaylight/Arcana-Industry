@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:amethyst_shard"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 2,
+    "arcana_industry:crystalline": 2
+  }
+}

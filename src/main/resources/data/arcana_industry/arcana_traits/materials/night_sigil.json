@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:night_sigil"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 2,
+    "arcana_industry:crystalline": 1
+  }
+}

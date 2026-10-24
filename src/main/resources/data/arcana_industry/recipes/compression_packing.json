@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" S ", "SCS", " S "],
+  "key": {
+    "S": {"item": "minecraft:string"},
+    "C": {"item": "minecraft:charcoal"}
+  },
+  "result": {"item": "arcana_industry:compression_packing", "count": 2}
+}

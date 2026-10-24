@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"item": "arcana_industry:bearing_steel_stock"},
+  "count": 1,
+  "result": {"item": "arcana_industry:bearing_ball", "count": 8},
+  "duration": 140,
+  "energy_per_tick": 10
+}

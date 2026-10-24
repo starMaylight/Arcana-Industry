@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:minecart"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/palladium"
+  },
+  "result": {
+    "item": "minecraft:hopper_minecart"
+  }
+}

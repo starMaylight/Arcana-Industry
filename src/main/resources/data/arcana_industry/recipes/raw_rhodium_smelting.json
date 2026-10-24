@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:raw_materials/rhodium"
+  },
+  "result": "arcana_industry:rhodium_ingot",
+  "experience": 0.3,
+  "cookingtime": 200
+}

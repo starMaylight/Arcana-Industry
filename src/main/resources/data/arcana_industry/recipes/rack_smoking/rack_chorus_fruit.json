@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:rack_smoking",
+  "ingredient": {
+    "item": "minecraft:chorus_fruit"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:popped_chorus_fruit",
+    "count": 5
+  }
+}

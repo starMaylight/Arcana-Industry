@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "arcana_industry:copper_grit"},
+    {"item": "arcana_industry:copper_grit"},
+    {"item": "arcana_industry:copper_grit"},
+    {"item": "arcana_industry:copper_grit"},
+    {"item": "arcana_industry:copper_grit"},
+    {"item": "arcana_industry:copper_grit"},
+    {"item": "arcana_industry:copper_grit"},
+    {"item": "arcana_industry:copper_grit"},
+    {"item": "arcana_industry:tin_grit"}
+  ],
+  "result": {
+    "item": "arcana_industry:bronze_powder_blend",
+    "count": 9
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CNC", "NFN", "CNC"],
+  "key": {
+    "C": {"tag": "forge:ingots/copper"},
+    "N": {"item": "minecraft:iron_nugget"},
+    "F": {"item": "arcana_industry:graded_filter_media"}
+  },
+  "result": {"item": "arcana_industry:framed_filter_strainer"}
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Iridescent Basin",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 6",
+  "group": "Prism and spectral finishing",
+  "pages": [
+    "Craft this final t6 controller from two Concordance Seals made at the Concordance Altar, four prismarine bricks, a sea lantern and two amethyst shards. Both seals are required; this is the t6 Prism Separator component gate.",
+    "Place a sea lantern below and an end rod above the basin, prismarine bricks two blocks north and south, and obsidian directly east and west. Keep the north and south controller faces clear for item ports. Removing any brace immediately stops processing.",
+    "Hold eight white stained glass panes or eight white concrete powder in the main hand and one colored dye in the offhand, then right-click to load one batch into the basin; it tints over 40 ticks, and an empty-hand use collects the product. While a batch is loaded, further hand loads are refused and consume nothing. Thirty color batches produce eight matching panes or powder with one dye. Two Concordance Seals plus four prismarine shards fuse into the Iridescent Key, which converges with the Heliostat Etcher's Solar Prism to gate the Noctilucent Condenser, the second t6 apparatus.",
+    "Feed base stock into slot 0 and dye or the second reagent into slot 1 through the north face; take products from the south face after 40 ticks per batch. Hoppers and item pipes can use these faces. Sneak-use an empty hand to cycle the clicked face between input, output and disabled; empty-hand use collects output. Manual batches still use main-hand stock and offhand reagent. There is no fluid or FE port. JEI lists every loaded recipe; ambiguous matches resolve by recipe ID. The bath only tints: a product keeps the material traits of its batch and reagent, and both manual and automated use refuse a datapack recipe that invents a trait."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CQP",
+    "GDG",
+    "LRL"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "Q": {
+      "item": "arcana_industry:attuned_quartz"
+    },
+    "G": {
+      "item": "arcana_industry:optic_powder"
+    },
+    "D": {
+      "item": "arcana_industry:vitrified_grinding_wheel"
+    },
+    "R": {
+      "item": "arcana_industry:resonance_infuser"
+    },
+    "C": {
+      "item": "arcana_industry:corona_fragment"
+    },
+    "L": {
+      "item": "arcana_industry:retaining_ring"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:lens_grinder"
+  }
+}

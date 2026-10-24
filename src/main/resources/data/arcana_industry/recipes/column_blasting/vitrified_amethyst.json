@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:column_blasting",
+  "ingredient": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:vitrified_amethyst",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:tumbling",
+  "ingredient": {
+    "item": "minecraft:nether_quartz_ore"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:quartz",
+    "count": 3
+  },
+  "duration": 200,
+  "energy_per_tick": 32
+}

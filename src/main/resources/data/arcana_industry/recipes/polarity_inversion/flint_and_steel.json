@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:polarity_inversion",
+  "ingredient": {
+    "item": "minecraft:flint_and_steel"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:flint",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:modulation",
+  "ingredient": {
+    "item": "minecraft:polished_blackstone_bricks"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:chiseled_polished_blackstone",
+    "count": 4
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

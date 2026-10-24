@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:arc_discharge",
+  "ingredient": {
+    "item": "minecraft:shears"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:chain",
+    "count": 1
+  }
+}

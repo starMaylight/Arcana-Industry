@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:fusing",
+  "ingredient": {
+    "item": "minecraft:bone"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:bone_block"
+  },
+  "duration": 120,
+  "energy_per_tick": 16,
+  "lumen_per_tick": 4
+}

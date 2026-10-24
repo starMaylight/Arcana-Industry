@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:raw_materials/molybdenum"
+  },
+  "result": "arcana_industry:molybdenum_ingot",
+  "experience": 0.3,
+  "cookingtime": 200
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:resonant_cultivation",
+  "ingredient": {
+    "item": "minecraft:wheat_seeds"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:wheat",
+    "count": 4
+  }
+}

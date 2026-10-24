@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "tag": "minecraft:logs_that_burn"
+  },
+  "count": 2,
+  "residue": {
+    "item": "minecraft:charcoal",
+    "count": 1
+  },
+  "burn_time": 600,
+  "energy_per_tick": 16,
+  "priority": 0
+}

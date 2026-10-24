@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "tag": "minecraft:wooden_trapdoors"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/cobalt"
+  },
+  "result": {
+    "item": "minecraft:iron_trapdoor"
+  }
+}

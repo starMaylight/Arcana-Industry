@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "R",
+    "D"
+  ],
+  "key": {
+    "H": {
+      "item": "arcana_industry:encoder_readhead"
+    },
+    "R": {
+      "item": "arcana_industry:graduated_encoder_ring"
+    },
+    "D": {
+      "item": "arcana_industry:drive_shaft"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:rotary_encoder"
+  }
+}

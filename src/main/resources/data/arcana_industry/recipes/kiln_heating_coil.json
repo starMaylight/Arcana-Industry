@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ACA", "CFC", "ACA"],
+  "key": {
+    "A": {"item": "arcana_industry:annealed_copper"},
+    "C": {"item": "minecraft:copper_ingot"},
+    "F": {"item": "arcana_industry:formed_firebrick"}
+  },
+  "result": {"item": "arcana_industry:kiln_heating_coil"}
+}

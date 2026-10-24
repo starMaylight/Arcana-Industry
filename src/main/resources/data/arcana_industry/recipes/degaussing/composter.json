@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:degaussing",
+  "ingredient": {
+    "item": "minecraft:composter"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:oak_slab",
+    "count": 8
+  }
+}

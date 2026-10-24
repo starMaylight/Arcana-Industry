@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:arc_discharge",
+  "ingredient": {
+    "item": "minecraft:iron_door"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:iron_trapdoor",
+    "count": 1
+  }
+}

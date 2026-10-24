@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:etching",
+  "ingredient": {
+    "item": "minecraft:prismarine_crystals"
+  },
+  "count": 5,
+  "result": {
+    "item": "minecraft:sea_lantern",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

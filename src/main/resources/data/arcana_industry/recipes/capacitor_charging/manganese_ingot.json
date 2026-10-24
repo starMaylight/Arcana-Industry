@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:capacitor_charging",
+  "ingredient": {
+    "tag": "forge:ingots/manganese"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:trapped_chest",
+    "count": 1
+  }
+}

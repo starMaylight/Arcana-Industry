@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:furnace"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/tungsten"
+  },
+  "result": {
+    "item": "minecraft:blast_furnace"
+  }
+}

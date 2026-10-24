@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  },
+  "count": 3,
+  "reagent": {
+    "tag": "forge:ingots/gallium"
+  },
+  "result": {
+    "item": "minecraft:minecart"
+  }
+}

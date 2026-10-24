@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "binder": {
+    "item": "minecraft:slime_ball"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:lead",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

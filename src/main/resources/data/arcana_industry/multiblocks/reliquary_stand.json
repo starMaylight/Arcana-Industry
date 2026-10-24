@@ -1,0 +1,147 @@
+{
+  "id": "arcana_industry:reliquary_stand",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/ReliquaryStandBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:netherite_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:soul_lantern"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 2,
+      "block": "minecraft:gilded_blackstone"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:gilded_blackstone"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:quartz_pillar"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:quartz_pillar"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 2,
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": -2,
+      "block": "minecraft:polished_blackstone_bricks"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:soul_lantern",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:gilded_blackstone",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:quartz_pillar",
+          "[controller]",
+          "minecraft:quartz_pillar"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:gilded_blackstone",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          "minecraft:polished_blackstone_bricks",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:netherite_block",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:polished_blackstone_bricks",
+          "."
+        ]
+      ]
+    }
+  ]
+}

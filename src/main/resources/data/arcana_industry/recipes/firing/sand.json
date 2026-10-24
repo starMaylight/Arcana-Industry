@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "tag": "arcana_industry:glass_sands"
+  },
+  "result": {
+    "item": "minecraft:glass",
+    "count": 1
+  },
+  "duration": 120,
+  "temperature": 500
+}

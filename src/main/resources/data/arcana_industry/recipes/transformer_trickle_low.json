@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ILI",
+    "LTH",
+    "IHI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/copper"
+    },
+    "L": {
+      "item": "arcana_industry:tin_wire"
+    },
+    "H": {
+      "item": "arcana_industry:copper_cable"
+    },
+    "T": {
+      "item": "arcana_industry:transformer_core"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:transformer_trickle_low"
+  }
+}

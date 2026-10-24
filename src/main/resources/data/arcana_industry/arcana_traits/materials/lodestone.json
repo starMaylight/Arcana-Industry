@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:lodestone"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 2,
+    "arcana_industry:heavy": 3,
+    "arcana_industry:resonant": 1
+  }
+}

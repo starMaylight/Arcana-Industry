@@ -1,0 +1,202 @@
+{
+  "id": "arcana_industry:swage_press",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/SwagePressBlock.java",
+  "orientation": "fixed_world_axis",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:gold_block"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": 0,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": 1,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": -1,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:piston[facing=south]"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:piston[facing=north]"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:grindstone"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:polished_andesite"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          "minecraft:polished_andesite",
+          "minecraft:smooth_stone",
+          "minecraft:polished_andesite"
+        ],
+        [
+          ".",
+          "minecraft:grindstone",
+          "."
+        ],
+        [
+          "minecraft:polished_andesite",
+          "minecraft:smooth_stone",
+          "minecraft:polished_andesite"
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:polished_andesite",
+          "minecraft:piston[facing=south]",
+          "minecraft:polished_andesite"
+        ],
+        [
+          ".",
+          "[controller]",
+          "."
+        ],
+        [
+          "minecraft:polished_andesite",
+          "minecraft:piston[facing=north]",
+          "minecraft:polished_andesite"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          "minecraft:smooth_stone",
+          "minecraft:smooth_stone",
+          "minecraft:smooth_stone"
+        ],
+        [
+          "minecraft:smooth_stone",
+          "minecraft:gold_block",
+          "minecraft:smooth_stone"
+        ],
+        [
+          "minecraft:smooth_stone",
+          "minecraft:smooth_stone",
+          "minecraft:smooth_stone"
+        ]
+      ]
+    }
+  ],
+  "axis": "north_south_only"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PIP",
+    "IGI",
+    "PIP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "I": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "arcana_industry:tempered_steel"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:crimp_press"
+  }
+}

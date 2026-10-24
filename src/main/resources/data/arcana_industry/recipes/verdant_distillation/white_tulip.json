@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:verdant_distillation",
+  "ingredient": {
+    "item": "minecraft:white_tulip"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:light_gray_dye",
+    "count": 12
+  }
+}

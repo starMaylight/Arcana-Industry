@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:light_blue_dye",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

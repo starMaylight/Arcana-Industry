@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "item": "minecraft:lava_bucket"
+  },
+  "count": 1,
+  "residue": {
+    "item": "minecraft:bucket",
+    "count": 1
+  },
+  "burn_time": 20000,
+  "energy_per_tick": 20,
+  "priority": 0
+}

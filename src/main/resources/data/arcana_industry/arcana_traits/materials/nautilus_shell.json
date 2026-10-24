@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:nautilus_shell"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 2,
+    "arcana_industry:rigid": 1
+  }
+}

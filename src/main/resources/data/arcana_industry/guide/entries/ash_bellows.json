@@ -1,0 +1,15 @@
+{
+  "title": "Ash Bellows",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 0",
+  "group": "Heat and firing",
+  "pages": [
+    "Build ash bellows from four leather, one milled dowel, one stick, two iron ingots and a brick. Crafting rows: leather/milled-dowel/leather; iron/brick/iron; leather/stick/leather. Mine it with a stone pickaxe or better. This is a fifth t0 apparatus alongside the crusher, sieve, refractory mixer and quern, but unlike the quern its output is a required kiln ingredient. The milled dowel corner requires a sawmill, so build one first and feed it any log or a plain stick.",
+    "Right-click to open the bellows. It reuses the crusher's menu layout: place fuel in the left slot, collect ash from the right slot, Crank supplies 80 FE, and six buttons cycle each world face through Off, In and Out exactly like the crusher, sieve and quern.",
+    "Twenty-seven datapack ashing recipes run in this bellows. Charcoal or coal make Temper Ash for the kiln. Logs and stems char into fuel, while kelp dries and other combustible materials yield useful ash-processing products. Distinct bulk heat jobs turn sand into glass, cobblestone into stone, netherrack into nether brick, and a clay block into four bricks. Four clay balls fire into one terracotta block; crushing it recovers four balls. TNT yields five gunpowder, equal to the five spent by the Containment Forge or Stasis Weaver to make one TNT. Sea pickles yield lime dye and cocoa beans yield brown dye. Bulk loads beat a furnace or crafting grid: four netherrack, sea pickles, cocoa beans or kelp give five products, and four blaze rods give ten powder. Each uses 4 FE per tick; load one input at a time.",
+    "Temper ash replaces one of the kiln's three copper grit slots: the kiln now needs bricks, a refractory binder, a furnace, screened flux, copper grit and temper ash together, so the ash bellows is progression-required from t0 onward, not a parallel side process like the quern.",
+    "Automation: side ports, energy handling, NBT persistence and hopper behavior are identical to the crusher, sieve and quern. Charcoal farms and log-processing lines gain a mechanized destination that feeds kiln construction directly.",
+    "Recipes are datapack JSON under data/<namespace>/recipes/ashing. Type: arcana_industry:ashing. Fields: ingredient (item or tag), count (default 1), result (item/count), duration (1-72000 ticks), energy_per_tick (1-1000), priority (default 0). Highest priority wins; equal priorities use ascending recipe ID.",
+    "With Just Enough Items installed, click the progress strip to browse Ashing recipes, or look up an ingredient or product in JEI. The ash bellows is the category catalyst. JEI is optional; all processing and this guide work without it."
+  ]
+}

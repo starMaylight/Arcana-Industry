@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PRP",
+    "LSL",
+    "DCP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "D": {
+      "item": "arcana_industry:belt_pulley_drive"
+    },
+    "R": {
+      "item": "arcana_industry:power_contactor"
+    },
+    "C": {
+      "item": "arcana_industry:cemented_carbide_insert"
+    },
+    "S": {
+      "item": "arcana_industry:spindle_gearbox"
+    },
+    "L": {
+      "item": "arcana_industry:linear_guide"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:milling_gantry"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GTN",
+    "BFB",
+    "NBN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:nether_bricks"
+    },
+    "B": {
+      "item": "minecraft:blackstone"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "G": {
+      "item": "arcana_industry:cured_hearth_brick"
+    },
+    "T": {
+      "item": "arcana_industry:tempered_blackstone"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:soaking_hearth"
+  }
+}

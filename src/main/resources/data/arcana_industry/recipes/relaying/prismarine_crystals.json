@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:relaying",
+  "ingredient": {
+    "item": "minecraft:prismarine_crystals"
+  },
+  "count": 10,
+  "result": {
+    "item": "minecraft:sea_lantern",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

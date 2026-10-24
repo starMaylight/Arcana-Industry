@@ -1,0 +1,12 @@
+{
+  "title": "Prism Scorer",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 7",
+  "group": "Prism and spectral finishing",
+  "pages": [
+    "Craft the Prism Scorer with a Polished Prism Facet, one sealed steel plate, Attuned Quartz, two amethyst shards, glass, Spectral Filter and a Cam-Follower Assembly. Polish the facet first in the Prism Polisher. Assemble the profile-ground cam with a cylindrical roller bearing, Shaft Key, Retaining Ring, two sealed steel plates and a piston. The cam times the scoring stroke; the bearing supports the follower and the key fixes the hub. Loose stock, an unground cam blank or a plain plate cannot replace the assembly.",
+    "Supply 24 FE/t or use the crank. Top and horizontal faces import, bottom exports. Change item side modes in the GUI. Inventory, energy and progress persist. The Scorer performs twenty-one datapack scoring batches, including block recovery and crystal shaping. JEI shows each input, output, duration and power cost.",
+    "Score an Attuned Quartz from the t6 Resonance Infuser into a Scored Prism Blank. One blank is required in the Diffraction Grate craft, replacing a plain plate corner. This path has no cycle: the Scorer does not require a Diffraction Grate. It also rules an Aluminized Grating Blank (aluminium film over a glass pane) into the Ruled Diffraction Grating, the second part the Diffraction Grate craft needs in its bottom-right slot.",
+    "Scoring one sea lantern recovers five prismarine crystals, matching the minimum cost of assembling a lantern in the Compaction Spire, Heliostat Etcher or Astral Relay. One slime block scores into nine balls, the same number required by the Mixer or Containment Forge to form a block."
+  ]
+}

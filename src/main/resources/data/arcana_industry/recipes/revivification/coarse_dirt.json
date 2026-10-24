@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:revivification",
+  "ingredient": {
+    "item": "minecraft:coarse_dirt"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:dirt"
+  },
+  "duration": 80,
+  "energy_per_tick": 12
+}

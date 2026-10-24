@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:steam_raising",
+  "ingredient": {
+    "item": "minecraft:chest"
+  },
+  "count": 2,
+  "residue": {
+    "item": "minecraft:charcoal",
+    "count": 2
+  },
+  "burn_time": 1200,
+  "steam_per_tick": 6,
+  "priority": 0
+}

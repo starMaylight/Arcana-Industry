@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/manganese"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:crossbow",
+    "count": 1
+  }
+}

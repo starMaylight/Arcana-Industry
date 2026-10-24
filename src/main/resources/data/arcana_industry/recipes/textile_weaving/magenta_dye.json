@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:textile_weaving",
+  "ingredient": {
+    "item": "minecraft:magenta_dye"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:magenta_wool",
+    "count": 8
+  }
+}

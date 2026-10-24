@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:burnishing",
+  "ingredient": {
+    "item": "minecraft:sandstone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:smooth_sandstone"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

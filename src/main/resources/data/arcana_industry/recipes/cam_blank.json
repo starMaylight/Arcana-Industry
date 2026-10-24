@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" I ", "ISI", " I "],
+  "key": {
+    "I": {"tag": "forge:ingots/iron"},
+    "S": {"item": "arcana_industry:tool_steel_stock"}
+  },
+  "result": {"item": "arcana_industry:cam_blank"}
+}

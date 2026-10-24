@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:mixing",
+  "ingredient": {
+    "item": "minecraft:black_concrete_powder"
+  },
+  "count": 1,
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "minecraft:black_concrete",
+    "count": 1
+  },
+  "duration": 40,
+  "energy_per_tick": 10
+}

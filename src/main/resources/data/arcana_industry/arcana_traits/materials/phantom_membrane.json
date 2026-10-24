@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:phantom_membrane"
+  ],
+  "traits": {
+    "arcana_industry:buoyant": 3,
+    "arcana_industry:flexible": 2
+  }
+}

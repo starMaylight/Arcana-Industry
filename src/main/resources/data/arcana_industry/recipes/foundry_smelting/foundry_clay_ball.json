@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:foundry_smelting",
+  "ingredient": {
+    "item": "minecraft:clay_ball"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:brick"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "tag": "minecraft:saplings"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:dead_bush",
+    "count": 1
+  },
+  "duration": 60,
+  "energy_per_tick": 8,
+  "priority": 0
+}

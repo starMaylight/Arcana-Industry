@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:relaying",
+  "ingredient": {
+    "item": "minecraft:glowstone"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:redstone_lamp",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

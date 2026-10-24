@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "SSS",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:porcelain_insulator"
+    },
+    "S": {
+      "tag": "forge:ingots/silver"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:silver_cable",
+    "count": 6
+  }
+}

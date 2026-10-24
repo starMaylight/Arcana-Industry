@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:redstone_torch"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 1,
+    "arcana_industry:luminous": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:column_blasting",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:nether_brick",
+    "count": 5
+  }
+}

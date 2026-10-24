@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:bone"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 5
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

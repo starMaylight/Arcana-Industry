@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "arcana_industry:gold_grit"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 5
+  },
+  "duration": 160,
+  "temperature": 700
+}

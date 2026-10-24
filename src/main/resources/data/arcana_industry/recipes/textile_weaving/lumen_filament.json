@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:textile_weaving",
+  "ingredient": {
+    "item": "arcana_industry:refracted_matrix"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:lumen_filament"
+  }
+}

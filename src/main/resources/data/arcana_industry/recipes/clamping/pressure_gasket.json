@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "item": "minecraft:slime_ball"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:pressure_gasket",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IWI",
+    "IPI",
+    " K "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "W": {
+      "item": "arcana_industry:wound_coil"
+    },
+    "P": {
+      "item": "arcana_industry:soft_iron_plunger"
+    },
+    "K": {
+      "item": "arcana_industry:coil_spring"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:solenoid"
+  }
+}

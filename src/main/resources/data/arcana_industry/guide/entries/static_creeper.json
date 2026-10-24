@@ -1,0 +1,12 @@
+{
+  "title": "Static Creeper",
+  "category": "arcana_industry:bestiary",
+  "chapter": "All tiers",
+  "group": "Industrial hazards",
+  "pages": [
+    "Static Creepers appear in dark swamps and mangrove swamps. At close range they pulse a brief Mining Fatigue charge into their target each second while closing in. They still have a normal creeper fuse and explosion. Keep space between them and workshops, and clear the approach before mining.",
+    "A defeated Static Creeper drops two redstone dust. Eight dust can be compressed into a redstone block in the Pressure Press, providing a renewable automation material once the blast risk is managed.",
+    "If a Flux Archer's arrow lands the killing shot, the Static Creeper also drops the Lattice Hymn music disc. Lure a Static Creeper into a Flux Archer's line of fire in stony peaks or let the two meet near a swamp edge, then stand clear. The disc plays in any jukebox and outputs comparator strength 9.",
+    "Rare trophy: when a player lands the killing blow before the fuse finishes, a Static Creeper sometimes also drops a Static Gland (35% base, +10% per Looting level). The gland is found only on this mob; an exploded creeper leaves nothing. Crush it in the Crusher for five redstone, a strong early supply for circuits and capacitors."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": {
+    "item": "minecraft:note_block"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:redstone_torch",
+    "count": 2
+  }
+}

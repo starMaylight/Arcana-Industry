@@ -1,0 +1,11 @@
+{
+  "title": "Chromium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 1",
+  "group": "Alloying and refractory metals",
+  "pages": [
+    "Chromium Ore and Deepslate Chromium Ore generate in the Overworld between Y -48 and 32 (veins of size 5, up to four veins per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Chromium and Fortune can increase the yield. Required industrial use: quench vat. Its craft consumes this ingot; compatible forge:ingots/chromium inputs are accepted.",
+    "Raw Chromium is chromite: a furnace or blast furnace cannot reduce it. The Crusher turns one Raw Chromium into two Chromium Grit in 180 ticks at 5 energy per tick. Craft two Chromium Grit with one Aluminum Grit into two Chromium Thermite Charges (the aluminum is the reductant). Fire each charge in the Fuel-fired Kiln at full 1000 heat for 120 ticks for one Chromium Ingot; a Solar Furnace can also ignite the charge. Automate by piping Crusher output into a crafter or stockpile, then feed charges into the Kiln top face with fuel on the sides and extract ingots below.",
+    "Chromium uses forge:ores/chromium, forge:raw_materials/chromium and forge:ingots/chromium tags. Datapacks can add matching recipes. Chromium Ingots are stored for later apparatus and material progression. A Lattice Composer combines 2 tagged chromium ingots with one furnace to make a smoker for fast food processing. Feed both slots from the upper or side item ports, provide 24 FE/t for 160 ticks, and extract below. The binder is consumed."
+  ]
+}

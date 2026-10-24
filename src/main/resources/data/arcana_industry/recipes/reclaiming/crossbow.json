@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:reclaiming",
+  "ingredient": {
+    "item": "minecraft:crossbow"
+  },
+  "reagent": {
+    "item": "minecraft:redstone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:string",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 40
+}

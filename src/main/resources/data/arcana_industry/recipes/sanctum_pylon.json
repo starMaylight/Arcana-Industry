@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASA",
+    "SPS",
+    "ASA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_block"
+    },
+    "S": {
+      "item": "minecraft:sea_lantern"
+    },
+    "P": {
+      "item": "arcana_industry:vitrified_amethyst"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:sanctum_pylon"
+  }
+}

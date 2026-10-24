@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:photolysis",
+  "ingredient": {
+    "item": "minecraft:note_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 20
+}

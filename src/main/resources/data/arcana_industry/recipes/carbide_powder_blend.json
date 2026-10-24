@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "arcana_industry:tungsten_grit"},
+    {"item": "arcana_industry:tungsten_grit"},
+    {"item": "arcana_industry:tungsten_grit"},
+    {"item": "arcana_industry:tungsten_grit"},
+    {"item": "arcana_industry:cobalt_grit"},
+    {"tag": "minecraft:coals"}
+  ],
+  "result": {
+    "item": "arcana_industry:carbide_powder_blend",
+    "count": 2
+  }
+}

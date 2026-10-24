@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:broaching",
+  "ingredient": {
+    "item": "minecraft:emerald"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:emerald_block",
+    "count": 1
+  }
+}

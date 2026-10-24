@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:carding",
+  "ingredient": {
+    "item": "minecraft:pitcher_plant"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:cyan_dye",
+    "count": 3
+  },
+  "duration": 80,
+  "energy_per_tick": 4,
+  "priority": 0
+}

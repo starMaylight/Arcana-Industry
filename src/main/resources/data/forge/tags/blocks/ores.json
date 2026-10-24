@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ores/tin",
+    "#forge:ores/lead",
+    "arcana_industry:nickel_ore",
+    "arcana_industry:deepslate_nickel_ore"
+  ]
+}

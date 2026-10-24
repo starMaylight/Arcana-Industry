@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:conductive_crystal"
+  ],
+  "traits": {
+    "arcana_industry:crystalline": 2,
+    "arcana_industry:resonant": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:textile_weaving",
+  "ingredient": {
+    "item": "minecraft:pink_dye"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:pink_wool",
+    "count": 8
+  }
+}

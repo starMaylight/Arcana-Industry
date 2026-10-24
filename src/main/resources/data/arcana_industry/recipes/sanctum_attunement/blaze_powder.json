@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:sanctum_attunement",
+  "ingredient": {
+    "item": "minecraft:blaze_powder"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:blaze_powder"
+  }
+}

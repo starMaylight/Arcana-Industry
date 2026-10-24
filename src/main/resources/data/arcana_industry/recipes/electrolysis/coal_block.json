@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:electrolysis",
+  "ingredient": {
+    "item": "minecraft:coal_block"
+  },
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "minecraft:coal",
+    "count": 9
+  },
+  "duration": 120,
+  "energy_per_tick": 12
+}

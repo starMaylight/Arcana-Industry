@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:burnishing",
+  "ingredient": {
+    "item": "arcana_industry:attuned_quartz"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:burnished_prism_sheet"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

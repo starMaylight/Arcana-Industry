@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:reclaiming",
+  "ingredient": {
+    "item": "minecraft:chainmail_boots"
+  },
+  "reagent": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:iron_nugget",
+    "count": 2
+  },
+  "duration": 160,
+  "energy_per_tick": 40
+}

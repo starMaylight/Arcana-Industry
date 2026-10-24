@@ -1,0 +1,11 @@
+{
+  "title": "Molybdenum Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 3",
+  "group": "Alloying and refractory metals",
+  "pages": [
+    "Molybdenum Ore and Deepslate Molybdenum Ore generate in the Overworld between Y -64 and 0 (veins of size 4, up to two veins per chunk column), deep enough to complement Titanium. An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Molybdenum and Fortune can increase the yield. Required industrial use: hydraulic riveter. Its craft consumes this ingot; compatible forge:ingots/molybdenum inputs are accepted.",
+    "Smelt or blast Raw Molybdenum into Molybdenum Ingots. The Crusher processes one Raw Molybdenum into two Molybdenum Grit in 200 ticks at 6 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Molybdenum uses forge:ores/molybdenum, forge:raw_materials/molybdenum and forge:ingots/molybdenum tags. Datapacks can add matching recipes. Molybdenum Ingots are stored for later apparatus and material progression."
+  ]
+}

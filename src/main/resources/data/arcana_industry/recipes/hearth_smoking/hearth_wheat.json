@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:hearth_smoking",
+  "ingredient": {
+    "item": "minecraft:wheat"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:bread",
+    "count": 4
+  }
+}

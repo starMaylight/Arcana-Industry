@@ -1,0 +1,12 @@
+{
+  "title": "Ore Mite",
+  "category": "arcana_industry:bestiary",
+  "chapter": "All tiers",
+  "group": "Cave hazards",
+  "pages": [
+    "Ore Mites gather in dripstone and lush caves. Their amethyst-striped backs distinguish them from common silverfish. They are hostile cave ambushers; a successful bite causes Hunger for five seconds. Bring food and keep the mining route lit.",
+    "Defeating an Ore Mite always yields one amethyst shard. Combine a shard with a prism core in the t8 Lattice Composer to make phase lattice, then use the lattice to craft the t9 Phase Annealer. The mite offers a renewable cave source of this progression ingredient.",
+    "An Ore Mite killed by a Static Creeper blast also drops the Vein Echo music disc. Lure a creeper into a swamp cave where mites can spawn, then draw the mite into the blast; an ordinary kill does not yield the disc. Its five-beat cave melody plays in any jukebox, and its comparator output of 11 distinguishes it from Lattice Hymn and Corroded Waltz.",
+    "Rare trophy: when a player lands the killing blow, an Ore Mite sometimes also drops a Mite Chitin scale (35% base, +10% per Looting level). The chitin is found only on this mob. Crush it in the Crusher for three amethyst shards, which feed phase-lattice and vitrified amethyst work long before geodes are found."
+  ]
+}

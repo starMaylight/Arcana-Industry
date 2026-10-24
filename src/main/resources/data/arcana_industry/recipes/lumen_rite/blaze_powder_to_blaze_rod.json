@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:blaze_powder"
+  },
+  "count": 3,
+  "lumen_cost": 200,
+  "result": {
+    "item": "minecraft:blaze_rod",
+    "count": 1
+  }
+}

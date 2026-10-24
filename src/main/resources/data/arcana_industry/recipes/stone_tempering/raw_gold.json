@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:stone_tempering",
+  "ingredient": {
+    "item": "minecraft:raw_gold"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 5
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flanging",
+  "ingredient": {
+    "item": "arcana_industry:stainless_vessel_stock"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:encoder_ring_blank",
+    "count": 1
+  }
+}

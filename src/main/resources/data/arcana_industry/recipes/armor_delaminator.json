@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "ZRC",
+    "IAI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "arcana_industry:degaussed_armature"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "arcana_industry:purified_salts"
+    },
+    "Z": {
+      "tag": "forge:ingots/tin"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:armor_delaminator"
+  }
+}

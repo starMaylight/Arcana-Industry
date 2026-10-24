@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:turtle_egg"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 1,
+    "arcana_industry:rigid": 1
+  }
+}

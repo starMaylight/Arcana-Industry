@@ -1,0 +1,14 @@
+{
+  "title": "Sieve",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 0",
+  "group": "Mechanical processing",
+  "pages": [
+    "Build a sieve from six iron ingots, two string and one Carded Fiber. Crafting rows: iron/iron/iron; string/carded fiber/string; iron/iron/iron. Carded Fiber comes from the Fiber Carder, whose craft requires a Sawmill-produced Milled Dowel. The sieve follows that t0 machine chain.",
+    "Right-click to open the sieve. It reuses the crusher's menu layout: place material in the left slot, collect fragments from the right slot, Crank supplies 80 FE, and six buttons cycle each world face through Off, In and Out exactly like the crusher.",
+    "The sieve screens common overburden - materials you already dig through or gather while mining and exploring - for raw ore fragments, instead of processing raw ore itself. Feed it gravel, sand, red sand or clay for iron, copper, gold or tin; nether and end blocks such as netherrack, magma block, end stone, blackstone, basalt, andesite, diorite, granite, calcite or tuff recover nickel, silver, cobalt, platinum, iridium, tungsten, bismuth, manganese or antimony; soul sand and soul soil recover lead and zinc; smooth basalt recovers aluminum and tuff recovers chromium. Four pointed dripstone yield one screened flux; two flux join three crusher-made copper grit and one mixer-made refractory binder in the kiln craft. Packed mud and coarse dirt give small bonuses of iron and gold grit; mud gives raw copper for the crusher. Twenty-one recipes in total; each has one specific input item, so stacking different overburden in the input slot lets you choose which ore you are prospecting for.",
+    "Automation: side ports, energy handling, NBT persistence and hopper behavior are identical to the crusher. This gives cave or nether exploration real value even without direct ore veins, and gives automated gravel/sand generators (for example from cobblestone generators feeding a nearby dispenser) a second income stream alongside crushing.",
+    "Recipes are datapack JSON under data/<namespace>/recipes/sieving. Type: arcana_industry:sieving. Fields: ingredient (item or tag), count (default 1), result (item/count), duration (1-72000 ticks), energy_per_tick (1-1000), priority (default 0). Highest priority wins; equal priorities use ascending recipe ID.",
+    "With Just Enough Items installed, click the progress strip to browse Sieving recipes, or look up an ingredient or product in JEI. The sieve is the category catalyst. JEI is optional; all processing and this guide work without it."
+  ]
+}

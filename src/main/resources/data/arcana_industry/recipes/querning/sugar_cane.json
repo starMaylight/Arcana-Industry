@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:querning",
+  "ingredient": {
+    "item": "minecraft:sugar_cane"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 3
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

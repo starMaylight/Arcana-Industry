@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "M",
+    "W"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "M": {
+      "item": "arcana_industry:signal_matrix"
+    },
+    "W": {
+      "item": "arcana_industry:annealed_copper"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:logic_board_blank"
+  }
+}

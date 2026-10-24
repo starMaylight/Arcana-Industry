@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:pedestal_rite",
+  "center": { "item": "minecraft:echo_shard" },
+  "corner": { "item": "minecraft:sculk" },
+  "lumen_cost": 300,
+  "result": { "item": "minecraft:sculk_sensor", "count": 1 }
+}

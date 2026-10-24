@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:slime_ball"
+  ],
+  "traits": {
+    "arcana_industry:flexible": 2,
+    "arcana_industry:binding": 1
+  }
+}

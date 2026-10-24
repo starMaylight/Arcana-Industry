@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:crimping",
+  "ingredient": {
+    "tag": "forge:ingots/osmium"
+  },
+  "count": 7,
+  "result": {
+    "item": "minecraft:cauldron",
+    "count": 1
+  }
+}

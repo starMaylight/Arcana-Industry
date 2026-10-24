@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:crimping",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:clock",
+    "count": 1
+  }
+}

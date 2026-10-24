@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"tag": "forge:ingots/lead"},
+  "count": 7,
+  "result": {"item": "minecraft:cauldron"},
+  "duration": 120,
+  "energy_per_tick": 8
+}

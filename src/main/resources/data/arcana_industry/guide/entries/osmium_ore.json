@@ -1,0 +1,11 @@
+{
+  "title": "Osmium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 3",
+  "group": "Precious and platinum-group metals",
+  "pages": [
+    "Osmium Ore and Deepslate Osmium Ore generate deep in the Overworld between Y -64 and 16 (veins of size 7, at most one vein per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Osmium and Fortune can increase the yield. Required industrial use: phase collapser. Its craft consumes this ingot; compatible forge:ingots/osmium inputs are accepted.",
+    "Smelt or blast Raw Osmium into Osmium Ingots. The Crusher processes one Raw Osmium into two Osmium Grit in 200 ticks at 6 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Osmium uses forge:ores/osmium, forge:raw_materials/osmium and forge:ingots/osmium tags. Datapacks can add matching recipes. Because Osmium is rarer per chunk than the other steel-tier ores, the two-grit Crusher route is worth the extra 1,200 energy per raw ore to avoid wasting a scarce find. The powered Lattice Engraver also engraves 2 forge:ingots/osmium into a heavy weighted pressure plate in 160 ticks at 24 FE/t; plate recyclers return only iron or cast fittings, never osmium."
+  ]
+}

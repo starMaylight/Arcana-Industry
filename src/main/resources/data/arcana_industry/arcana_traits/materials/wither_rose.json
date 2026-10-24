@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:wither_rose"
+  ],
+  "traits": {
+    "arcana_industry:pigment": 2,
+    "arcana_industry:umbral": 2
+  }
+}

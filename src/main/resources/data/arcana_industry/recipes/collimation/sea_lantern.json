@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collimation",
+  "ingredient": {
+    "item": "minecraft:sea_lantern"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:glowstone",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:hearth_smoking",
+  "ingredient": {
+    "item": "minecraft:honeycomb"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:honey_bottle",
+    "count": 1
+  }
+}

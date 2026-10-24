@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:querning",
+  "ingredient": {
+    "item": "minecraft:lily_of_the_valley"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:white_dye",
+    "count": 2
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

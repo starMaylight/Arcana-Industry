@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {
+    "item": "minecraft:string"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:white_wool"
+  },
+  "duration": 80,
+  "energy_per_tick": 8
+}

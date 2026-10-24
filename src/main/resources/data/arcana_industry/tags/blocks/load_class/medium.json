@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "arcana_industry:arc_press",
+    "arcana_industry:corona_collector",
+    "arcana_industry:electrolyzer",
+    "arcana_industry:induction_coiler",
+    "arcana_industry:resonance_infuser",
+    "arcana_industry:solar_photolyzer",
+    "arcana_industry:solar_smelter"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/lead"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:detector_rail",
+    "count": 3
+  }
+}

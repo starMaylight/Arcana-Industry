@@ -1,0 +1,12 @@
+{
+  "title": "Heraldic Frame",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 6",
+  "group": "Prism and spectral finishing",
+  "pages": [
+    "Craft this seventh t6 controller with two Lumen Filament from the Spectral Loom, four oak planks, two white banners, and a red wool block. The filament is the progression gate.",
+    "Place a red wool block below, an oak fence above, oak planks two blocks north and south, and white banners east and west. Top the oak fence with a second oak fence and a spruce plank crossbar reaching over both banners. All nine parts must remain in place. Right-click with a full input batch; breaking any arm stops production.",
+    "Sixteen dye batches weave each vanilla dye directly into a matching colored banner, skipping the usual wool-and-stick cost. Sixteen more batches weave four colored carpet into a matching colored bed. A fusion batch compresses two Lumen Filament into a Woven Sigil for the next t5 controller.",
+    "Right-click while holding a full batch to load it into the frame; a second hand batch is refused until the first finishes. Collect the product with an empty hand after processing. For automation, face a hopper or pipe into the open north side and extract finished goods from the open south side. Sneak-right-click an empty hand on a face to cycle input, output or disabled. A formed frame processes one buffered batch every 40 ticks; stored stock and output survive reload. Hand feeding still works. JEI shows every loaded batch; matching ties resolve by resource ID."
+  ]
+}

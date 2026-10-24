@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:rack_smoking",
+  "ingredient": {
+    "item": "minecraft:cobblestone"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:stone",
+    "count": 1
+  }
+}

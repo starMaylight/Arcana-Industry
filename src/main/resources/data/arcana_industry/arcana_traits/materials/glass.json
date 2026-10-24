@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:glass"
+  ],
+  "traits": {
+    "arcana_industry:crystalline": 1
+  }
+}

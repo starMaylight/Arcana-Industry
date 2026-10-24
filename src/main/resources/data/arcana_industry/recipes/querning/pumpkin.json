@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:querning",
+  "ingredient": {
+    "item": "minecraft:pumpkin"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:pumpkin_seeds",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 4,
+  "priority": 0
+}

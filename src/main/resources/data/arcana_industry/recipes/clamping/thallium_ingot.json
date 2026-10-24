@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/thallium"
+  },
+  "count": 7,
+  "result": {
+    "item": "minecraft:iron_horse_armor",
+    "count": 1
+  }
+}

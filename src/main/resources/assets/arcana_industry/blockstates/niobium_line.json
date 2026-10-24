@@ -1,0 +1,62 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "arcana_industry:block/niobium_line_core"
+      }
+    },
+    {
+      "when": {
+        "north": "link"
+      },
+      "apply": {
+        "model": "arcana_industry:block/niobium_line_arm"
+      }
+    },
+    {
+      "when": {
+        "east": "link"
+      },
+      "apply": {
+        "model": "arcana_industry:block/niobium_line_arm",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "link"
+      },
+      "apply": {
+        "model": "arcana_industry:block/niobium_line_arm",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "link"
+      },
+      "apply": {
+        "model": "arcana_industry:block/niobium_line_arm",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "link"
+      },
+      "apply": {
+        "model": "arcana_industry:block/niobium_line_arm",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "link"
+      },
+      "apply": {
+        "model": "arcana_industry:block/niobium_line_arm",
+        "x": 90
+      }
+    }
+  ]
+}

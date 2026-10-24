@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:iridescent",
+  "base": {
+    "item": "arcana_industry:concordance_seal"
+  },
+  "base_count": 2,
+  "reagent": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "reagent_count": 4,
+  "result": {
+    "item": "arcana_industry:iridescent_key"
+  }
+}

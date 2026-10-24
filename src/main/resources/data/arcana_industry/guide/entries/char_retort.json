@@ -1,0 +1,12 @@
+{
+  "title": "Char Retort",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 1",
+  "group": "Heat and firing",
+  "pages": [
+    "Craft the Char Retort from four iron ingots, two brick blocks, copper, a hopper and a Kiln. Rows: iron/copper/iron; bricks/Kiln/bricks; iron/hopper/iron. Char one bricks block into a Carbon Brick; it replaces the upper-left plain bricks block in the Ember Dryer craft.",
+    "The retort runs 21 charring recipes. Any log or stem (the minecraft:logs tag) gives two charcoal, and a bamboo block gives one. The other recipes are: two bones to black dye (bone black); cocoa to brown dye; kelp to dried kelp; podzol to coarse dirt; grass to dirt; mud to packed mud; nylium to netherrack; saplings to dead bushes; glow ink to ink; two gravel to flint; mossy stone bricks back to stone bricks; heat-cracked stone, nether, deepslate brick/tile and blackstone bricks; quartz block to smooth quartz; and bricks to the Carbon Brick gate material. Cocoa, kelp, deepslate bricks and quartz blocks are bulk jobs: four in, five out, better than a furnace. Each tick uses 8 FE, and a recipe takes 40-160 ticks. Feed FE through Forge energy or use the menu crank. A 22nd recipe chars two Carbon Face Blanks into two Carbon Seal Faces (160 ticks, 12 FE/t) for the Mechanical Face Seal; see the Phase Fermenter entry.",
+    "Top and horizontal faces import items; the bottom exports. Set any face Off, In or Out from the menu. Hoppers and Forge item handlers can automate input and output. The two slots, energy, progress and side settings persist on save/load; work pauses when the output is full.",
+    "Datapacks add charring recipes under data/<namespace>/recipes with type arcana_industry:charring, ingredient (item or tag), count, result, duration, energy_per_tick and optional priority. Higher priority wins, then ascending recipe ID. JEI shows inputs, outputs, time, FE and the Char Retort catalyst; JEI is optional."
+  ]
+}

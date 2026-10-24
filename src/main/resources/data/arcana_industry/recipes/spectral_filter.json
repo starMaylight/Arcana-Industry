@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XQP",
+    "ZCG",
+    "PRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "Q": {
+      "item": "arcana_industry:coated_interference_filter"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:prism_separator"
+    },
+    "X": {
+      "item": "arcana_industry:faceted_prism_seal"
+    },
+    "Z": {
+      "tag": "forge:ingots/rhodium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:spectral_filter"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:compaction",
+  "ingredient": {
+    "item": "minecraft:slime_ball"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:slime_block",
+    "count": 1
+  }
+}

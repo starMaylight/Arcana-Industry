@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:quartz_block",
+    "minecraft:smooth_quartz",
+    "minecraft:quartz_bricks"
+  ],
+  "traits": {
+    "arcana_industry:crystalline": 4,
+    "arcana_industry:resonant": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:stasis_weaving",
+  "ingredient": {
+    "item": "minecraft:nautilus_shell"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:heart_of_the_sea"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

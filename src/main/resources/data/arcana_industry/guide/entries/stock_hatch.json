@@ -1,0 +1,12 @@
+{
+  "title": "Stock Hatch",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 1",
+  "group": "Structure parts",
+  "pages": [
+    "Craft two Stock Hatches from four tin ingots (forge:ingots/tin), two zinc ingots (forge:ingots/zinc), a hopper and a redstone dust. A hatch is a frame part, not a machine: it has no recipes of its own and needs no FE or lumen.",
+    "Twelve stock-fed frames enclose their controller on all six faces: Arc Press, Armor Delaminator, Capacitor Array, Chromatic Kiln, Degauss Coil, Flux Rectifier, Induction Coiler, Magnetizer, Milling Gantry, Polarity Inverter, Signal Imprinter and Soaking Hearth. Place a hatch instead of any part that touches the controller face-to-face; the frame still forms with up to two hatches and must not have a third. Corner and outer parts cannot be replaced.",
+    "Automation: a hatch exposes a Forge item handler on every face that relays the controller face it covers, using that face's In/Out/Off mode. Hoppers, droppers and item pipes insert stock through a hatch on an In face, simulated inserts change nothing, and products are extracted from a hatch on an Out face (the base face starts as Out). Sneak-use a hatch with an empty hand to cycle the covered face; right-click it with an empty hand to collect products.",
+    "A hatch only relays while it touches exactly one formed controller; removing the hatch, the controller or any frame part closes the port and the controller keeps its saved buffers. Hatches hold no items themselves, so breaking one never drops stock."
+  ]
+}

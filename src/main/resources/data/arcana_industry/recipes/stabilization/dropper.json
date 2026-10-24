@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:stabilization",
+  "ingredient": {
+    "item": "minecraft:dropper"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

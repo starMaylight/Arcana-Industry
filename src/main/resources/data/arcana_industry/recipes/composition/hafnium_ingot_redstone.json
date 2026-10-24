@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "tag": "forge:ingots/hafnium"
+  },
+  "binder": {
+    "item": "minecraft:redstone"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:dispenser"
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

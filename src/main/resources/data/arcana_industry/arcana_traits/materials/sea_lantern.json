@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:sea_lantern"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 2,
+    "arcana_industry:crystalline": 2,
+    "arcana_industry:luminous": 4
+  }
+}

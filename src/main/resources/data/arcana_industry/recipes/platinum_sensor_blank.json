@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" C ", "PGP", " S "],
+  "key": {
+    "C": {"tag": "forge:ingots/copper"},
+    "P": {"tag": "forge:ingots/platinum"},
+    "G": {"item": "minecraft:glass_pane"},
+    "S": {"item": "arcana_industry:sealed_steel_plate"}
+  },
+  "result": {"item": "arcana_industry:platinum_sensor_blank"}
+}

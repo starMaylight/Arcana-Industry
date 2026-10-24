@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:scoring",
+  "ingredient": {
+    "item": "minecraft:redstone_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 9
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

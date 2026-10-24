@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:molding",
+  "ingredient": {
+    "item": "minecraft:iron_trapdoor"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:iron_nugget",
+    "count": 18
+  },
+  "duration": 100,
+  "energy_per_tick": 4,
+  "priority": 0
+}

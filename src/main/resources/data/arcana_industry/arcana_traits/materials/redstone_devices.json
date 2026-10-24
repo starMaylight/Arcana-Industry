@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "minecraft:observer"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 2,
+    "arcana_industry:luminous": 1
+  }
+}

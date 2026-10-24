@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IPI",
+    "SDS",
+    "IHI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:smooth_stone"
+    },
+    "D": {
+      "item": "arcana_industry:milled_dowel"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "P": {
+      "item": "arcana_industry:casting_pattern"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:mold_caster"
+  }
+}

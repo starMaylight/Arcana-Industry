@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:drying",
+  "ingredient": {
+    "item": "minecraft:beef"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:cooked_beef",
+    "count": 5
+  },
+  "duration": 80,
+  "energy_per_tick": 8
+}

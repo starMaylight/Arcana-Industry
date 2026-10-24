@@ -1,0 +1,111 @@
+{
+  "id": "arcana_industry:crimp_press",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/CrimpPressBlock.java",
+  "orientation": "fixed_world_axis",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:diamond_block"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:stonecutter"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:piston[facing=west]"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:piston[facing=east]"
+    },
+    {
+      "right": 1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:obsidian"
+    },
+    {
+      "right": -1,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:obsidian"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:chain"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:chain"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          "minecraft:iron_bars",
+          "."
+        ],
+        [
+          "minecraft:chain",
+          "minecraft:stonecutter",
+          "minecraft:chain"
+        ],
+        [
+          ".",
+          "minecraft:iron_bars",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          "minecraft:piston[facing=east]",
+          "[controller]",
+          "minecraft:piston[facing=west]"
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          "minecraft:obsidian",
+          "minecraft:diamond_block",
+          "minecraft:obsidian"
+        ]
+      ]
+    }
+  ],
+  "axis": "east_west_only"
+}
+

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/titanium"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:soul_lantern",
+    "count": 2
+  }
+}

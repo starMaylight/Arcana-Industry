@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:wire_drawing",
+  "ingredient": {
+    "tag": "forge:ingots/tungsten"
+  },
+  "count": 2,
+  "exhaustion": 2.0,
+  "result": {
+    "item": "minecraft:heavy_weighted_pressure_plate"
+  }
+}

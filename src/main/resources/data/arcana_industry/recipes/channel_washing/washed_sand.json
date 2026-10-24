@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:channel_washing",
+  "ingredient": {
+    "item": "minecraft:sand"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:clay_ball",
+    "count": 4
+  }
+}

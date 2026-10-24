@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:honeycomb_block"
+  ],
+  "traits": {
+    "arcana_industry:waxen": 3,
+    "arcana_industry:binding": 1
+  }
+}

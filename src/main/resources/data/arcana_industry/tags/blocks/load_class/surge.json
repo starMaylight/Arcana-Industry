@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "arcana_industry:containment_forge",
+    "arcana_industry:lattice_composer",
+    "arcana_industry:lattice_engraver",
+    "arcana_industry:lattice_infuser",
+    "arcana_industry:lattice_reclaimer",
+    "arcana_industry:lattice_scriber",
+    "arcana_industry:phase_annealer",
+    "arcana_industry:phase_collapser",
+    "arcana_industry:phase_conflux",
+    "arcana_industry:phase_diffuser",
+    "arcana_industry:phase_effuser",
+    "arcana_industry:phase_fermenter",
+    "arcana_industry:phase_inverter",
+    "arcana_industry:phase_modulator",
+    "arcana_industry:phase_preserver",
+    "arcana_industry:phase_reclaimer",
+    "arcana_industry:phase_refractor",
+    "arcana_industry:phase_revivifier",
+    "arcana_industry:phase_stabilizer",
+    "arcana_industry:phase_sublimator",
+    "arcana_industry:stasis_weaver"
+  ]
+}

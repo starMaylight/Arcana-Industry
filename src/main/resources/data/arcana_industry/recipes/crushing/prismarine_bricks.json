@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "minecraft:prismarine_bricks"
+  },
+  "result": {
+    "item": "minecraft:prismarine_shard",
+    "count": 4
+  },
+  "duration": 160,
+  "energy_per_tick": 4
+}

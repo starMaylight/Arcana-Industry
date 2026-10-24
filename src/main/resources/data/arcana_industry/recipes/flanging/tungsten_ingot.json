@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flanging",
+  "ingredient": {
+    "tag": "forge:ingots/tungsten"
+  },
+  "count": 31,
+  "result": {
+    "item": "minecraft:anvil",
+    "count": 1
+  }
+}

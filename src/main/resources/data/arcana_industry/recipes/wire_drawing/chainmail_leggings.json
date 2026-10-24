@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:wire_drawing",
+  "ingredient": {
+    "tag": "forge:ingots/chromium"
+  },
+  "count": 7,
+  "exhaustion": 3.6,
+  "result": {
+    "item": "minecraft:chainmail_leggings"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "arcana_industry:block/leaching_vat"
+    },
+    "active=true": {
+      "model": "arcana_industry:block/leaching_vat_active"
+    }
+  }
+}

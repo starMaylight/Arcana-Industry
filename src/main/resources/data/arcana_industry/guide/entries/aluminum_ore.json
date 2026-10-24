@@ -1,0 +1,11 @@
+{
+  "title": "Aluminum Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 1",
+  "group": "Common and base metals",
+  "pages": [
+    "Aluminum Ore and Deepslate Aluminum Ore generate in the Overworld between Y -16 and 96, a wide and common band (up to seven veins of size 7 per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Aluminum and Fortune can increase the yield. Required industrial use: rotary screen. Its craft consumes this ingot; compatible forge:ingots/aluminum inputs are accepted.",
+    "Smelt or blast Raw Aluminum into Aluminum Ingots. The Crusher processes one Raw Aluminum into two Aluminum Grit, each of which can be smelted or blasted into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability; furnace or blast furnace automation handles the grit.",
+    "Aluminum uses forge:ores/aluminum, forge:raw_materials/aluminum and forge:ingots/aluminum tags. Datapacks can add matching recipes. Aluminum Ingots are stored for later apparatus and material progression. The Pressure Press also consumes 5 forge:ingots/aluminum ingots to make one minecart; feed the input slot, supply 960 FE, and extract the finished item from an output face. The recipe takes 120 ticks."
+  ]
+}

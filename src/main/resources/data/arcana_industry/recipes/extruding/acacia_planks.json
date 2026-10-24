@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:extruding",
+  "ingredient": {
+    "item": "minecraft:acacia_planks"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:acacia_slab",
+    "count": 9
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

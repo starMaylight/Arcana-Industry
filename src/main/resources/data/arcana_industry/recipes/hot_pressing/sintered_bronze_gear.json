@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {
+    "item": "arcana_industry:green_gear_compact"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:sintered_bronze_gear",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 10
+}

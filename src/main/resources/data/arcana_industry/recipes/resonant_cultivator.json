@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GSG",
+    "AMA",
+    "GSG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "arcana_industry:signal_matrix"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "M": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:resonant_cultivator"
+  }
+}

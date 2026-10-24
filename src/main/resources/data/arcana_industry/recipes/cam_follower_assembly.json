@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" BC", "SKR", " PS"],
+  "key": {
+    "B": {"item": "arcana_industry:cylindrical_roller_bearing"},
+    "C": {"item": "arcana_industry:profile_ground_cam"},
+    "S": {"item": "arcana_industry:sealed_steel_plate"},
+    "K": {"item": "arcana_industry:shaft_key"},
+    "R": {"item": "arcana_industry:retaining_ring"},
+    "P": {"item": "minecraft:piston"}
+  },
+  "result": {"item": "arcana_industry:cam_follower_assembly"}
+}

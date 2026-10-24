@@ -1,0 +1,11 @@
+{
+  "title": "Platinum Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 1",
+  "group": "Precious and platinum-group metals",
+  "pages": [
+    "Platinum Ore and Deepslate Platinum Ore generate in the Overworld between the world floor (Y -64) and -24, one of the deepest and rarest veins (at most one vein of size 3 per chunk column). A diamond pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Platinum and Fortune can increase the yield. Required industrial use: flux rectifier. Its craft consumes this ingot; compatible forge:ingots/platinum inputs are accepted.",
+    "Smelt or blast Raw Platinum into Platinum Ingots. The Crusher processes one Raw Platinum into two Platinum Grit, each of which can be smelted or blasted into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability; furnace or blast furnace automation handles the grit.",
+    "Platinum uses forge:ores/platinum, forge:raw_materials/platinum and forge:ingots/platinum tags. Datapacks can add matching recipes. Platinum Ingots are stored for later apparatus and material progression. The Copper Hot Press also consumes 2 forge:ingots/platinum ingots to make one compass; insert from the top or sides, supply 1,680 FE, and extract the result below. The recipe takes 140 ticks."
+  ]
+}

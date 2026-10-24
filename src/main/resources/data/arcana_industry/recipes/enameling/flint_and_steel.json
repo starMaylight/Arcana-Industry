@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:flint"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/aluminum"
+  },
+  "result": {
+    "item": "minecraft:flint_and_steel"
+  }
+}

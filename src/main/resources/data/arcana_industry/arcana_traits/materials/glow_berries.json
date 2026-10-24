@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:glow_berries"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/molybdenum"
+  },
+  "count": 4,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 2,
+  "result": {
+    "item": "minecraft:iron_axe"
+  }
+}

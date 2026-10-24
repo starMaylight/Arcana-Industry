@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "arcana_industry:green_assay_crucible"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:assay_crucible",
+    "count": 1
+  },
+  "duration": 220,
+  "energy_per_tick": 14,
+  "priority": 0
+}

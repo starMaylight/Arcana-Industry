@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:rack_smoking",
+  "ingredient": {
+    "item": "minecraft:wet_sponge"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:sponge",
+    "count": 1
+  }
+}

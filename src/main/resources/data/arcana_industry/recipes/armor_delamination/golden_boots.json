@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:armor_delamination",
+  "ingredient": {
+    "item": "minecraft:golden_boots"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 16
+  }
+}

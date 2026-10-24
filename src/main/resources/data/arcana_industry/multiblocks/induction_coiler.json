@@ -1,0 +1,111 @@
+{
+  "id": "arcana_industry:induction_coiler",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/InductionCoilerBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:lightning_rod"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:glass"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:redstone_lamp"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:redstone_lamp"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:redstone_lamp"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:redstone_lamp"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:glass",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:redstone_lamp",
+          "."
+        ],
+        [
+          "minecraft:redstone_lamp",
+          "[controller]",
+          "minecraft:redstone_lamp"
+        ],
+        [
+          ".",
+          "minecraft:redstone_lamp",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:lightning_rod",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ],
+  "port_substitute": {
+    "block": "arcana_industry:stock_hatch",
+    "replaces": "any part touching the controller face-to-face",
+    "max": 2,
+    "relays": "the covered controller face's item port (In/Out/Off)"
+  }
+}

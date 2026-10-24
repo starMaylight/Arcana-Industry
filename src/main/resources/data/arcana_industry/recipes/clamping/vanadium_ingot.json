@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "tag": "forge:ingots/vanadium"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:blast_furnace",
+    "count": 1
+  }
+}

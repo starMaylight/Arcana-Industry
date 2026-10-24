@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GNG",
+    "NNN",
+    "GNG"
+  ],
+  "key": {
+    "G": {
+      "item": "arcana_industry:green_porcelain_insulator"
+    },
+    "N": {
+      "tag": "forge:ingots/niobium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:niobium_line",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:stasis_weaving",
+  "ingredient": {
+    "item": "minecraft:blaze_powder"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:blaze_rod"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

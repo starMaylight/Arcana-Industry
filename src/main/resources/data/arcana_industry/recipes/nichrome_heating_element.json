@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TST",
+    "WSW",
+    "CPC"
+  ],
+  "key": {
+    "T": {
+      "item": "arcana_industry:stainless_vessel_stock"
+    },
+    "S": {
+      "item": "arcana_industry:screened_silica"
+    },
+    "W": {
+      "item": "arcana_industry:nichrome_resistance_wire"
+    },
+    "C": {
+      "tag": "forge:ingots/copper"
+    },
+    "P": {
+      "item": "arcana_industry:porcelain_insulator"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:nichrome_heating_element"
+  }
+}

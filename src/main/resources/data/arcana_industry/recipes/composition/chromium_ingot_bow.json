@@ -1,0 +1,9 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": { "tag": "forge:ingots/chromium" },
+  "binder": { "item": "minecraft:bow" },
+  "count": 2,
+  "result": { "item": "minecraft:crossbow", "count": 1 },
+  "duration": 160,
+  "energy_per_tick": 24
+}

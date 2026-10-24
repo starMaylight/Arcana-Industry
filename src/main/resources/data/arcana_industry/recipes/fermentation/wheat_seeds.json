@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:fermentation",
+  "ingredient": {
+    "item": "minecraft:wheat_seeds"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 16
+}

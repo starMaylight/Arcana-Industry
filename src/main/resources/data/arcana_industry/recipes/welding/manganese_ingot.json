@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:welding",
+  "ingredient": {
+    "tag": "forge:ingots/manganese"
+  },
+  "count": 3,
+  "result": {
+    "item": "minecraft:rail",
+    "count": 8
+  },
+  "duration": 160,
+  "energy_per_tick": 22
+}

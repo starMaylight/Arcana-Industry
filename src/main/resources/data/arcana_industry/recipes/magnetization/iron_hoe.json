@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:magnetization",
+  "ingredient": {
+    "item": "minecraft:iron_hoe"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:shears",
+    "count": 1
+  }
+}

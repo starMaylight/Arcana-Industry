@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:containment",
+  "ingredient": {
+    "item": "minecraft:gunpowder"
+  },
+  "count": 5,
+  "result": {
+    "item": "minecraft:tnt",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": {
+    "item": "minecraft:activator_rail"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:iron_bars",
+    "count": 4
+  }
+}

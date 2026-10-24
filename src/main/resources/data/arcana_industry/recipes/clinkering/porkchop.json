@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "minecraft:porkchop"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:cooked_porkchop",
+    "count": 5
+  },
+  "duration": 120,
+  "energy_per_tick": 8,
+  "priority": 0
+}

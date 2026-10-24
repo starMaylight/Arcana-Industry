@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:fusing",
+  "ingredient": {
+    "item": "minecraft:raw_iron"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:iron_nugget",
+    "count": 8
+  },
+  "duration": 120,
+  "energy_per_tick": 16,
+  "lumen_per_tick": 4
+}

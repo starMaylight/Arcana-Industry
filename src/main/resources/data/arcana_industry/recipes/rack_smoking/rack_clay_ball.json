@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:rack_smoking",
+  "ingredient": {
+    "item": "minecraft:clay_ball"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:brick",
+    "count": 1
+  }
+}

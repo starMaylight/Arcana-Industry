@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:flint"
+  },
+  "count": 2,
+  "reagent": {
+    "tag": "forge:ingots/manganese"
+  },
+  "result": {
+    "item": "minecraft:shears"
+  }
+}

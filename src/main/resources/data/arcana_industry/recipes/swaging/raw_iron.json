@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:swaging",
+  "ingredient": {
+    "item": "minecraft:raw_iron"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:raw_iron_block",
+    "count": 1
+  }
+}

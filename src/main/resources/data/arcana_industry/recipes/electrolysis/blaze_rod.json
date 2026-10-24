@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:electrolysis",
+  "ingredient": {
+    "item": "minecraft:blaze_rod"
+  },
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "minecraft:blaze_powder",
+    "count": 3
+  },
+  "duration": 120,
+  "energy_per_tick": 12
+}

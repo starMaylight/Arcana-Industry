@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PKP",
+    "GCG",
+    "VRP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "K": {
+      "item": "arcana_industry:collapsed_phase"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:phase_collapser"
+    },
+    "V": {
+      "item": "arcana_industry:rated_pressure_shell"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_sublimator"
+  }
+}

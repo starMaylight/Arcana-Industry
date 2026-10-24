@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "minecraft:amethyst_block"
+  },
+  "result": {
+    "item": "minecraft:amethyst_shard",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 4
+}

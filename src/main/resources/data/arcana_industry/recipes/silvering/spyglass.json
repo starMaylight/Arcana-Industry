@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/germanium"
+  },
+  "result": {
+    "item": "minecraft:spyglass"
+  }
+}

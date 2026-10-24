@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:crimping",
+  "ingredient": {
+    "tag": "forge:ingots/hafnium"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:iron_trapdoor",
+    "count": 1
+  }
+}

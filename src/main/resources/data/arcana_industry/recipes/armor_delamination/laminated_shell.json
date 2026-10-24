@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:armor_delamination",
+  "ingredient": {
+    "item": "arcana_industry:degaussed_armature"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:laminated_shell",
+    "count": 1
+  }
+}

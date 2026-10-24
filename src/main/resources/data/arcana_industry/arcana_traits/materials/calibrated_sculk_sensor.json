@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:calibrated_sculk_sensor"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 5
+  }
+}

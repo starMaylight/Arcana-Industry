@@ -1,0 +1,10 @@
+{
+  "type": "arcana_industry:heraldic_weaving",
+  "ingredient": {
+    "item": "minecraft:gray_dye"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:gray_banner"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:seaming",
+  "ingredient": {
+    "item": "minecraft:redstone_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 9
+  }
+}

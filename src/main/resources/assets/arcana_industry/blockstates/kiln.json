@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "arcana_industry:block/kiln"
+    },
+    "lit=true": {
+      "model": "arcana_industry:block/kiln_lit"
+    }
+  }
+}

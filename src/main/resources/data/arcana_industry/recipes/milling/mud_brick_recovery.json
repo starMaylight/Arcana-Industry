@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:milling",
+  "ingredient": {
+    "item": "minecraft:mud_bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:packed_mud",
+    "count": 1
+  }
+}

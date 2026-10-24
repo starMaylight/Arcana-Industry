@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:resonating",
+  "ingredient": {
+    "item": "minecraft:sculk"
+  },
+  "count": 12,
+  "result": {
+    "item": "minecraft:echo_shard",
+    "count": 1
+  },
+  "duration": 240,
+  "energy_per_tick": 24
+}

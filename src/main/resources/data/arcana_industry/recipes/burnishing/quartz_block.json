@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:burnishing",
+  "ingredient": {
+    "item": "minecraft:quartz_block"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:smooth_quartz",
+    "count": 5
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

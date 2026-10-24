@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:confluence",
+  "ingredient": {
+    "item": "minecraft:purple_concrete_powder"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:purple_glazed_terracotta",
+    "count": 1
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

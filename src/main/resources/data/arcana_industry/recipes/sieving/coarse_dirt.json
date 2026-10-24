@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:sieving",
+  "ingredient": {
+    "item": "minecraft:coarse_dirt"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:gold_grit",
+    "count": 1
+  },
+  "duration": 80,
+  "energy_per_tick": 2
+}

@@ -1,0 +1,10 @@
+{
+  "items": [
+    "arcana_industry:concordance_seal"
+  ],
+  "traits": {
+    "arcana_industry:binding": 3,
+    "arcana_industry:resonant": 2,
+    "arcana_industry:crystalline": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:condensing",
+  "ingredient": {
+    "item": "minecraft:nether_wart"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

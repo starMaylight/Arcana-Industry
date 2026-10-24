@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:verdant_distillation",
+  "ingredient": {
+    "item": "minecraft:cocoa_beans"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:brown_dye",
+    "count": 12
+  }
+}

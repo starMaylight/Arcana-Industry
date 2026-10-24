@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:amethyst_cluster"
+  ],
+  "traits": {
+    "arcana_industry:resonant": 3,
+    "arcana_industry:crystalline": 3
+  }
+}

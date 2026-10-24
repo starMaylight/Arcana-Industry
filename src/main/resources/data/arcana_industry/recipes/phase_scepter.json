@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CHC",
+    "SWS",
+    " P "
+  ],
+  "key": {
+    "H": {
+      "item": "arcana_industry:phase_heart"
+    },
+    "C": {
+      "item": "arcana_industry:phase_coil"
+    },
+    "S": {
+      "item": "arcana_industry:ripened_phase"
+    },
+    "W": {
+      "item": "arcana_industry:astral_wand"
+    },
+    "P": {
+      "item": "arcana_industry:phase_reclaimer"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_scepter",
+    "count": 1
+  }
+}

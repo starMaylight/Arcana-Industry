@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DZD",
+    "IGI",
+    "DID"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "G": {
+      "item": "arcana_industry:tempered_steel"
+    },
+    "Z": {
+      "tag": "forge:ingots/molybdenum"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:hydraulic_riveter"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lattice_engraving",
+  "ingredient": {
+    "item": "minecraft:deepslate_tiles"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:chiseled_deepslate"
+  },
+  "duration": 80,
+  "energy_per_tick": 20
+}

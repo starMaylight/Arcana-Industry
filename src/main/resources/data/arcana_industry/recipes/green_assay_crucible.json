@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "CKC",
+    "SCS"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "K": {
+      "tag": "minecraft:coals"
+    },
+    "S": {
+      "item": "arcana_industry:screened_silica"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:green_assay_crucible"
+  }
+}

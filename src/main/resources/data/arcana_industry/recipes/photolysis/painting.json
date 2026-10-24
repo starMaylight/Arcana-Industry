@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:photolysis",
+  "ingredient": {
+    "item": "minecraft:painting"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  },
+  "duration": 160,
+  "energy_per_tick": 20
+}

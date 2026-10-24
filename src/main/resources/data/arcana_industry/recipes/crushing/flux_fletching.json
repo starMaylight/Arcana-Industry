@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "arcana_industry:flux_fletching"
+  },
+  "result": {
+    "item": "arcana_industry:gold_grit",
+    "count": 2
+  },
+  "duration": 160,
+  "energy_per_tick": 4
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:refraction",
+  "ingredient": {
+    "item": "minecraft:jack_o_lantern"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:carved_pumpkin",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 20
+}

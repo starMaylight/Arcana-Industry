@@ -1,0 +1,6 @@
+{
+  "type": "arcana_industry:milling",
+  "ingredient": {"item": "arcana_industry:tool_steel_stock"},
+  "count": 1,
+  "result": {"item": "arcana_industry:governor_flyweight", "count": 2}
+}

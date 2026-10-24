@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:induction_winding",
+  "ingredient": {
+    "tag": "forge:raw_materials/vanadium"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:vanadium_ingot",
+    "count": 3
+  }
+}

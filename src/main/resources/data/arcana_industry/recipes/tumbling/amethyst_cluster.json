@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:tumbling",
+  "ingredient": {
+    "item": "minecraft:amethyst_cluster"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:amethyst_shard",
+    "count": 4
+  },
+  "duration": 160,
+  "energy_per_tick": 28
+}

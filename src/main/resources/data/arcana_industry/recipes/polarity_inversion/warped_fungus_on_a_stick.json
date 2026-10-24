@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:polarity_inversion",
+  "ingredient": {
+    "item": "minecraft:warped_fungus_on_a_stick"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:warped_fungus",
+    "count": 1
+  }
+}

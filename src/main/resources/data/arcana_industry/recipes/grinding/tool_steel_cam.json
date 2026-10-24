@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:grinding",
+  "ingredient": {"item": "arcana_industry:cam_blank"},
+  "count": 1,
+  "result": {"item": "arcana_industry:profile_ground_cam"},
+  "duration": 220,
+  "energy_per_tick": 18
+}

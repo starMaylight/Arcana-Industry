@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:welding",
+  "ingredient": {
+    "tag": "forge:ingots/ruthenium"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:iron_door",
+    "count": 3
+  },
+  "duration": 180,
+  "energy_per_tick": 22
+}

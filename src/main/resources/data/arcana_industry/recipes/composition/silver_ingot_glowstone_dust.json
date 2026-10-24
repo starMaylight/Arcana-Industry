@@ -1,0 +1,9 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": { "tag": "forge:ingots/silver" },
+  "binder": { "item": "minecraft:glowstone_dust" },
+  "count": 2,
+  "result": { "item": "minecraft:soul_lantern" },
+  "duration": 160,
+  "energy_per_tick": 24
+}

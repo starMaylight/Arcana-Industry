@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 3
+  },
+  "duration": 200,
+  "temperature": 300
+}

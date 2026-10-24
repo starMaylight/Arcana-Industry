@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:charring",
+  "ingredient": {
+    "item": "arcana_industry:carbon_face_blank"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:carbon_seal_face",
+    "count": 2
+  },
+  "duration": 160,
+  "energy_per_tick": 12,
+  "priority": 0
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Silver Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 2",
+  "group": "Precious and platinum-group metals",
+  "pages": [
+    "Silver Ore and Deepslate Silver Ore generate in the Overworld between Y -64 and 8, deeper and rarer than Nickel. An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Silver and Fortune can increase the yield. Required industrial use: induction coiler. Its craft consumes this ingot; compatible forge:ingots/silver inputs are accepted.",
+    "Smelt or blast Raw Silver into Silver Ingots. The Crusher processes one Raw Silver into two Silver Grit, each of which can be smelted or blasted into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability; furnace or blast furnace automation handles the grit.",
+    "Silver uses forge:ores/silver, forge:raw_materials/silver and forge:ingots/silver tags. Datapacks can add matching recipes. Silver Ingots are stored for later apparatus and material progression. The Pressure Press also consumes 2 forge:ingots/silver ingots to make one light weighted pressure plate; feed the input slot, supply 960 FE, and extract the finished item from an output face. The recipe takes 120 ticks."
+  ]
+}

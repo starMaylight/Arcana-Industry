@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:annealing",
+  "ingredient": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "focus": {
+    "item": "arcana_industry:phase_lattice"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:prismarine_crystals",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 32
+}

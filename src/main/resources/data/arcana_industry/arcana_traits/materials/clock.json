@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:clock"
+  ],
+  "traits": {
+    "arcana_industry:heavy": 1,
+    "arcana_industry:resonant": 2
+  }
+}

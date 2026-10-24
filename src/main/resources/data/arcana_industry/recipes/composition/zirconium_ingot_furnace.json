@@ -1,0 +1,16 @@
+{
+  "type": "arcana_industry:composition",
+  "ingredient": {
+    "tag": "forge:ingots/zirconium"
+  },
+  "binder": {
+    "item": "minecraft:furnace"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:blast_furnace",
+    "count": 1
+  },
+  "duration": 160,
+  "energy_per_tick": 24
+}

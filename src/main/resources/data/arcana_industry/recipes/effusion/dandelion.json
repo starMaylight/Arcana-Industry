@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:effusion",
+  "ingredient": {
+    "item": "minecraft:dandelion"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:yellow_dye",
+    "count": 2
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XKP",
+    "ZCG",
+    "PRS"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "K": {
+      "item": "arcana_industry:prism_core"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:lattice_composer"
+    },
+    "S": {
+      "item": "arcana_industry:stasis_core"
+    },
+    "X": {
+      "item": "arcana_industry:static_o_ring"
+    },
+    "Z": {
+      "tag": "forge:ingots/niobium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:containment_forge"
+  }
+}

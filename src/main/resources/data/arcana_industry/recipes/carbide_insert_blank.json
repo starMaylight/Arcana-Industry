@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "arcana_industry:carbide_powder_blend"},
+    {"item": "arcana_industry:carbide_powder_blend"},
+    {"item": "minecraft:iron_nugget"}
+  ],
+  "result": {"item": "arcana_industry:carbide_insert_blank"}
+}

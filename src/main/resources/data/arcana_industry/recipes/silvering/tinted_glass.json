@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:glass"
+  },
+  "count": 4,
+  "reagent": {
+    "tag": "forge:ingots/indium"
+  },
+  "result": {
+    "item": "minecraft:tinted_glass",
+    "count": 4
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/platinum"
+  },
+  "count": 3,
+  "levels": 2,
+  "result": {
+    "item": "arcana_industry:platinum_ingot",
+    "count": 2
+  },
+  "byproduct": {
+    "item": "arcana_industry:palladium_ingot"
+  }
+}

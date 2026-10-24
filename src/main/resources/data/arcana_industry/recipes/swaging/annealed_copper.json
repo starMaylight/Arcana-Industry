@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:swaging",
+  "ingredient": {
+    "item": "arcana_industry:annealed_copper"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:swaged_fitting",
+    "count": 1
+  }
+}

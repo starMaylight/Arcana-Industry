@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:induction_winding",
+  "ingredient": {
+    "tag": "forge:raw_materials/tantalum"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:tantalum_ingot",
+    "count": 3
+  }
+}

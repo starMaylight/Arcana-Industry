@@ -1,0 +1,12 @@
+{
+  "title": "Prismatic Press",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 3",
+  "group": "Pressing and forming",
+  "pages": [
+    "Craft the Prismatic Press with iron, pistons, quartz, amethyst and Prismatic Glaze from the Chromatic Kiln. Reclaim two Prismatic Glazes into a Refracted Matrix required in the Electrolyzer craft.",
+    "Place quartz below, an iron block above, pistons north and south, and amethyst blocks east and west. All six neighbors must remain in place. Right-click with a full input batch; broken arms stop production.",
+    "Eight panes reclaim three matching glass blocks in each of sixteen colors; the yield avoids a loop with vanilla pane crafting. Four more batches reclaim stone brick, quartz, sandstone and prismarine slabs into full blocks. A fusion batch compresses two Prismatic Glazes into a Refracted Matrix for the next t5 controller.",
+    "For automation, insert recipe ingredients from the top or a horizontal face and extract finished batches from below with a hopper or item pipe. The two-slot buffer persists on unload and drops contents if broken. A full output slot pauses processing; broken structure arms also pause it. Hand feeding remains available. No FE or fluid port is used. JEI shows loaded batches; matching ties resolve by resource ID."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:sawing",
+  "ingredient": {
+    "tag": "minecraft:wooden_doors"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:milled_dowel",
+    "count": 4
+  },
+  "duration": 90,
+  "energy_per_tick": 4,
+  "priority": 0
+}

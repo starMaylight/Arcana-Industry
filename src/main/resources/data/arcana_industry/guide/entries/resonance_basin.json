@@ -1,0 +1,11 @@
+{
+  "title": "Resonance Basin",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 4",
+  "group": "Resonance",
+  "pages": [
+    "Craft the controller from four sealed steel plates, two amethyst shards, two Clamping Press-made pressure gaskets either side of a stonecutter. Place source water below it and amethyst against north, east and west faces, plus one amethyst two blocks south, leaving the south controller face open for output. Keep the water source below.",
+    "Right-click the formed controller with one recipe batch, usually four matching items. This loads one batch into the basin; processing takes 40 ticks. A second hand batch is refused while stock is loaded. Use an empty hand to collect the finished output. Four amethyst shards become one harmonic lens, needed for the Resonance Infuser. Cobblestone, cobbled deepslate and blackstone become bricks. Stone, basalt, granite, diorite and andesite yield refined building blocks; most refining cuts turn four blocks into five, while cut sandstone, deepslate bricks and end stone bricks stay four-for-four because another machine reverses them; sandstone, quartz, prismarine, end stone, purpur, copper and mud gain cut forms. Four prismarine yield one prismarine brick; crushing that brick recovers nine shards, less than the sixteen shards needed to press the four prismarine. Brick outputs can be cut again into chiseled variants; four polished blackstone bricks give four chiseled blocks, and the Phase Modulator only reverses them 1:1. Breaking an arm or draining the water pauses processing.",
+    "The basin reads datapack arcana_industry:resonance_cutting recipes with ingredient, count and result; it has 20 distinct cutting batches. For automation, feed batches from a hopper or Forge item pipe above the controller. Sneak-right-click its exposed south face with an empty hand once to set output, then extract there with a hopper or pipe. The basin buffers one input stack and one output stack, processes a batch in 40 ticks while formed, and pauses when an arm or the water source is missing. Sneak-right-click again to disable the face; empty-hand use collects buffered output. No FE is required. JEI lists all loaded recipes and the basin catalyst."
+  ]
+}

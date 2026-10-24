@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SAS",
+    "GRG",
+    "SPS"
+  ],
+  "key": {
+    "S": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "R": {
+      "item": "arcana_industry:revived_phase"
+    },
+    "P": {
+      "item": "arcana_industry:phase_coil"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_refractor"
+  }
+}

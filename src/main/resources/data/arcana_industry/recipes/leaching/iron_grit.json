@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:leaching",
+  "ingredient": {
+    "item": "arcana_industry:iron_grit"
+  },
+  "count": 4,
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 5
+  },
+  "duration": 100,
+  "energy_per_tick": 8
+}

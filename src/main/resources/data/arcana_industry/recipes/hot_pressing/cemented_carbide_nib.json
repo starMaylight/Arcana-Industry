@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:hot_pressing",
+  "ingredient": {
+    "item": "arcana_industry:carbide_powder_blend"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:cemented_carbide_nib",
+    "count": 1
+  },
+  "duration": 240,
+  "energy_per_tick": 16
+}

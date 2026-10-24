@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:reliquary_binding",
+  "ingredient": {
+    "item": "arcana_industry:indium_grit"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:indium_ingot",
+    "count": 3
+  }
+}

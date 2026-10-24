@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:screening",
+  "ingredient": {
+    "item": "minecraft:sea_lantern"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:prismarine_crystals",
+    "count": 2
+  }
+}

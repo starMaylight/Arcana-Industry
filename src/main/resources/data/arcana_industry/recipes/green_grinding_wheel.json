@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FAF",
+    "ACA",
+    "FAF"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "A": {
+      "item": "arcana_industry:aluminum_grit"
+    },
+    "C": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:green_grinding_wheel"
+  }
+}

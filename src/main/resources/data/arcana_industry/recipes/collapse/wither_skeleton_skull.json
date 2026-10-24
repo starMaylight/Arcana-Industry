@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collapse",
+  "ingredient": {
+    "item": "minecraft:wither_skeleton_skull"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:soul_sand",
+    "count": 8
+  },
+  "duration": 150,
+  "energy_per_tick": 20
+}

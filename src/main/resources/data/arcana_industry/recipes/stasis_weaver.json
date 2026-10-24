@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PKP",
+    "GCG",
+    "PRS"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "K": {
+      "item": "arcana_industry:prism_core"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "arcana_industry:collimated_lens"
+    },
+    "S": {
+      "item": "arcana_industry:etched_prism"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:stasis_weaver"
+  }
+}

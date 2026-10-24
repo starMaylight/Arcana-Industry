@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:quenching",
+  "ingredient": {
+    "item": "minecraft:basalt"
+  },
+  "count": 4,
+  "fluid": "minecraft:water",
+  "fluid_amount": 250,
+  "result": {
+    "item": "minecraft:smooth_basalt",
+    "count": 5
+  },
+  "duration": 100,
+  "energy_per_tick": 6
+}

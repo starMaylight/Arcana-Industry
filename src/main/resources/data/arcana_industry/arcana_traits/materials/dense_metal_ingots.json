@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "forge:ingots/antimony",
+    "forge:ingots/bismuth",
+    "forge:ingots/chromium",
+    "forge:ingots/cobalt",
+    "forge:ingots/gallium",
+    "forge:ingots/germanium",
+    "forge:ingots/hafnium",
+    "forge:ingots/indium",
+    "forge:ingots/iridium",
+    "forge:ingots/lead",
+    "forge:ingots/manganese",
+    "forge:ingots/molybdenum",
+    "forge:ingots/nickel",
+    "forge:ingots/niobium",
+    "forge:ingots/osmium",
+    "forge:ingots/palladium",
+    "forge:ingots/platinum",
+    "forge:ingots/rhenium",
+    "forge:ingots/rhodium",
+    "forge:ingots/ruthenium",
+    "forge:ingots/silver",
+    "forge:ingots/tantalum",
+    "forge:ingots/thallium",
+    "forge:ingots/tin",
+    "forge:ingots/tungsten",
+    "forge:ingots/vanadium",
+    "forge:ingots/zinc",
+    "forge:ingots/zirconium"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 2,
+    "arcana_industry:heavy": 2
+  }
+}

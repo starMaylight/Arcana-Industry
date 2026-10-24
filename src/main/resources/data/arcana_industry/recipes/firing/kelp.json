@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "minecraft:kelp"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:dried_kelp",
+    "count": 5
+  },
+  "duration": 180,
+  "temperature": 200
+}

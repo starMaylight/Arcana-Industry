@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:scoring",
+  "ingredient": {
+    "item": "minecraft:slime_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 9
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

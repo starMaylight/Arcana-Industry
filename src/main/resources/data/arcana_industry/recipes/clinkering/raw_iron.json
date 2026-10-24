@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "minecraft:raw_iron"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 5
+  },
+  "duration": 120,
+  "energy_per_tick": 8,
+  "priority": 0
+}

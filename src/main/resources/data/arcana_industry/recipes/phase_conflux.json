@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MSP",
+    "GCG",
+    "EFY"
+  ],
+  "key": {
+    "M": {
+      "item": "arcana_industry:modulated_phase"
+    },
+    "S": {
+      "item": "arcana_industry:stabilized_phase"
+    },
+    "P": {
+      "item": "arcana_industry:preserved_phase"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    },
+    "E": {
+      "item": "arcana_industry:effused_phase"
+    },
+    "F": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "Y": {
+      "item": "arcana_industry:phase_effuser"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:phase_conflux"
+  }
+}

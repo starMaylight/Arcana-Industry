@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:etching",
+  "ingredient": {
+    "item": "minecraft:quartz"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:daylight_detector",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

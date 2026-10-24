@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IZI",
+    "CRC",
+    "NCN"
+  ],
+  "key": {
+    "I": {
+      "item": "arcana_industry:porcelain_insulator"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "arcana_industry:conductive_crystal"
+    },
+    "Z": {
+      "tag": "forge:ingots/iridium"
+    },
+    "N": {
+      "item": "arcana_industry:broached_pin"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:arc_press"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:fusing",
+  "ingredient": {
+    "item": "minecraft:emerald"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:lime_dye",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 16,
+  "lumen_per_tick": 4
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:sieving",
+  "ingredient": {
+    "item": "minecraft:end_stone"
+  },
+  "count": 5,
+  "result": {
+    "item": "arcana_industry:raw_cobalt",
+    "count": 1
+  },
+  "duration": 220,
+  "energy_per_tick": 4
+}

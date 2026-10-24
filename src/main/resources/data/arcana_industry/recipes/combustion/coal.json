@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "count": 4,
+  "residue": {
+    "item": "arcana_industry:temper_ash",
+    "count": 1
+  },
+  "burn_time": 6400,
+  "energy_per_tick": 20,
+  "priority": 0
+}

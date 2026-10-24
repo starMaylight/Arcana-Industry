@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/chromium"
+  },
+  "count": 3,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 2,
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 2
+  }
+}

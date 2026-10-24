@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:scoring",
+  "ingredient": {
+    "item": "minecraft:honeycomb_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:honeycomb",
+    "count": 4
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

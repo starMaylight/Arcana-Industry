@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "minecraft:cobblestone"
+  },
+  "result": {
+    "item": "minecraft:gravel",
+    "count": 1
+  },
+  "duration": 60,
+  "energy_per_tick": 4
+}

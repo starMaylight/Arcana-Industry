@@ -1,0 +1,13 @@
+{
+  "title": "Phase Refractor",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 9",
+  "group": "Phase works",
+  "pages": [
+    "A tier-9 optics machine. Craft it from one Revived Phase, one amethyst shard, one phase coil, two glass panes and four sealed steel plates. The Revived Phase comes from the Phase Revivifier, so the Refractor follows it.",
+    "Put one item in the left slot; take the result from the right. Refraction of Revived Phase makes Refracted Phase (200 ticks, 32 FE/t). The Phase Scepter requires two Refracted Phase, making this machine mandatory for the capstone.",
+    "Its other nineteen datapack recipes reclaim amethyst and quartz, prismarine, glowstone and redstone components from light-bearing blocks, recover lantern iron and blaze rods, and reshape glass into four panes. Some need several inputs: five end rods per blaze rod (one blaze rod crafts only four, so this never duplicates rods), two crying obsidian for two glowstone dust, two tinted glass for three shards, two redstone lamps for four redstone. This salvage loses material on most inputs; it does not duplicate a crafted block. JEI shows inputs, outputs, duration, FE and priority. Datapack type arcana_industry:refraction accepts ingredient, count, result, duration, energy_per_tick and optional priority.",
+    "Material traits: refraction splits the light an input already carries and adds none. The product's arcane traits must be covered by count x the input's traits, so Refracted Phase keeps the luminous and resonant signature of Revived Phase. A datapack row whose product needs traits the input lacks (for example one end rod, fire 1, into a blaze rod, fire 3) pauses with the status 'Product traits not in input or field' and spends no FE.",
+    "Automation: top and horizontal sides insert, bottom extracts. Use the menu buttons to change per-face modes. Supply Forge FE or crank manually. A blocked output pauses work. Inventory, FE, progress and side modes save across unload; breaking the block drops both slots."
+  ]
+}

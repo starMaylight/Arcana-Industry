@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "BRB",
+    " G "
+  ],
+  "key": {
+    "T": {
+      "item": "arcana_industry:tempered_steel"
+    },
+    "B": {
+      "item": "arcana_industry:bearing_ball"
+    },
+    "R": {
+      "item": "arcana_industry:hardened_guide_rail"
+    },
+    "G": {
+      "item": "arcana_industry:pressure_gasket"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:linear_guide"
+  }
+}

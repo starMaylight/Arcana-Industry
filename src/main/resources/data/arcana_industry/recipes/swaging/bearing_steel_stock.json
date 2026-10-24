@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:swaging",
+  "ingredient": {
+    "item": "arcana_industry:bearing_steel_stock"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:bearing_race_blank",
+    "count": 2
+  }
+}

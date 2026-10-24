@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:scoring",
+  "ingredient": {
+    "item": "arcana_industry:attuned_quartz"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:scored_prism_blank",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

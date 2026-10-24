@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "TST",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:ingots/copper"
+    },
+    "T": {
+      "tag": "forge:ingots/tin"
+    },
+    "S": {
+      "item": "arcana_industry:bearing_grease"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:labyrinth_seal",
+    "count": 2
+  }
+}

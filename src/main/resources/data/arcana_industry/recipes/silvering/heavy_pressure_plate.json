@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:silvering",
+  "ingredient": {
+    "item": "minecraft:stone_pressure_plate"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/lead"
+  },
+  "result": {
+    "item": "minecraft:heavy_weighted_pressure_plate"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:resonating",
+  "ingredient": {
+    "item": "minecraft:amethyst_block"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:tinted_glass",
+    "count": 3
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

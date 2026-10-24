@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:induction_winding",
+  "ingredient": {
+    "tag": "forge:raw_materials/lead"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:lead_ingot",
+    "count": 3
+  }
+}

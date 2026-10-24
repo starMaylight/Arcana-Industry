@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "AAA",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "arcana_industry:green_porcelain_insulator"
+    },
+    "A": {
+      "tag": "forge:ingots/aluminum"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:aluminum_cable",
+    "count": 6
+  }
+}

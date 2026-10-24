@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PFP",
+    "BWB",
+    "PFP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:oak_planks"
+    },
+    "F": {
+      "item": "arcana_industry:lumen_filament"
+    },
+    "B": {
+      "item": "minecraft:white_banner"
+    },
+    "W": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:heraldic_frame"
+  }
+}

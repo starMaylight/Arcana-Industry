@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "minecraft:terracotta"
+  },
+  "result": {
+    "item": "minecraft:clay_ball",
+    "count": 4
+  },
+  "duration": 160,
+  "energy_per_tick": 4
+}

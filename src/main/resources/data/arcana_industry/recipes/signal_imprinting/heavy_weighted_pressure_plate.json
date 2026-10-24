@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:signal_imprinting",
+  "ingredient": {
+    "item": "minecraft:iron_block"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:heavy_weighted_pressure_plate",
+    "count": 1
+  }
+}

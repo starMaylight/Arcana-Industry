@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:rack_smoking",
+  "ingredient": {
+    "item": "minecraft:white_wool"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:creosote_lagging",
+    "count": 1
+  }
+}

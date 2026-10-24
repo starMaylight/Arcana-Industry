@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:solar_smelting",
+  "ingredient": {
+    "item": "arcana_industry:manganese_grit"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:manganese_ingot",
+    "count": 5
+  },
+  "duration": 160,
+  "energy_per_tick": 20
+}

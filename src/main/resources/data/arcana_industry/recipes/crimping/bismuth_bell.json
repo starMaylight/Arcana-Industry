@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:crimping",
+  "ingredient": {
+    "tag": "forge:ingots/bismuth"
+  },
+  "count": 7,
+  "result": {
+    "item": "minecraft:bell",
+    "count": 1
+  }
+}

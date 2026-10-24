@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:induction_winding",
+  "ingredient": {
+    "tag": "forge:raw_materials/manganese"
+  },
+  "count": 2,
+  "result": {
+    "item": "arcana_industry:manganese_ingot",
+    "count": 3
+  }
+}

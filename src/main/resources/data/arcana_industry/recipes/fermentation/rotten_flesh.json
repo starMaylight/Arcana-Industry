@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:fermentation",
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:leather",
+    "count": 1
+  },
+  "duration": 200,
+  "energy_per_tick": 24
+}

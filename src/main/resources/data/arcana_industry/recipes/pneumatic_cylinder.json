@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["STS", "GPA", "SRS"],
+  "key": {
+    "S": {"item": "arcana_industry:sealed_steel_plate"},
+    "T": {"item": "minecraft:iron_bars"},
+    "G": {"item": "arcana_industry:pressure_gasket"},
+    "P": {"item": "minecraft:sticky_piston"},
+    "A": {"item": "minecraft:glass_pane"},
+    "R": {"item": "minecraft:redstone"}
+  },
+  "result": {"item": "arcana_industry:pneumatic_cylinder"}
+}

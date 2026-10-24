@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:chiseled_stone_bricks"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/iridium"
+  },
+  "result": {
+    "item": "minecraft:lodestone"
+  }
+}

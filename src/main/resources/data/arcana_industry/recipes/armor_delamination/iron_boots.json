@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:armor_delamination",
+  "ingredient": {
+    "item": "minecraft:iron_boots"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:iron_bars",
+    "count": 5
+  }
+}

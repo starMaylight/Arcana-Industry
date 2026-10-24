@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:relaying",
+  "ingredient": {
+    "item": "minecraft:rail"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:powered_rail",
+    "count": 4
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

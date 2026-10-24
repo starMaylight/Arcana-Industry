@@ -1,0 +1,13 @@
+{
+  "title": "Corona Collector",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 5",
+  "group": "Solar and optics",
+  "pages": [
+    "Craft this t5 apparatus (needed before the Heliostat Etcher) from two sealed steel plates, attuned quartz, two optic powder, a spyglass and a resonance infuser. This is a plain FE machine: no daylight, redstone or lumen condition gates it. Its upper-left plate is now Solar Foil from the Solar Photolyzer. Its bottom-left slot takes a Flyweight Governor, the constant-rate clock drive that keeps the collector turning with the sun: mill one Tool Steel Stock into two Governor Flyweights at the Milling Gantry, then craft a Coil Spring (top centre, the speeder spring), the two flyweights either side of a Drawn Iron Rod spindle (middle row) and a Bevel Gear Pair (bottom centre) that takes the drive at right angles. When the drive overspeeds, the flyweights swing out against the spring and lift the sleeve to throttle it. A bare sealed plate, a loose flyweight or the unassembled spring does not complete the collector. Droop, hunting and response time are not simulated.",
+    "Twenty-one datapack collection recipes turn sun-loving plants, bone and glowing drops into refined parts. JEI shows the ingredient, FE per tick, output space and priority. Recipe type: arcana_industry:collection; fields ingredient, count, result, duration, energy_per_tick and optional priority. Bone block salvage returns three bones per two blocks, below the meal cost of re-pressing them, so it cannot multiply bone.",
+    "The first recipe collects two Lunar Essence (from the Noctilucent Condenser) into a Corona Fragment, a part with no other source. The Lens Grinder now needs one Corona Fragment in place of its first sealed steel plate: a bare plate there no longer completes that craft, so the order becomes Heliostat Etcher, Noctilucent Condenser, Corona Collector, Lens Grinder, Astral Relay.",
+    "Corona Ember is the t5 gate output: four glowstone dust collect into one ember over 160 ticks at 16 FE/t (2,560 FE). The Heliostat Etcher needs a Corona Ember in its right-middle slot instead of a second optic powder, so build this collector before the etcher. Automate it by piping glowstone dust from a Witch farm or Nether glowstone harvest into the top face and pulling embers from the bottom.",
+    "Top and horizontal faces import; bottom exports. Each side is configurable in the GUI. Supply 16 FE/t or use the manual crank. Inventory, FE, progress and port modes persist; breaking drops inventory."
+  ]
+}

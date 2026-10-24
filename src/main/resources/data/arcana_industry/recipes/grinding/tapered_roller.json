@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:grinding",
+  "ingredient": {"item": "arcana_industry:tapered_roller"},
+  "count": 2,
+  "result": {"item": "arcana_industry:cylindrical_roller", "count": 1},
+  "duration": 180,
+  "energy_per_tick": 16
+}

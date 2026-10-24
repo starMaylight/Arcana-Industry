@@ -1,0 +1,14 @@
+{
+  "title": "Smoke Rack",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 4",
+  "group": "Heat and firing",
+  "pages": [
+    "Craft the rack controller from a sealed steel plate, oak fences and iron bars. Place it above a lit campfire. Add oak fences on the north, east and west sides, raise the south fence one block above the controller, and place iron bars at all four same-level corners. The open south face accepts an output pipe.",
+    "Right-click the formed controller with four complete batches of an arcana_industry:rack_smoking recipe to load the stock buffer. A lit, formed rack smokes the batch over 40 ticks; empty-hand use collects the finished output. A short batch or full buffer leaves held items untouched. Missing braces, fences or heat pause processing.",
+    "Twenty-one exclusive rack recipes dry and fire common materials. The original ten cover cactus to green dye, clay to brick or terracotta, cobblestone to stone, sand to glass, oak logs to charcoal, wet sponge to sponge, netherrack to nether brick, chorus fruit to popped chorus fruit, and sea pickles to lime dye. Other mods' campfire recipes do not run on the rack.",
+    "Additional batches fire red sand to glass, stone to smooth stone, sandstone to smooth sandstone, red sandstone to smooth red sandstone, basalt to smooth basalt, cobbled deepslate to deepslate, and blackstone to polished blackstone. These offer hand-fed alternatives to furnaces and the Blast Column. Batch yields beat the furnace where nothing can turn the product back: four basalt, blackstone, stone, red sand, oak logs, netherrack, cactus, chorus fruit or sea pickles give five results. Sand, red and plain sandstone, cobblestone, cobbled deepslate, clay, clay balls and wet sponge stay one-to-one, because crushing, milling, quenching, leaching, tumbling, mixing or brick washing could reverse them and multiply items.",
+    "The rack also dries rotten flesh into leather, soul sand into soul soil, and mossy cobblestone into cobblestone. Hoppers or item pipes feed the top stock slot. Every 40 ticks a formed, lit rack processes four complete recipe batches; partial stock waits. The south face defaults to input: sneak-use it once with an empty hand to set output, then extract there with a pipe. Empty-hand use collects buffered output. Sneak-use any face to cycle input, output and disabled. The stock and output survive saves and chunk reloads; breaking the rack pauses processing. It has no FE or fluid port.",
+    "Smoke four white wool blocks on the lit rack into four Creosote Lagging. Smoke from the campfire impregnates the fibre with tar to make a flexible thermal wrap for the coil winding. The treated lagging goes in the bottom-center of the Induction Coiler controller craft; raw wool or old plank slats do not substitute. White wool is available from sheep before this Tier 4 gate."
+  ]
+}

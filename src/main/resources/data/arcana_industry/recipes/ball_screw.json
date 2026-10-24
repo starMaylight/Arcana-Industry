@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "TDT",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:ingots/chromium"
+    },
+    "T": {
+      "item": "arcana_industry:tempered_steel"
+    },
+    "D": {
+      "item": "arcana_industry:drive_shaft"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:ball_screw"
+  }
+}

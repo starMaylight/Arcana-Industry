@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G",
+    "W",
+    "I"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "W": {
+      "item": "arcana_industry:germanium_wafer"
+    },
+    "I": {
+      "tag": "forge:ingots/indium"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:photodiode_blank"
+  }
+}

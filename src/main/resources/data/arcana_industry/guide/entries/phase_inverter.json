@@ -1,0 +1,12 @@
+{
+  "title": "Phase Inverter",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 8",
+  "group": "Phase works",
+  "pages": [
+    "A fifth t9 apparatus. Craft it with a Diffused Phase, four sealed steel plates, two glass panes, a hopper and a Phase Diffuser.",
+    "Feed one item into the left slot. The inverter spends 20 FE/t for 150 ticks and yields a single sealed result in the right slot; like the other t9 units there is no second byproduct channel. Inverting two Diffused Phase yields the Inverted Phase, which replaces the Phase Annealer's last plain sealed steel plate corner.",
+    "Twenty datapack recipes cover blackstone, deepslate, copper oxidation stages and other late-game reprocessing into dense or rarer alternate forms. Inversion obeys the material-trait rule with no field: a product may only carry the traits of count x its input, so a material flips only to a form its own traits explain. Calcite (rigid 1, heavy 1; no crystal strength, so it still cannot fuse into quartz) covers tuff, frogspawn (flexible 2, binding 1, aqueous 1) covers slime, gilded blackstone keeps the volcanic signature with its gold (heavy 2, fiery 1, flexible 1), a raw copper block carries the copper signature into the copper block, two Diffused Phase (luminous 1, resonant 1 each) cover the Inverted Phase, and two lodestones (rigid 2, heavy 3, resonant 1) flip their magnetic field into a compass. Outputs that shed traits, such as an echo shard into sculk veins or oxidized copper, always pass. A datapack row whose product needs other traits, such as a lodestone becoming magma, pauses on status \"unexplained_traits\" without spending FE. JEI displays the result and FE. Recipe type arcana_industry:inversion accepts ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; equal priority uses recipe ID.",
+    "Top and horizontal sides import; bottom exports the result. Side mode buttons configure each face. Supply FE by capability or manual crank. The machine pauses if the output slot is full; inventory, FE, work progress and side modes persist. Breaking it drops both slots. The Phase Annealer now requires one Inverted Phase instead of its last plain sealed steel plate, fully converging all five t9 lines."
+  ]
+}

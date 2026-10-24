@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": {
+    "item": "minecraft:magma_cream"
+  },
+  "count": 4,
+  "lumen_cost": 140,
+  "result": {
+    "item": "minecraft:blaze_powder",
+    "count": 2
+  }
+}

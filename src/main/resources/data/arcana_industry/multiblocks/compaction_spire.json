@@ -1,0 +1,249 @@
+{
+  "id": "arcana_industry:compaction_spire",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/CompactionSpireBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:obsidian"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 0,
+      "block": "minecraft:redstone_block"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": 2,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 0,
+      "up": 0,
+      "forward": -2,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": -1,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:iron_block"
+    },
+    {
+      "right": 1,
+      "up": 2,
+      "forward": 0,
+      "block": "minecraft:piston"
+    },
+    {
+      "right": -1,
+      "up": 2,
+      "forward": 0,
+      "block": "minecraft:piston"
+    },
+    {
+      "right": 0,
+      "up": 2,
+      "forward": 1,
+      "block": "minecraft:piston"
+    },
+    {
+      "right": 0,
+      "up": 2,
+      "forward": -1,
+      "block": "minecraft:piston"
+    },
+    {
+      "right": 0,
+      "up": 3,
+      "forward": 0,
+      "block": "minecraft:iron_block"
+    }
+  ],
+  "layers": [
+    {
+      "up": 3,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:iron_block",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 2,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:piston",
+          "."
+        ],
+        [
+          "minecraft:piston",
+          ".",
+          "minecraft:piston"
+        ],
+        [
+          ".",
+          "minecraft:piston",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:iron_block",
+          ".",
+          "minecraft:iron_block"
+        ],
+        [
+          ".",
+          "minecraft:redstone_block",
+          "."
+        ],
+        [
+          "minecraft:iron_block",
+          ".",
+          "minecraft:iron_block"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:copper_block",
+          "[controller]",
+          "minecraft:copper_block"
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:copper_block",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "minecraft:obsidian",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

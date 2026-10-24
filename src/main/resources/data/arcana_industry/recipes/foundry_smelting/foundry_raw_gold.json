@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:foundry_smelting",
+  "ingredient": {
+    "item": "minecraft:raw_gold"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 5
+  }
+}

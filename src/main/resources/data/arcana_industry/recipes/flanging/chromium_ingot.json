@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flanging",
+  "ingredient": {
+    "tag": "forge:ingots/chromium"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:iron_trapdoor",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PZP",
+    "CGC",
+    "PCP"
+  ],
+  "key": {
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "Z": {
+      "tag": "forge:ingots/zinc"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:ore_sluice"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "items": [
+    "minecraft:water_bucket"
+  ],
+  "traits": {
+    "arcana_industry:aqueous": 3
+  }
+}

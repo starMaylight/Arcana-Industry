@@ -1,0 +1,12 @@
+{
+  "title": "Rust Crawler",
+  "category": "arcana_industry:bestiary",
+  "chapter": "All tiers",
+  "group": "Industrial hazards",
+  "pages": [
+    "Rust Crawlers roam dark plains and forests. Their corroded shell and copper-striped legs distinguish them from common spiders. They are hostile and climb walls; their bite slows movement for four seconds. Keep a lit route around early workshops.",
+    "Defeating a Rust Crawler yields iron grit. Smelt or blast the grit into an iron nugget, or process it in the leaching vat for further recovery. The drop is guaranteed so hunting the crawler provides a useful, renewable material route.",
+    "If a Static Creeper's blast kills a Rust Crawler, the crawler also drops the Corroded Waltz music disc. Swamps often border the plains and forests where crawlers roam: lead a Static Creeper to a crawler at the swamp edge and step back before it bursts. Arrows, fire and your own weapons do not count. The disc plays in any jukebox and outputs comparator strength 10, one above the Lattice Hymn, so a comparator can tell the two apart.",
+    "Rare trophy: when a player lands the killing blow, a Rust Crawler sometimes also drops a Corroded Mandible (35% base, +10% per Looting level). The mandible is found only on this mob. Crush it in the Crusher for three iron grit, more than the crawler's guaranteed drop, so a looting weapon makes crawler hunting an efficient early iron route."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Vanadium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 1",
+  "group": "Alloying and refractory metals",
+  "pages": [
+    "Vanadium Ore and Deepslate Vanadium Ore generate in the Overworld between Y -32 and 48 (veins of size 4, up to three veins per chunk column), closer to the surface than Molybdenum or Titanium. An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Vanadium and Fortune can increase the yield. Required industrial use: swage press. Its craft consumes this ingot; compatible forge:ingots/vanadium inputs are accepted.",
+    "Raw Vanadium cannot be reduced in a furnace or blast furnace. The Crusher turns one Raw Vanadium into two Vanadium Grit in 200 ticks at 6 energy per tick. Craft two Vanadium Grit with one Aluminum Grit into two Vanadium Thermite Charges (the aluminum is the reductant). Fire each charge in the Fuel-fired Kiln at full 1000 heat for 160 ticks for one Vanadium Ingot. Automate by feeding charges into the Kiln top face with a hopper, fuel through the side faces, and extract ingots from the bottom face.",
+    "Vanadium uses forge:ores/vanadium, forge:raw_materials/vanadium and forge:ingots/vanadium tags. Datapacks can add matching recipes. Vanadium Ingots are stored for later apparatus and material progression. The powered Lattice Scriber also scribes 2 forge:ingots/vanadium into a grindstone in 160 ticks at 22 FE/t; grindstone recyclers return only sticks or stone slabs, never vanadium."
+  ]
+}

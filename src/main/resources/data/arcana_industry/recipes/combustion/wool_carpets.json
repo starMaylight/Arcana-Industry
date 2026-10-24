@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "tag": "minecraft:wool_carpets"
+  },
+  "count": 4,
+  "residue": {
+    "item": "minecraft:gray_dye",
+    "count": 1
+  },
+  "burn_time": 268,
+  "energy_per_tick": 8,
+  "priority": 0
+}

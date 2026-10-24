@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:milling",
+  "ingredient": {
+    "item": "minecraft:glass_pane"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:optic_powder",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:magnetization",
+  "ingredient": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:minecart",
+    "count": 1
+  }
+}

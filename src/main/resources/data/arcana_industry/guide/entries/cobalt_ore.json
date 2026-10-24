@@ -1,0 +1,11 @@
+{
+  "title": "Cobalt Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 3",
+  "group": "Alloying and refractory metals",
+  "pages": [
+    "Cobalt Ore and Deepslate Cobalt Ore generate in the Overworld between Y -64 and -16, a deep and scarce band (veins of size 4, up to two veins per chunk column). A diamond pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Cobalt and Fortune can increase the yield. Required industrial use: polarity inverter. Its craft consumes this ingot; compatible forge:ingots/cobalt inputs are accepted.",
+    "Smelt or blast Raw Cobalt into Cobalt Ingots. The Crusher processes one Raw Cobalt into two Cobalt Grit, each of which can be smelted or blasted into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability; furnace or blast furnace automation handles the grit.",
+    "Cobalt uses forge:ores/cobalt, forge:raw_materials/cobalt and forge:ingots/cobalt tags. Datapacks can add matching recipes. Cobalt Ingots are stored for later apparatus and material progression. A Lattice Welder joins 2 tagged cobalt ingots into a pair of hard-edged shears in 160 ticks at 22 FE/t; feed the top or side ports and extract below."
+  ]
+}

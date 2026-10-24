@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:degaussing",
+  "ingredient": {
+    "item": "minecraft:fletching_table"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:flint",
+    "count": 1
+  }
+}

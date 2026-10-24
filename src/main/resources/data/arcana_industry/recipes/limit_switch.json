@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "CRC",
+    "PPP"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lever"
+    },
+    "C": {
+      "tag": "forge:ingots/copper"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:limit_switch",
+    "count": 2
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "arcana_industry:twin_channel_washer",
+  "source": "src/main/java/com/starmaylight/arcana_industry/machine/TwinChannelWasherBlock.java",
+  "orientation": "fixed_facing_north",
+  "parts": [
+    {
+      "right": 0,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": 1,
+      "block": "minecraft:water[source]"
+    },
+    {
+      "right": 0,
+      "up": 1,
+      "forward": -1,
+      "block": "minecraft:water[source]"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:copper_block"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": -1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": -1,
+      "up": 0,
+      "forward": 1,
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "right": 2,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": -2,
+      "up": -1,
+      "forward": 0,
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "right": 2,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:hopper"
+    },
+    {
+      "right": -2,
+      "up": 0,
+      "forward": 0,
+      "block": "minecraft:hopper"
+    }
+  ],
+  "layers": [
+    {
+      "up": 1,
+      "grid": [
+        [
+          ".",
+          ".",
+          "minecraft:water[source]",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          "minecraft:water[source]",
+          ".",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": 0,
+      "grid": [
+        [
+          ".",
+          "minecraft:iron_bars",
+          ".",
+          "minecraft:iron_bars",
+          "."
+        ],
+        [
+          "minecraft:hopper",
+          "minecraft:copper_block",
+          "[controller]",
+          "minecraft:copper_block",
+          "minecraft:hopper"
+        ],
+        [
+          ".",
+          "minecraft:iron_bars",
+          ".",
+          "minecraft:iron_bars",
+          "."
+        ]
+      ]
+    },
+    {
+      "up": -1,
+      "grid": [
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "minecraft:stone_bricks",
+          ".",
+          "minecraft:stone_bricks",
+          ".",
+          "minecraft:stone_bricks"
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "."
+        ]
+      ]
+    }
+  ]
+}

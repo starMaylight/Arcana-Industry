@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TQP",
+    "GCE",
+    "DRM"
+  ],
+  "key": {
+    "Q": {
+      "item": "arcana_industry:attuned_quartz"
+    },
+    "G": {
+      "item": "arcana_industry:optic_powder"
+    },
+    "C": {
+      "item": "arcana_industry:heliograph_plate"
+    },
+    "R": {
+      "item": "arcana_industry:resonance_infuser"
+    },
+    "T": {
+      "item": "arcana_industry:solar_tempered_plate"
+    },
+    "D": {
+      "item": "arcana_industry:dawn_emblem"
+    },
+    "M": {
+      "item": "arcana_industry:silvered_mirror"
+    },
+    "E": {
+      "item": "arcana_industry:corona_ember"
+    },
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:heliostat_etcher"
+  }
+}

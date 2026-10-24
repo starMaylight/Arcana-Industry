@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:tumbling",
+  "ingredient": {
+    "item": "minecraft:calcite"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

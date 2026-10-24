@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:flux_rectification",
+  "ingredient": {
+    "item": "minecraft:powered_rail"
+  },
+  "count": 6,
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 8
+  }
+}

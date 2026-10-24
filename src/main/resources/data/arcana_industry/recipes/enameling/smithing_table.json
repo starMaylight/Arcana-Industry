@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "count": 4,
+  "reagent": {
+    "tag": "forge:ingots/hafnium"
+  },
+  "result": {
+    "item": "minecraft:smithing_table"
+  }
+}

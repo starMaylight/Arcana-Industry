@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:pressing",
+  "ingredient": {"item": "arcana_industry:tool_steel_stock"},
+  "count": 1,
+  "result": {"item": "arcana_industry:tab_lock_washer", "count": 4},
+  "duration": 120,
+  "energy_per_tick": 8
+}

@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "minecraft:redstone_lamp"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:glowstone"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

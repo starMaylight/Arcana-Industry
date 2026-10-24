@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "item": "arcana_industry:bearing_steel_stock"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:tapered_roller_blank",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "arcana_industry:brine_ward"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 2,
+    "arcana_industry:aqueous": 1
+  }
+}

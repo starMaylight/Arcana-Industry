@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "arcana_industry:deep_groove_ball_bearing"},
+    {"item": "arcana_industry:dry_lube_compound"}
+  ],
+  "result": {"item": "arcana_industry:filled_dry_lube_bearing"}
+}

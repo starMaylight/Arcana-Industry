@@ -1,0 +1,11 @@
+{
+  "title": "Ruthenium Ore",
+  "category": "arcana_industry:ores",
+  "chapter": "Tier 4",
+  "group": "Precious and platinum-group metals",
+  "pages": [
+    "Ruthenium Ore and Deepslate Ruthenium Ore generate deep in the Overworld between Y -64 and 24 (veins of size 6, at most one vein per chunk column). An iron pickaxe or better is required. Silk Touch keeps the block; ordinary mining drops Raw Ruthenium and Fortune can increase the yield. Required industrial use: lattice engraver. Its craft consumes this ingot; compatible forge:ingots/ruthenium inputs are accepted.",
+    "Smelt or blast Raw Ruthenium into Ruthenium Ingots. The Crusher processes one Raw Ruthenium into two Ruthenium Grit in 200 ticks at 6 energy per tick; each grit smelts or blasts into an ingot. Feed the Crusher through an input face and extract its output with a hopper or item capability, then automate a furnace or blast furnace.",
+    "Ruthenium uses forge:ores/ruthenium, forge:raw_materials/ruthenium and forge:ingots/ruthenium tags. Datapacks can add matching recipes. Under open daylight, the Heliostat Etcher turns two tagged Ruthenium Ingots into an observer in 120 ticks at 16 FE/t; feed from above or a configured side and extract below. Like Palladium, Ruthenium is limited to one vein per chunk, so the two-grit Crusher route is worth the extra 1,200 energy per raw ore to avoid wasting a scarce find."
+  ]
+}

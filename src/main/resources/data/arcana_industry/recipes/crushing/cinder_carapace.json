@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:crushing",
+  "ingredient": {
+    "item": "arcana_industry:cinder_carapace"
+  },
+  "result": {
+    "item": "arcana_industry:copper_grit",
+    "count": 3
+  },
+  "duration": 140,
+  "energy_per_tick": 4
+}

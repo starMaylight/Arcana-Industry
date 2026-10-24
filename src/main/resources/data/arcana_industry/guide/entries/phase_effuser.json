@@ -1,0 +1,12 @@
+{
+  "title": "Phase Effuser",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 9",
+  "group": "Phase works",
+  "pages": [
+    "A ninth t9 apparatus. Craft it with a Preserved Phase, four sealed steel plates, two glass panes, a hopper and a Phase Preserver.",
+    "Feed one item into the left slot. The effuser spends 20 FE/t for 150 ticks and yields a single sealed result in the right slot; like the other t9 units there is no second byproduct channel. Effusing two Preserved Phase yields the Effused Phase, which the Phase Conflux converges in pairs.",
+    "Twenty datapack recipes recover dye pigments from small flowers (dandelion, poppy, blue orchid, allium, azure bluet, the four tulip colors, oxeye daisy, cornflower, lily of the valley) and from double-high or bush-form blooms (sunflower, lilac, rose bush, peony, torchflower, pink petals). Flowering azalea yields one green dye from its foliage. Effusion obeys the material-trait rule with no field: a product may only carry the traits of count x its input. Every listed bloom holds pigment 2, exactly what its dye carries, and two Preserved Phase (luminous 1, resonant 1 each) cover the Effused Phase. A datapack row whose product needs other traits, such as a poppy turning into glowstone dust, pauses on status \"unexplained_traits\" without spending FE. JEI displays the result and FE. Recipe type arcana_industry:effusion accepts ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; equal priority uses recipe ID.",
+    "Top and horizontal sides import; bottom exports the result. Side mode buttons configure each face. Supply FE by capability or manual crank. The machine pauses if the output slot is full; inventory, FE, work progress and side modes persist. Breaking it drops both slots."
+  ]
+}

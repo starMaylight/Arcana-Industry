@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:refraction",
+  "ingredient": {
+    "item": "minecraft:quartz_bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:quartz",
+    "count": 3
+  },
+  "duration": 140,
+  "energy_per_tick": 24
+}

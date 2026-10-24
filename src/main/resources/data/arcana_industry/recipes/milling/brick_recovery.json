@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:milling",
+  "ingredient": {
+    "item": "minecraft:bricks"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:brick",
+    "count": 4
+  }
+}

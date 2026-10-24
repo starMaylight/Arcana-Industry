@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "minecraft:beef"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:cooked_beef",
+    "count": 5
+  },
+  "duration": 300,
+  "temperature": 300
+}

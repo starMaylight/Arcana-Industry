@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "arcana_industry:cobalt_ore",
+    "arcana_industry:deepslate_cobalt_ore",
+    "arcana_industry:platinum_ore",
+    "arcana_industry:deepslate_platinum_ore",
+    "arcana_industry:iridium_ore",
+    "arcana_industry:deepslate_iridium_ore",
+    "arcana_industry:tungsten_ore",
+    "arcana_industry:deepslate_tungsten_ore"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:grinding",
+  "ingredient": {
+    "item": "minecraft:prismarine_bricks"
+  },
+  "count": 4,
+  "result": {
+    "item": "minecraft:prismarine",
+    "count": 2
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:kelp"
+  ],
+  "traits": {
+    "arcana_industry:flexible": 1,
+    "arcana_industry:binding": 1
+  }
+}

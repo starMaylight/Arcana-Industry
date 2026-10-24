@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:iron_nugget"
+  },
+  "count": 4,
+  "reagent": {
+    "tag": "forge:ingots/vanadium"
+  },
+  "result": {
+    "item": "minecraft:chain",
+    "count": 2
+  }
+}

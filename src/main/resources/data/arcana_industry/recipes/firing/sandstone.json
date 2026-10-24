@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:firing",
+  "ingredient": {
+    "item": "minecraft:sandstone"
+  },
+  "result": {
+    "item": "minecraft:smooth_sandstone",
+    "count": 1
+  },
+  "duration": 120,
+  "temperature": 600
+}

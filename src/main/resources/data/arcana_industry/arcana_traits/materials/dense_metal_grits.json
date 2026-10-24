@@ -1,0 +1,36 @@
+{
+  "items": [
+    "arcana_industry:antimony_grit",
+    "arcana_industry:bismuth_grit",
+    "arcana_industry:chromium_grit",
+    "arcana_industry:cobalt_grit",
+    "arcana_industry:gallium_grit",
+    "arcana_industry:germanium_grit",
+    "arcana_industry:hafnium_grit",
+    "arcana_industry:indium_grit",
+    "arcana_industry:iridium_grit",
+    "arcana_industry:lead_grit",
+    "arcana_industry:manganese_grit",
+    "arcana_industry:molybdenum_grit",
+    "arcana_industry:nickel_grit",
+    "arcana_industry:niobium_grit",
+    "arcana_industry:osmium_grit",
+    "arcana_industry:palladium_grit",
+    "arcana_industry:platinum_grit",
+    "arcana_industry:rhenium_grit",
+    "arcana_industry:rhodium_grit",
+    "arcana_industry:ruthenium_grit",
+    "arcana_industry:silver_grit",
+    "arcana_industry:tantalum_grit",
+    "arcana_industry:thallium_grit",
+    "arcana_industry:tin_grit",
+    "arcana_industry:tungsten_grit",
+    "arcana_industry:vanadium_grit",
+    "arcana_industry:zinc_grit",
+    "arcana_industry:zirconium_grit"
+  ],
+  "traits": {
+    "arcana_industry:rigid": 1,
+    "arcana_industry:heavy": 1
+  }
+}

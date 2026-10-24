@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "RNR",
+    "RAR"
+  ],
+  "key": {
+    "A": {
+      "item": "arcana_industry:ground_tapered_race"
+    },
+    "R": {
+      "item": "arcana_industry:tapered_roller"
+    },
+    "N": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:tapered_roller_bearing"
+  }
+}

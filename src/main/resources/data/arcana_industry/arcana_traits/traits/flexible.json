@@ -1,0 +1,7 @@
+{
+  "description": "Bends without breaking.",
+  "opposes": [
+    "arcana_industry:rigid",
+    "arcana_industry:crystalline"
+  ]
+}

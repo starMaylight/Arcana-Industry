@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/gold"
+  },
+  "count": 8,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 4,
+  "result": {
+    "item": "minecraft:bell"
+  }
+}

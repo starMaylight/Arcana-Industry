@@ -1,0 +1,7 @@
+{
+  "type": "arcana_industry:lumen_rite",
+  "ingredient": { "item": "arcana_industry:prism_core" },
+  "count": 2,
+  "lumen_cost": 320,
+  "result": { "item": "arcana_industry:core_halo", "count": 1 }
+}

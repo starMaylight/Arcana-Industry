@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:milling",
+  "ingredient": {
+    "item": "minecraft:purpur_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:popped_chorus_fruit",
+    "count": 1
+  }
+}

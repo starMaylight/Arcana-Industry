@@ -1,0 +1,12 @@
+{
+  "title": "Resonant Cultivator",
+  "category": "arcana_industry:multiblocks",
+  "chapter": "Tier 3",
+  "group": "Washing and chemistry",
+  "pages": [
+    "Craft the Resonant Cultivator with gold, amethyst shards, moss and two Signal Matrices from the Signal Imprinter. It grows the Verdant Resonator needed by the Verdant Distiller before the Electrolyzer.",
+    "Place moss below the controller and a sculk sensor two blocks above, leaving the top face open. Place amethyst north and two blocks south, leaving the south face open, and copper east and west. Right-click while holding a full batch to load exactly one batch; it grows over 40 ticks, and an empty-hand right-click collects the product. While a batch is loaded, further hand feeding is refused and consumes nothing. Missing or swapped arms prevent processing.",
+    "Twenty botanical batches grow eight tree woods, azalea wood, Nether stems, mushroom blocks and useful crops from propagules. Costs preserve a material tradeoff for fast, compact production: nine melon seeds grow one melon, so engraving it back into nine slices and seeds never multiplies melons. Eight carrots convert to eight potatoes or eight potatoes to eight carrots, offering a seedless crop exchange without a self-gain. The final recipe fuses two Signal Matrices into a Verdant Resonator reserved for the next apparatus.",
+    "For automation, feed full batches through a hopper or Forge item pipe on the open top face. Sneak-right-click the open south face with an empty hand once to set output, then extract there with a hopper or pipe. One input stack and one output stack are buffered; each batch takes 40 ticks while formed and pauses if a required part breaks. Another sneak-right-click disables the face, and empty-hand use collects buffered output. No FE or fluids are required. JEI shows loaded Resonant Cultivation batches and this controller catalyst. Datapacks may add recipes; matching ties resolve by resource ID."
+  ]
+}

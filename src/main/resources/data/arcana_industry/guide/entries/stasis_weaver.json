@@ -1,0 +1,13 @@
+{
+  "title": "Stasis Weaver",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 8",
+  "group": "Lattice works",
+  "pages": [
+    "Craft a Stasis Weaver with a Prism Core, Collimated Lens, Etched Prism from a Lattice Engraver, sealed steel plates, glass panes and a hopper. This t8 apparatus precedes the Containment Forge.",
+    "Feed an item into the left slot and supply 20 FE/t for 80 ticks (120 for a Phase Lattice). A Phase Lattice yields a Stasis Core, needed in the bottom-right Containment Forge craft corner.",
+    "Nineteen other stasis weaving recipes compact distinct materials into usable blocks or components. Five gunpowder weave into one TNT, the same five an Ash Bellows recovers, so the pair never gains powder. JEI lists input counts, output, work time, FE and priority. Datapacks use arcana_industry:stasis_weaving; higher priority wins, then recipe ID.",
+    "Stasis compacts, it never invents: the product's material traits must fit inside the combined traits of the consumed inputs (count x input). Four glowstone dust (luminous 2 each) hold the glow of a glowstone block, and four nautilus shells add up to the sea power of a heart of the sea. A datapack row that would add a trait, such as packing untraited snowballs into a fiery magma block, halts with \"Product traits not in input or field\" before spending FE and keeps its input.",
+    "Top and horizontal faces import; bottom exports. Configure faces through menu buttons. FE capability or crank charges the machine. Work pauses on a full output slot; inventory, FE, work and side modes persist. Breaking the block drops its slots."
+  ]
+}

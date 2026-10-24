@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:brick"
+  },
+  "count": 4,
+  "reagent": {
+    "tag": "forge:ingots/zirconium"
+  },
+  "result": {
+    "item": "minecraft:cauldron"
+  }
+}

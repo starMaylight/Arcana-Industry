@@ -1,0 +1,6 @@
+{
+  "description": "Swallows light.",
+  "opposes": [
+    "arcana_industry:luminous"
+  ]
+}

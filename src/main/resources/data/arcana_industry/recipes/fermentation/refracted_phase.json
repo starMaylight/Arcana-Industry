@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:fermentation",
+  "ingredient": {
+    "item": "arcana_industry:refracted_phase"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:ripened_phase",
+    "count": 1
+  },
+  "duration": 240,
+  "energy_per_tick": 36
+}

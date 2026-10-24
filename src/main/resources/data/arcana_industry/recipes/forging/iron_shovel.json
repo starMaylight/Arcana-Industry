@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:forging",
+  "ingredient": {
+    "tag": "forge:ingots/tantalum"
+  },
+  "count": 2,
+  "fuel": {
+    "tag": "minecraft:coals"
+  },
+  "fuel_count": 1,
+  "result": {
+    "item": "minecraft:iron_shovel"
+  }
+}

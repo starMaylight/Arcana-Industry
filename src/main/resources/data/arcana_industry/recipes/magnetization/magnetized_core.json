@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:magnetization",
+  "ingredient": {
+    "item": "arcana_industry:wound_coil"
+  },
+  "count": 3,
+  "result": {
+    "item": "arcana_industry:magnetized_core",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:string"
+  ],
+  "traits": {
+    "arcana_industry:woven": 1,
+    "arcana_industry:flexible": 2
+  }
+}

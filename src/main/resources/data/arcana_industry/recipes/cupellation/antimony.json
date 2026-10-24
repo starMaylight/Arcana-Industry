@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:cupellation",
+  "ingredient": {
+    "tag": "forge:raw_materials/antimony"
+  },
+  "count": 3,
+  "levels": 2,
+  "result": {
+    "item": "arcana_industry:antimony_ingot",
+    "count": 2
+  },
+  "byproduct": {
+    "item": "minecraft:gold_ingot"
+  }
+}

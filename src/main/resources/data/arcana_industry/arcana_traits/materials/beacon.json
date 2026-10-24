@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:beacon"
+  ],
+  "traits": {
+    "arcana_industry:luminous": 5,
+    "arcana_industry:crystalline": 3,
+    "arcana_industry:heavy": 1
+  }
+}

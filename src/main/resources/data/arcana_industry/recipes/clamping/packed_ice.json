@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:clamping",
+  "ingredient": {
+    "item": "minecraft:ice"
+  },
+  "count": 9,
+  "result": {
+    "item": "minecraft:packed_ice",
+    "count": 1
+  }
+}

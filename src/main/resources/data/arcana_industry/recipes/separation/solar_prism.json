@@ -1,0 +1,17 @@
+{
+  "type": "arcana_industry:separation",
+  "ingredient": {
+    "item": "arcana_industry:solar_prism"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:prism_core",
+    "count": 1
+  },
+  "byproduct": {
+    "item": "minecraft:quartz",
+    "count": 2
+  },
+  "duration": 140,
+  "energy_per_tick": 20
+}

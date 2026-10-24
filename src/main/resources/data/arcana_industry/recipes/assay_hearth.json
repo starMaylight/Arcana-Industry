@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BSB",
+    "GFG",
+    "PLP"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone_block"
+    },
+    "S": {
+      "item": "arcana_industry:solar_tempered_plate"
+    },
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "F": {
+      "item": "arcana_industry:assay_crucible"
+    },
+    "P": {
+      "item": "arcana_industry:sealed_steel_plate"
+    },
+    "L": {
+      "item": "arcana_industry:cupel_tongs"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:assay_hearth"
+  }
+}

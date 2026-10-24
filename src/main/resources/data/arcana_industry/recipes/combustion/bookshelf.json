@@ -1,0 +1,14 @@
+{
+  "type": "arcana_industry:combustion",
+  "ingredient": {
+    "item": "minecraft:bookshelf"
+  },
+  "count": 1,
+  "residue": {
+    "item": "minecraft:gray_dye",
+    "count": 1
+  },
+  "burn_time": 300,
+  "energy_per_tick": 12,
+  "priority": 0
+}

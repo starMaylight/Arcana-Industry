@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PLP", "SOS", "PGP"],
+  "key": {
+    "P": {"item": "arcana_industry:sealed_steel_plate"},
+    "L": {"item": "arcana_industry:tool_steel_stock"},
+    "S": {"item": "minecraft:sticky_piston"},
+    "O": {"item": "arcana_industry:lubricating_oil"},
+    "G": {"item": "arcana_industry:pressure_gasket"}
+  },
+  "result": {"item": "arcana_industry:hydraulic_cylinder"}
+}

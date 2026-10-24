@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:milling",
+  "ingredient": {
+    "item": "minecraft:dripstone_block"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:pointed_dripstone",
+    "count": 4
+  }
+}

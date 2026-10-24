@@ -1,0 +1,8 @@
+{
+  "type": "arcana_industry:lattice_lamination",
+  "ingredient": { "tag": "forge:ingots/hafnium" },
+  "count": 3,
+  "result": { "item": "minecraft:shield", "count": 1 },
+  "duration": 160,
+  "energy_per_tick": 24
+}

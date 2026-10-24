@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:clinkering",
+  "ingredient": {
+    "item": "minecraft:polished_andesite"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:gravel",
+    "count": 1
+  },
+  "duration": 105,
+  "energy_per_tick": 13
+}

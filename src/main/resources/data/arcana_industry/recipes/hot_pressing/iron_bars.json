@@ -1,0 +1,13 @@
+{
+    "type":  "arcana_industry:hot_pressing",
+    "ingredient":  {
+                       "item":  "minecraft:iron_bars"
+                   },
+    "count":  2,
+    "result":  {
+                   "item":  "minecraft:chain",
+                   "count":  1
+               },
+    "duration":  100,
+    "energy_per_tick":  8
+}

@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:tumbling",
+  "ingredient": {
+    "item": "minecraft:deepslate"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:polished_deepslate",
+    "count": 1
+  },
+  "duration": 180,
+  "energy_per_tick": 28
+}

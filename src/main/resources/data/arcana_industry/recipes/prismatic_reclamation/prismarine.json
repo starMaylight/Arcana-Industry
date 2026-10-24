@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:prismatic_reclamation",
+  "ingredient": {
+    "item": "minecraft:prismarine_slab"
+  },
+  "count": 8,
+  "result": {
+    "item": "minecraft:prismarine",
+    "count": 4
+  }
+}

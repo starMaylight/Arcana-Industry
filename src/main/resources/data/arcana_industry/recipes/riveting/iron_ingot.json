@@ -1,0 +1,11 @@
+{
+  "type": "arcana_industry:riveting",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "count": 4,
+  "result": {
+    "item": "arcana_industry:riveted_brace",
+    "count": 1
+  }
+}

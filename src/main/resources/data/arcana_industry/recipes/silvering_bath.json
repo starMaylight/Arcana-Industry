@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SQS",
+    "GCB",
+    "TPT"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:ingots/silver"
+    },
+    "Q": {
+      "item": "arcana_industry:attuned_quartz"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "B": {
+      "item": "arcana_industry:bourdon_pressure_gauge"
+    },
+    "C": {
+      "item": "arcana_industry:bath_circulation_pump"
+    },
+    "P": {
+      "item": "arcana_industry:stainless_vessel_stock"
+    },
+    "T": {
+      "item": "arcana_industry:drawn_copper_tube"
+    }
+  },
+  "result": {
+    "item": "arcana_industry:silvering_bath"
+  }
+}

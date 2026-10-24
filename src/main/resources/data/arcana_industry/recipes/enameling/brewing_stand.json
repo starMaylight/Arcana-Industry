@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:enameling",
+  "ingredient": {
+    "item": "minecraft:blaze_rod"
+  },
+  "count": 1,
+  "reagent": {
+    "tag": "forge:ingots/antimony"
+  },
+  "result": {
+    "item": "minecraft:brewing_stand"
+  }
+}

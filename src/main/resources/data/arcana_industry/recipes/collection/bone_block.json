@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:collection",
+  "ingredient": {
+    "item": "minecraft:bone_block"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:bone",
+    "count": 3
+  },
+  "duration": 120,
+  "energy_per_tick": 16
+}

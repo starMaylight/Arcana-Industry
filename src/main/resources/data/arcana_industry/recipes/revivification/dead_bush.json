@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:revivification",
+  "ingredient": {
+    "item": "minecraft:dead_bush"
+  },
+  "count": 1,
+  "result": {
+    "item": "minecraft:fern",
+    "count": 1
+  },
+  "duration": 100,
+  "energy_per_tick": 16
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" C ", "BOB", " C "],
+  "key": {
+    "C": {"tag": "forge:ingots/copper"},
+    "B": {"item": "arcana_industry:sintered_bronze_bushing"},
+    "O": {"item": "arcana_industry:lubricating_oil"}
+  },
+  "result": {"item": "arcana_industry:hydrodynamic_journal_bearing"}
+}

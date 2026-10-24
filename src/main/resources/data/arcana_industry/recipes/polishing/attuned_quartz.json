@@ -1,0 +1,12 @@
+{
+  "type": "arcana_industry:polishing",
+  "ingredient": {
+    "item": "arcana_industry:attuned_quartz"
+  },
+  "count": 1,
+  "result": {
+    "item": "arcana_industry:polished_prism_facet"
+  },
+  "duration": 180,
+  "energy_per_tick": 24
+}

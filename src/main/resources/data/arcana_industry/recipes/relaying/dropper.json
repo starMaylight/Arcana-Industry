@@ -1,0 +1,13 @@
+{
+  "type": "arcana_industry:relaying",
+  "ingredient": {
+    "item": "minecraft:dropper"
+  },
+  "count": 2,
+  "result": {
+    "item": "minecraft:dispenser",
+    "count": 1
+  },
+  "duration": 120,
+  "energy_per_tick": 20
+}

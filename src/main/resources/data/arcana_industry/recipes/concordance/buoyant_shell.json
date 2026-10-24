@@ -1,0 +1,15 @@
+{
+  "type": "arcana_industry:concordance",
+  "base": {
+    "item": "arcana_industry:sealed_steel_plate"
+  },
+  "base_count": 1,
+  "reagent": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "reagent_count": 2,
+  "result": {
+    "item": "minecraft:shulker_shell"
+  },
+  "stability": 5
+}

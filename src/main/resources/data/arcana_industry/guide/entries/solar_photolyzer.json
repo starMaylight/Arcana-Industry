@@ -1,0 +1,12 @@
+{
+  "title": "Solar Photolyzer",
+  "category": "arcana_industry:industry",
+  "chapter": "Tier 5",
+  "group": "Solar and optics",
+  "pages": [
+    "Craft from sealed steel plates, Attuned Quartz, glass panes, a smithing table and a Resonance Infuser. This t6 FE apparatus recovers part of the ingredients locked in crafted utility blocks. Material update: crafting slot 4 (row-major 3x3) now requires a palladium ingot via forge:ingots/palladium; all existing progression gates remain required.",
+    "Twenty datapack photolysis recipes are exclusive to this machine. Fifteen reclaim portions of wood, iron, string or stone from different utility blocks. Four return the distinctive part of a block and burn away its wood: jukebox to a diamond, note block to redstone, cartography table to two paper and fletching table to two flint. No recipe yields more than ordinary crafting consumed. The twentieth processes a Sealed Steel Plate into Solar Foil, required at the Corona Collector upper-left corner.",
+    "Import from top and horizontal faces; export below. Set side Off/In/Out modes in the menu. Supply 20 FE/t or crank manually. Work takes 160 ticks and pauses when the output is full. Inventory, energy, progress and modes persist.",
+    "Datapacks add arcana_industry:photolysis recipes with ingredient, count, result, duration, energy_per_tick and optional priority. Higher priority wins; ID breaks ties. JEI shows the recipes and Photolyzer catalyst."
+  ]
+}
