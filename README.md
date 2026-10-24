@@ -1,7 +1,7 @@
 # Arcana Industry
 
 Minecraft 1.20.1 / Forge 47.4.10 / Java 17 向けの工業・魔術MOD。
-JEIは任意です。配布用JARにForgeやJEIは同梱していません。
+JEIは任意です。
 
 ## ビルド
 Java 17とGradle 8.8を用意し、リポジトリ直下で実行します。
